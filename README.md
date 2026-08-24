@@ -1,2 +1,2 @@
 # LOLA
-Repository for my Local & Landscape Drivers of Bird Benefit Diversity chapter.
+Repository for Siena's Local & Landscape Drivers of Bird Benefit Diversity chapter.
