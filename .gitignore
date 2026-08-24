@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Other stuff to ignore
+00_site-selection
+01_rawdata
+04_shapefiles
+05_fieldmap
+
+.DS_Store
