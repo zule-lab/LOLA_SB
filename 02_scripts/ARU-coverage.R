@@ -14,8 +14,26 @@ library(lubridate)
 # Temporarily change working directory to hard drive where acoustic data is kept
 setwd("H:\\acoustic-data\\2026\\MTL")
 
-file_list <- list.files(path = "D1CCPL-1\\sd-1\\Data2", full.names = TRUE)
-file_list
+# Test out for one folder
+recording_dates <- list.files(path = "D1CCPL-1\\sd-1\\Data2", full.names = TRUE) %>% 
+  sub(".*?_","", .) %>% sub("_.*","", .) 
+recording_dates
+n_recs_per_day <- recording_dates %>% table() %>% as.data.frame()
+names(n_recs_per_day) <- c("date","n_recs")
+n_recs_per_day
+
+# Make a list of the bird ARU IDs
+all.arus <- list.files()
+is.bird.aru <- str_ends(all.arus,"2")
+bird.arus <- all.arus[is.bird.aru]
+bird.arus
+
+for(i in 1:length(bird.arus)){
+  
+  
+  print(bird.arus[i])
+}
+
 
 
 
@@ -27,6 +45,7 @@ exfile <- read.table("D1CCPL-1\\sd-1\\D1CCPL-1_Summary.txt", header=TRUE)
 # Check out structure
 str(exfile)
 names(exfile)
+
 
 # The file doesn't separate neatly into columns/rows 
 # because of commas within the column names
