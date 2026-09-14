@@ -30,4 +30,12 @@ for /R D:\blier_aru_S2025\recordings_2025\DOUG-1 %f in (*.wav) do Echo ren “%f
 for /R D:\blier_aru_S2025\recordings_2025\DOUG-1 %f in (*.wav) do Echo ren "%f" "%~dpfMTL_%~nf%~xf"
 # Success!
 
-# All that's left to do is test on a folder before running it for real!
+# Running test code on a sample of the real directory
+for /R H:\acoustic-data\2026\MTL\D1CCPL-1\sd-1 %f in (*.wav) do Echo ren "%f" "%~dpfMTL_%~nf%~xf"
+
+# Real deal on a test directory
+for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do ren “%f” “%~dpfMTL_%~nf%~xf”
+
+# Trying something else
+cd C:\Users\s_bli\Desktop\test
+for /R %f in (*.wav) do ren “%f” “%~dpfMTL_%~nf%~xf”
