@@ -1,0 +1,33 @@
+# Siena Blier
+# 2026-09-14
+# Adding prefix to all audio files in directory
+
+# Listing all audio files in directory (including subfolders)
+# Source: https://ss64.com/nt/for_r.html
+For /R C:\demo\ %%G in (*.wav) do Echo "%%G"
+
+# Add prefix to all pdf files in folder
+# Source: https://freedom251.com/add-suffix-prefix-to-all-files-in-a-folder-in-windows-11-10/
+for %f in (*.pdf) do ren “%f” “Scanned_%f”
+
+# Putting it together - add prefix to all audio files in a directory
+for /R C:\demo\ %f in (*.wav) do Echo ren "%f" "MTL_%f"
+
+# Tester: listing all audio files in a real directory
+for /R D:\blier_aru_S2025\recordings_2025\DOUG-1 %f in (*.wav) do Echo "%f"
+
+# Tester: renaming audio files in a real directory
+for /R D:\blier_aru_S2025\recordings_2025\DOUG-1 %f in (*.wav) do Echo ren “%f” “MTL_%f”
+
+# This adds prefix before the file drive, path, and extension... need to address this
+# Source: https://stackoverflow.com/questions/52654994/add-prefix-to-all-filenames-in-all-subfolders-with-a-batch-file
+
+# %~nf gets file name without the drive, path, and extension
+# %~xf gets file extension
+# %~dpf gets file drive and path
+
+# Add prefix to all audio files after the file drive and path
+for /R D:\blier_aru_S2025\recordings_2025\DOUG-1 %f in (*.wav) do Echo ren "%f" "%~dpfMTL_%~nf%~xf"
+# Success!
+
+# All that's left to do is test on a folder before running it for real!
