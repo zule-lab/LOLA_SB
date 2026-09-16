@@ -39,3 +39,36 @@ for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do ren “%f” “%~dpfMTL_%~n
 # Trying something else
 cd C:\Users\s_bli\Desktop\test
 for /R %f in (*.wav) do ren “%f” “%~dpfMTL_%~nf%~xf”
+
+# Trying something else
+for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do ren “%f” “MTL_%f”
+
+# Gets prefix
+for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do Echo “%~dpf"
+
+# Gets only file name
+for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do Echo “%~nf"
+
+# Gets only extension
+for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do Echo “%~xf"
+
+# all together
+for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do Echo ren "%f" "%~dpfMTL_%~nf%~xf"
+
+# all together sans echo
+for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do ren "%f" "%~dpfMTL_%~nf%~xf"
+
+for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do ren "%f" "MTL_%~nf%~xf"
+
+for /R %f in (*.wav) do ren "%f" "MTL_%~nf%~xf"
+
+for /F %f in (*.wav) do Echo ren "%f" "MTL_%~nf%~xf"
+
+
+# Trying in bash with David
+for f in $(find ~/Desktop/test -name "*.wav"); do mv "$f" "$(dirname $f)/MTL_$(basename $f)"; done
+
+# Doing in bash with full folder
+for f in $(find H:\\acoustic-data\\2026\\MTL -name "*.wav"); do mv "$f" "$(dirname $f)/MTL_$(basename $f)"; done
+
+
