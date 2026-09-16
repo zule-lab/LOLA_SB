@@ -1,74 +1,14 @@
-# Siena Blier
-# 2026-09-14
+# Siena Blier, David Friesen
+# Created: 2026-09-14
+# Last modified: 2026-09-16
 # Adding prefix to all audio files in directory
+# Bash script
 
-# Listing all audio files in directory (including subfolders)
-# Source: https://ss64.com/nt/for_r.html
-For /R C:\demo\ %%G in (*.wav) do Echo "%%G"
-
-# Add prefix to all pdf files in folder
-# Source: https://freedom251.com/add-suffix-prefix-to-all-files-in-a-folder-in-windows-11-10/
-for %f in (*.pdf) do ren “%f” “Scanned_%f”
-
-# Putting it together - add prefix to all audio files in a directory
-for /R C:\demo\ %f in (*.wav) do Echo ren "%f" "MTL_%f"
-
-# Tester: listing all audio files in a real directory
-for /R D:\blier_aru_S2025\recordings_2025\DOUG-1 %f in (*.wav) do Echo "%f"
-
-# Tester: renaming audio files in a real directory
-for /R D:\blier_aru_S2025\recordings_2025\DOUG-1 %f in (*.wav) do Echo ren “%f” “MTL_%f”
-
-# This adds prefix before the file drive, path, and extension... need to address this
-# Source: https://stackoverflow.com/questions/52654994/add-prefix-to-all-filenames-in-all-subfolders-with-a-batch-file
-
-# %~nf gets file name without the drive, path, and extension
-# %~xf gets file extension
-# %~dpf gets file drive and path
-
-# Add prefix to all audio files after the file drive and path
-for /R D:\blier_aru_S2025\recordings_2025\DOUG-1 %f in (*.wav) do Echo ren "%f" "%~dpfMTL_%~nf%~xf"
-# Success!
-
-# Running test code on a sample of the real directory
-for /R H:\acoustic-data\2026\MTL\D1CCPL-1\sd-1 %f in (*.wav) do Echo ren "%f" "%~dpfMTL_%~nf%~xf"
-
-# Real deal on a test directory
-for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do ren “%f” “%~dpfMTL_%~nf%~xf”
-
-# Trying something else
-cd C:\Users\s_bli\Desktop\test
-for /R %f in (*.wav) do ren “%f” “%~dpfMTL_%~nf%~xf”
-
-# Trying something else
-for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do ren “%f” “MTL_%f”
-
-# Gets prefix
-for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do Echo “%~dpf"
-
-# Gets only file name
-for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do Echo “%~nf"
-
-# Gets only extension
-for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do Echo “%~xf"
-
-# all together
-for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do Echo ren "%f" "%~dpfMTL_%~nf%~xf"
-
-# all together sans echo
-for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do ren "%f" "%~dpfMTL_%~nf%~xf"
-
-for /R C:\Users\s_bli\Desktop\test %f in (*.wav) do ren "%f" "MTL_%~nf%~xf"
-
-for /R %f in (*.wav) do ren "%f" "MTL_%~nf%~xf"
-
-for /F %f in (*.wav) do Echo ren "%f" "MTL_%~nf%~xf"
-
-
-# Trying in bash with David
+# Trying on test folder
 for f in $(find ~/Desktop/test -name "*.wav"); do mv "$f" "$(dirname $f)/MTL_$(basename $f)"; done
 
-# Doing in bash with full folder
+# Doing on full folder
 for f in $(find H:\\acoustic-data\\2026\\MTL -name "*.wav"); do mv "$f" "$(dirname $f)/MTL_$(basename $f)"; done
 
-
+# Doing on subfolder that was added after renaming everything else
+for f in $(find H:\\acoustic-data\\2026\\MTL\\D5SHPL-1\\sd-2 -name "*.wav"); do mv "$f" "$(dirname $f)/MTL_$(basename $f)"; done
