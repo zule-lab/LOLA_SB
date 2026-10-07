@@ -1,0 +1,17 @@
+# Script by Ana Morales, modified by Siena Blier
+# Created: 2026-10-07
+# Last modified: 2026-10-07
+# ARU Analysis Pipeline: Automated Detection in HawkEars
+
+# Install HawkEars on computer (https://github.com/jhuus/HawkEars)
+
+# Code to run in Command Prompt
+
+# Change working directory to where HawkEars is installed
+cd C:\Users\s_bli\Documents\HawkEars
+
+echo Start Time: %time%
+
+python analyze.py -i "H:\acoustic-data\2026\MTL\working-folder-spring" -o "C:\Users\s_bli\Desktop\LOLA\03_outdata\HawkEars_output"-b 0 --overlap 1 --threads 6 --lat 45.49375 --lon -73.66688 --bpf 1 --bpfstart 1000 -p 0.7
+
+echo End Time: %time%
