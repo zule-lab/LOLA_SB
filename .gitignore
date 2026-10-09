@@ -50,7 +50,8 @@ rsconnect/
 
 # Other stuff to ignore
 00_site-selection
-01_rawdata
+01_rawdata/acoustic
+01_rawdata/field-prep
 04_shapefiles
 05_fieldmap
 03_outdata/HawkEars_output_spring_birds

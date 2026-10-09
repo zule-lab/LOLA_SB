@@ -1,0 +1,33 @@
+Date_YYYYMMDD,ARU_ID,Subplot_ID,center-coordinate_raw,Shrub-cover_pct,Comments
+20260615,D2SHPL-1,1,"N45deg24.883',W073deg53.842'",30,
+20260615,D2SHPL-1,3,"N45deg24.907',W073deg53.855'",10,
+20260615,D2SHPL-1,4,"45.4148118, -73.8976409",50,ARU coordinates
+20260615,D2SHPL-1,2,"N45deg24.886',W073deg53.881'",50,
+20260616,D2SHPL-2,4,"45.4169569, -73.8982725",30,ARU coordinates
+20260616,D2SHPL-2,2,"N45deg25.013',W073deg53.932'",40,
+20260616,D2SHPL-2,3,"N45deg25.027',W073deg53.910'",50,
+20260617,D2SHPL-2,1,"N45deg24.996',W073deg53.911'",20,
+20260617,D1CCPR-2,4,"45.4322417, -73.9409942",90,ARU coordinates
+20260619,D1CCPR-2,2,"N45deg25.932',W073deg56.438'",90,
+20260617,D1CCPR-2,1,"N45deg25.951',W073deg56.463'",90,
+20260619,D1CCPR-2,3,"N45deg25.928',W073deg56.483'",70,
+20260619,D1CCPR-1,4,"45.4324837, -73.9498755",15,ARU coordinates
+20260619,D1CCPR-1,1,"N45deg25.965',W073deg56.998'",10,
+20260623,D1CCPR-1,2,"N45deg25.943',W073deg56.967'",10,
+20260623,D1CCPR-1,3,"N45deg25.936',W073deg57.007'",15,
+20260623,D2SPPL-1,4,"45.4306434, -73.8889864",75,ARU coordinates
+20260624,D2SPPL-1,1,"N45deg25.855',W073deg53.351'",40,
+20260624,D2SPPL-1,2,"N45deg25.835',W073deg53.321'",80,
+20260624,D2SPPL-1,3,"N45deg25.830',W073deg53.358'",90,
+20260625,D2SPPL-2,4,"45.4349300, -73.8904785",90,ARU coordinates
+20260625,D2SPPL-2,1,"N45deg26.113',W073deg53.422'",80,
+20260629,D2SPPL-2,3,Missing,25,"Could not retrieve coordinates due to ""database error"" on Garmin"
+20260629,D2SPPL-2,2,"45.4346526,-73.8904984",15,Estimated coordinates from Google Maps
+20260707,D1CCPL-2,4,"45.4465675, -73.9068360",85,ARU coordinates
+20260707,D1CCPL-2,1,Missing,60,"Could not retrieve coordinates due to ""database error"" on Garmin"
+20260707,D1CCPL-2,2,Missing,75,"Could not retrieve coordinates due to ""database error"" on Garmin"
+20260720,D1CCPL-2,3,Missing,70,"Could not retrieve coordinates due to ""database error"" on Garmin"
+20260720,D1CCPL-1,4,"45.4436271, -73.9069177",80,ARU coordinates
+20260821,D1CCPL-1,1,"45.44393112151991, -73.90698631201842",70,Estimated from Google Maps; 30m North of ARU location
+20260821,D1CCPL-1,2,Missing,82.5,"Shrub cover written as 80-85% on datasheet so took average; could not retrieve coordinates due to ""database error"" on Garmin"
+20260821,D1CCPL-1,3,Missing,75,"Could not retrieve coordinates due to ""database error"" on Garmin"
