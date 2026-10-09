@@ -16,7 +16,7 @@ library(renv)
 # Initialize renv 
 renv::init()
 renv::snapshot()
-
+renv::restore()
 # 1. Load data ------------------------------------------------------------
 
 # Emma's data
@@ -64,9 +64,16 @@ rm(ObsUrb.trees,new.trees,public.trees,shrubs)
 
 # 2. Add Site_ID to all points --------------------------------------------
 
+# What columns do we have
 names(ObsUrb.in)
 
-Site_ID = aru.buffers[16,"ARU_ID"]
+# Determine which site each tree belongs to
+emma.intersections <- st_intersects(ObsUrb.in,aru.buffers) %>% unlist()
+  # the numbers correspond to the row number in aru.buffers with which tree intersects
 
-ObsUrb.w.ID <- 
- 
+emma.intersections[[1]] # gives row number of ARU
+aru.buffers$ARU_ID[1]
+
+ObsUrb.w.ID <- ObsUrb.in
+ObsUrb.w.ID$intersection <- st_intersects(ObsUrb.in,aru.buffers) %>% unlist()
+ObsUrb.w.ID$Site_ID <- aru.buffers$ARU_ID[ObsUrb.w.ID$intersection]
