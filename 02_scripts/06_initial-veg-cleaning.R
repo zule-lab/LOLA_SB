@@ -14,19 +14,20 @@ library(sf)
 library(renv)
 
 # Initialize renv 
-renv::init()
+#renv::init()
 renv::snapshot()
 renv::restore()
+
 # 1. Load data ------------------------------------------------------------
 
 # Emma's data
 ObsUrb.trees <- st_read("01_rawdata/veg/fieldmap/20260915_ArbresObsUrbFinal.gpkg")
 
 # Data from my fieldmap
-new.trees <- st_read("01_rawdata/veg/fieldmap/20260915_ArbresPublicsFinal.gpkg")
+new.trees <- st_read("01_rawdata/veg/fieldmap/20260917_2026trees.gpkg")
 
 # Public Tree Inventory Data
-public.trees <- st_read("01_rawdata/veg/fieldmap/20260917_2026trees.gpkg")
+public.trees <- st_read("01_rawdata/veg/fieldmap/20260915_ArbresPublicsFinal.gpkg")
 
 # Shrub data
 shrubs <- st_read("01_rawdata/veg/fieldmap/20260917_2026shrubs.gpkg")
@@ -64,16 +65,34 @@ rm(ObsUrb.trees,new.trees,public.trees,shrubs)
 
 # 2. Add Site_ID to all points --------------------------------------------
 
-# What columns do we have
-names(ObsUrb.in)
+# Emma's data
+ObsUrb.in$intersection <- st_intersects(ObsUrb.in,aru.buffers) %>% unlist()
+ObsUrb.in$Site_ID <- aru.buffers$ARU_ID[ObsUrb.in$intersection]
 
-# Determine which site each tree belongs to
-emma.intersections <- st_intersects(ObsUrb.in,aru.buffers) %>% unlist()
-  # the numbers correspond to the row number in aru.buffers with which tree intersects
+# Public tree data
+public.in$intersection <- st_intersects(public.in,aru.buffers) %>% unlist()
+public.in$Site_ID <- aru.buffers$ARU_ID[public.in$intersection]
 
-emma.intersections[[1]] # gives row number of ARU
-aru.buffers$ARU_ID[1]
+# My tree data
+new.in$intersection <- st_intersects(new.in,aru.buffers) %>% unlist()
+new.in$Site_ID <- aru.buffers$ARU_ID[new.in$intersection]
 
-ObsUrb.w.ID <- ObsUrb.in
-ObsUrb.w.ID$intersection <- st_intersects(ObsUrb.in,aru.buffers) %>% unlist()
-ObsUrb.w.ID$Site_ID <- aru.buffers$ARU_ID[ObsUrb.w.ID$intersection]
+# Shrub data
+shrubs.in$intersection <- st_intersects(shrubs.in,aru.buffers) %>% unlist()
+shrubs.in$Site_ID <- aru.buffers$ARU_ID[shrubs.in$intersection]
+
+# Save these files
+st_write(ObsUrb.in,"03_outdata/shapefiles/ObsUrb.in.shp", append = FALSE, delete_layer = TRUE)
+st_write(public.in,"03_outdata/shapefiles/public.in.shp", append = FALSE, delete_layer = TRUE)
+st_write(new.in,"03_outdata/shapefiles/new.in.shp", append = FALSE, delete_layer = TRUE)
+st_write(shrubs.in,"03_outdata/shapefiles/shrubs.in.shp", append = FALSE, delete_layer = TRUE)
+
+
+# 3. Remove null entries --------------------------------------------------
+
+# My trees
+
+# From statology: https://www.statology.org/remove-empty-rows-in-r/
+df[rowSums(is.na(df)) != ncol(df), ]
+
+# Shrub layer

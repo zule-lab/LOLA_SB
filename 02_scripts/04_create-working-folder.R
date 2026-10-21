@@ -82,6 +82,35 @@ for(i in 1:length(bird.arus)){
   
 }
 
+# Copy files from bird ARUs to spring birds working folder
+
+# Iterating through all bird-only ARUs
+for(i in 1:length(masterlist.spring.bird)){
+  
+  # Get the list of files we want to copy to working folder
+  files.to.copy <- masterlist.spring.bird[[i]] %>% unlist()
+  
+  for(file in 1:length(files.to.copy)){
+    file.copy(files.to.copy[[file]],"working-folder-spring-birds")
+  }
+}
+
+# Let's check how many files we should actually have
+
+# Counter
+spring.bird.files <- 0
+
+for(i in 1:length(masterlist.spring.bird)){
+  
+  # Get the list of files we want to copy to working folder
+  files.to.copy <- masterlist.spring.bird[[i]] %>% unlist()
+  
+  # Get the number of files to copy for that ARU
+  spring.bird.files <- spring.bird.files + length(files.to.copy)
+}
+# Check output
+spring.bird.files
+
 # Success! Now do this for the bird/bat ARUs
 
 # Filter to keep bird/bat ARUs
@@ -141,44 +170,16 @@ for(i in 1:length(bat.arus)){
   
 }
 
-# Copy files from bird ARUs to spring working folder
-
-# Iterating through all bird-only ARUs
-for(i in 1:length(masterlist.spring.bird)){
-  
-  # Get the list of files we want to copy to working folder
-  files.to.copy <- masterlist.spring.bird[[i]] %>% unlist()
-  
-  for(file in 1:length(files.to.copy)){
-    file.copy(files.to.copy[[file]],"working-folder-spring")
-  }
-}
-
-# Let's check how many files we should actually have
-
-# Counter
-spring.bird.files <- 0
-
-for(i in 1:length(masterlist.spring.bird)){
-  
-  # Get the list of files we want to copy to working folder
-  files.to.copy <- masterlist.spring.bird[[i]] %>% unlist()
-  
-  # Get the number of files to copy for that ARU
-  spring.bird.files <- spring.bird.files + length(files.to.copy)
-}
-# Check output
-spring.bird.files
 
 
-# Copy files from bird/bat ARUs to spring working folder
+# Copy files from bird/bat ARUs to spring bats working folder
 for(i in 1:length(masterlist.spring.bat)){
   
   # Get the list of files we want to copy to working folder
   files.to.copy <- masterlist.spring.bat[[i]] %>% unlist()
   
   for(file in 1:length(files.to.copy)){
-    file.copy(files.to.copy[[file]],"working-folder-spring")
+    file.copy(files.to.copy[[file]],"working-folder-spring-bats")
   }
 }
 
@@ -197,9 +198,6 @@ for(i in 1:length(masterlist.spring.bat)){
 }
 # Check output
 spring.bat.files
-
-total.spring.files <- spring.bat.files + spring.bird.files
-total.spring.files # Matches! Phew!
 
 # 3. Summer working folder ------------------------------------------------
 
@@ -261,6 +259,36 @@ for(i in 1:length(bird.arus)){
   
 }
 
+# Copy files from bird ARUs to summer working folder
+
+# Iterating through all bird-only ARUs
+for(i in 1:length(masterlist.summer.bird)){
+  
+  # Get the list of files we want to copy to working folder
+  files.to.copy <- masterlist.summer.bird[[i]] %>% unlist()
+  
+  for(file in 1:length(files.to.copy)){
+    file.copy(files.to.copy[[file]],"working-folder-summer-birds")
+  }
+}
+
+# Let's check how many files we should actually have
+
+# Counter
+summer.bird.files <- 0
+
+for(i in 1:length(masterlist.summer.bird)){
+  
+  # Get the list of files we want to copy to working folder
+  files.to.copy <- masterlist.summer.bird[[i]] %>% unlist()
+  
+  # Get the number of files to copy for that ARU
+  summer.bird.files <- summer.bird.files + length(files.to.copy)
+}
+# Check output
+summer.bird.files
+
+
 # Success! Now do this for the bird/bat ARUs
 
 # Make list to keep all bird/bat ARU file names
@@ -277,7 +305,7 @@ for(i in 1:length(bat.arus)){
   list.of.files <- list.files(aru.id, recursive=TRUE,full.names=TRUE)
   # We only care about audio (.wav) files
   list.of.wav.files <- list.of.files[str_ends(list.of.files,"wav")]
-  # We only want bird (acoustic) recordings, which are kept in "Data2" sufolder
+  # We only want bird (acoustic) recordings, which are kept in "Data2" subfolder
   is.acoustic <- grepl("Data2", list.of.wav.files, fixed = TRUE)
   list.of.acoustic.wav.files <- list.of.wav.files[is.acoustic]
   
@@ -316,35 +344,6 @@ for(i in 1:length(bat.arus)){
   
 }
 
-# Copy files from bird ARUs to summer working folder
-
-# Iterating through all bird-only ARUs
-for(i in 1:length(masterlist.summer.bird)){
-  
-  # Get the list of files we want to copy to working folder
-  files.to.copy <- masterlist.summer.bird[[i]] %>% unlist()
-  
-  for(file in 1:length(files.to.copy)){
-    file.copy(files.to.copy[[file]],"working-folder-summer")
-  }
-}
-
-# Let's check how many files we should actually have
-
-# Counter
-summer.bird.files <- 0
-
-for(i in 1:length(masterlist.summer.bird)){
-  
-  # Get the list of files we want to copy to working folder
-  files.to.copy <- masterlist.summer.bird[[i]] %>% unlist()
-  
-  # Get the number of files to copy for that ARU
-  summer.bird.files <- summer.bird.files + length(files.to.copy)
-}
-# Check output
-summer.bird.files
-
 
 # Copy files from bird/bat ARUs to summer working folder
 for(i in 1:length(masterlist.summer.bat)){
@@ -353,7 +352,7 @@ for(i in 1:length(masterlist.summer.bat)){
   files.to.copy <- masterlist.summer.bat[[i]] %>% unlist()
   
   for(file in 1:length(files.to.copy)){
-    file.copy(files.to.copy[[file]],"working-folder-summer")
+    file.copy(files.to.copy[[file]],"working-folder-summer-bats")
   }
 }
 
@@ -371,5 +370,3 @@ for(i in 1:length(masterlist.summer.bat)){
 # Check output
 summer.bat.files
 
-total.summer.files <- summer.bird.files + summer.bat.files
-total.summer.files # It matches! Phew!
