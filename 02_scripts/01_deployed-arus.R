@@ -90,6 +90,7 @@ st_write(ArbresObsUrb.filtered,"04_shapefiles/ArbresObsUrbFinal.shp", append = F
 
 # 4. Public Tree Inventory Data ------------------------------------------------
 
+# From: https://donnees.montreal.ca/dataset/arbres (confirm?)
 # Read
 arbres.publics <- read.csv("01_rawdata/arbres-publics.csv")
 
