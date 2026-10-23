@@ -55,5 +55,7 @@ rsconnect/
 04_shapefiles
 05_fieldmap
 03_outdata/HawkEars_output_spring_birds
+03_outdata/HawkEars_output_spring_bats
+03_outdata/HawkEars_output_summer_birds
 
 .DS_Store
