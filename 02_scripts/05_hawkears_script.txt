@@ -1,6 +1,6 @@
 # Script by Ana Morales and Barbara Frei, modified by Siena Blier
 # Created: 2026-10-07
-# Last modified: 2026-10-09
+# Last modified: 2026-10-22
 # ARU Analysis Pipeline: Automated Detection in HawkEars
 
 # Install HawkEars on computer (https://github.com/jhuus/HawkEars)
@@ -13,7 +13,7 @@ audio:
 	min_freq: 1000
 	max_freq: 13000
 	win_length: .05
-	sampling_rate: 44100
+	sampling_rate: 24000
 	choose_channel: true
 	use_spec_cache: true
 
@@ -33,4 +33,4 @@ hawkears:
 # Change working directory to where HawkEars is installed
 cd C:\Users\s_bli\Documents\HawkEars
 
-hawkears analyze "H:\acoustic-data\2026\MTL\working-folder-spring-birds" -c C:\Users\s_bli\Documents\HawkEars\yaml\default.yaml -o "C:\Users\s_bli\Desktop\LOLA\03_outdata\HawkEars_output_spring_birds" --threads 5 --lat 45.49375 --lon -73.66688
+hawkears analyze "H:\acoustic-data\2026\MTL\working-folder-spring-bats" -c C:\Users\s_bli\Documents\HawkEars\yaml\default.yaml -o "C:\Users\s_bli\Desktop\LOLA\03_outdata\HawkEars_output_spring_bats" --threads 5 --lat 45.49375 --lon -73.66688
