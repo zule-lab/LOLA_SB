@@ -11,7 +11,7 @@
 library(dplyr)
 library(sf)
 #install.packages("renv")
-library(renv)
+#library(renv)
 
 # Initialize renv 
 #renv::init()
@@ -404,48 +404,72 @@ mytrees.1$Species[(mytrees.1$Species == "Euonymus aladus")] <- "Euonymus alatus"
 
 # Check
 
-unique(mytrees.1$Species) # 169 spp - makes more sense!
+unique(mytrees.1$Species)
+species <- as.data.frame(sort(unique(mytrees.1$Species))) # 169 spp - makes more sense!
 
-# Put in alpha order and check again
+# Fix typos
 
-# Save 
+mytrees.1$Species[(mytrees.1$Species == "Gladitia triacanthos")] <- "Gleditsia triacanthos"
+mytrees.1$Species[(mytrees.1$Species == "Hydrangea peniculata")] <- "Hydrangea paniculata"
+mytrees.1$Species[(mytrees.1$Species == "Hydrangea penniculata")] <- "Hydrangea paniculata"
+mytrees.1$Species[(mytrees.1$Species == "Lonicera tartarica")] <- "Lonicera tatarica"
+mytrees.1$Species[(mytrees.1$Species == "Pinus sp.")] <- "Pinus spp."
+mytrees.1$Species[(mytrees.1$Species == "Pyrus sp.")] <- "Pyrus spp."
+mytrees.1$Species[(mytrees.1$Species == "Sambuca canadensis")] <- "Sambucus canadensis"
+mytrees.1$Species[(mytrees.1$Species == "Spirea spp.")] <- "Spiraea spp."
+mytrees.1$Species[(mytrees.1$Species == "Vibirnum opulus")] <- "Viburnum opulus"
+
+# Check
+
+# Code from: https://www.statology.org/sort-alphabetically-in-r/
+species1 <- as.data.frame(sort(unique(mytrees.1$Species))) # 169 spp - makes more sense!
+
+# More fixes
+mytrees.1$Species[(mytrees.1$Species == "Juniper spp.")] <- "Juniperus spp."
+mytrees.1$Species[(mytrees.1$Species == "Rhamnus catharica")] <- "Rhamnus cathartica"
+mytrees.1$Species[(mytrees.1$Species == "Tsuga canadensis.")] <- "Tsuga canadensis"
+mytrees.1$Species[(mytrees.1$Species == "Vibernum opulus")] <- "Viburnum opulus"
+
+# Save
+
+st_write(mytrees.1,"03_outdata/shapefiles/new_notypos.shp", append = FALSE, delete_layer = TRUE)
+
+rm(mytrees, mytrees.1,species,species1)
+
+# 7. Add columns for OpenRefine -------------------------------------------
+
+# Read data
+
+mytrees <- st_read("03_outdata/shapefiles/new_notypos.shp")
+
+# Make a copy to play with
+mytrees.1 <- mytrees
+
+# Add a column for multistem DBH values
 
 
+mytrees.1$DBH_multistem <- mytrees$Commnts
+
+# Add columns for hedge math
+mytrees.1$hedge_length_m <- NA
+mytrees.1$hedge_stems_per_m <- NA
+mytrees.1$hedge_avg_DBH_cm <- NA
+
+# Add column to replicate tree
+mytrees.1$replicate_n <- NA
+
+# Save this new dataframe to work with in OpenRefine
+mytrees.1 %>% select(-geometry)
+# Code from: https://stackoverflow.com/questions/67203648/how-to-hide-remove-geometry-column
+sf::st_drop_geometry(data_all)
+
+write.csv(mytrees.1,"03_outdata/new_OR_input.csv")
+
+# Check that it worked
+check <- as.data.frame(read.csv("03_outdata/new_OR_input.csv"))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+st_write(mytrees.1,"03_outdata/shapefiles/new_OR_input.shp", append = FALSE, delete_layer = TRUE)
 
 
 
