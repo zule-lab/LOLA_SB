@@ -1,0 +1,8 @@
+# Script by Siena
+# Created: 2026-10-26
+# Last modified: 2026-10-26
+# Data cleaning steps in OpenRefine
+
+# Changed Hedge column to "No" for rows that were accidentally marked as hedges (rows that don't need the hedge math)
+
+# Copying over hedge information from "Commnts" into appropriate columns (hedge_length_m, hedge_stems_per_m, hedge_avg_DBH_cm)
