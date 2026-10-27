@@ -1,0 +1,2151 @@
+Column,Species,DBH_cm,M_E,Hedge,Commnts,Site_ID,DBH_multistem,hedge_length_m,hedge_stems_per_m,hedge_avg_DBH_cm,replicate_n
+1,Unknown,3,Estimated,No,NA,D4SHPL-1,NA,NA,NA,NA,NA
+2,Gleditsia triacanthos,21.1,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+3,Fraxinus spp.,8.4,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+4,Acer negundo,4,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+5,Fraxinus spp.,6.2,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+6,Acer negundo,5.6,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+7,Ulmus americana,13.7,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+8,Ulmus americana,9.1,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+9,Ulmus americana,3,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+10,Acer negundo,3.8,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+11,Acer negundo,5.3,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+12,Acer negundo,2.8,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+13,Acer negundo,2,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+14,Acer negundo,2,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+15,Acer negundo,3,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+16,Acer negundo,3.8,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+17,Acer negundo,2,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+18,Acer negundo,2,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+19,Acer negundo,4,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+20,Acer negundo,2,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+21,Acer negundo,4,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+22,Acer negundo,4,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+23,Pinus sylvestris,15,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+24,Pinus sylvestris,10,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+25,Acer negundo,4,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+26,Gleditsia triacanthos,10,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+27,Tilia cordata,20,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+28,Gleditsia triacanthos,10,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+29,Thuja occidentalis,10,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+30,Thuja occidentalis,3.5,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+31,Thuja occidentalis,4,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+32,Thuja occidentalis,2,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+33,Thuja occidentalis,4,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+34,Thuja occidentalis,7,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+35,Thuja occidentalis,2,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+36,Thuja occidentalis,4,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+37,Thuja occidentalis,6,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+38,Thuja occidentalis,4,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+39,Thuja occidentalis,5,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+40,Thuja occidentalis,5,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+41,Thuja occidentalis,4,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+42,Thuja occidentalis,4,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+43,Gleditsia triacanthos,7,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+44,Tilia cordata,15,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+45,Gleditsia triacanthos,6,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+46,Ulmus spp.,20,Estimated,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+47,Celtis occidentalis,11.3,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+48,Celtis occidentalis,17.8,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+49,Celtis occidentalis,19.5,NA,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+50,Celtis occidentalis,25.2,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+51,Celtis occidentalis,22,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+52,Celtis occidentalis,13.4,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+53,Quercus rubra,11.5,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+54,Gleditsia triacanthos,14.4,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+55,Tilia cordata,10.6,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+56,Gleditsia triacanthos,12.5,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+57,Quercus rubra,13,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+58,Acer saccharinum,10.8,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+59,Acer saccharinum,10.8,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+60,Tilia cordata,16.8,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+61,Tilia cordata,3,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+62,Tilia cordata,2,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+63,Tilia cordata,2,Measured,No,NA,D4SHPL-2,NA,NA,NA,NA,NA
+64,Acer saccharinum,42.5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+65,Acer saccharinum,23.5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+66,Acer saccharinum,42.5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+67,Acer saccharinum,42.9,NA,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+68,Celtis occidentalis,10.8,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+69,Celtis occidentalis,13.4,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+70,Acer saccharinum,11.9,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+71,Acer saccharinum,85.2,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+72,Quercus rubra,7.7,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+73,Acer saccharinum,77.8,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+74,Acer saccharinum,75.3,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+75,Acer saccharinum,83.3,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+76,Acer saccharinum,49.7,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+77,Acer saccharinum,77.4,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+78,Quercus macrocarpa,68.2,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+79,Acer saccharinum,44.8,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+80,Celtis occidentalis,13.9,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+81,Acer saccharinum,79.5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+82,Tilia spp.,5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+83,Acer saccharinum,32.7,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+84,Acer saccharinum,65,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+85,Carya ovata,5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+86,Cornus drummondii,7,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+87,Celtis occidentalis,13.7,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+88,Acer saccharinum,57.5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+89,Acer saccharinum,81.2,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+90,Malus spp.,40.5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+91,Malus spp.,28,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+92,Malus spp.,49,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+93,Malus spp.,28.1,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+94,Tilia americana,9.5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+95,Thuja occidentalis,8,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+96,Thuja occidentalis,5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+97,Thuja occidentalis,6,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+98,Thuja occidentalis,6,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+99,Thuja occidentalis,5,Measured,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+100,Picea pungens,15,Estimated,No,NA,D3SPPL-1,NA,NA,NA,NA,NA
+101,Thuja occidentalis,5,Estimated,No,X10,D3SPPL-1,X10,NA,NA,NA,NA
+102,Thuja occidentalis,5,Estimated,No,X10,D3SPPL-1,X10,NA,NA,NA,NA
+103,Acer platanoides,28,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+104,Acer platanoides,21.1,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+105,Acer platanoides,24.4,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+106,Acer platanoides,20.1,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+107,Acer platanoides,25.8,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+108,Malus spp.,15,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+109,Syringa vulgaris,NA,Estimated,No,"3,3,3,3,3,3,3,3,3,3",D3SPPR-2,"3,3,3,3,3,3,3,3,3,3",NA,NA,NA,NA
+110,Syringa vulgaris,NA,Estimated,No,"2.5,2.5,2.5,2.5,2.5,2.5,2.5",D3SPPR-2,"2.5,2.5,2.5,2.5,2.5,2.5,2.5",NA,NA,NA,NA
+111,Syringa vulgaris,NA,Estimated,No,"2,2,2,2,2,2,2,2,2,2,2,2,2",D3SPPR-2,"2,2,2,2,2,2,2,2,2,2,2,2,2",NA,NA,NA,NA
+112,Acer platanoides,27.5,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+113,Acer platanoides,24.9,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+114,Acer platanoides,15.3,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+115,Acer platanoides,22.4,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+116,Acer platanoides,16.7,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+117,Malus spp.,16.1,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+118,Prunus spp.,3,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+119,Pyrus communis,60,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+120,Celtis occidentalis,70,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+121,Betula papyrifera,20.7,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+122,Betula papyrifera,22.8,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+123,Picea glauca,27.8,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+124,Picea glauca,34.1,Measured,No,Dead standing,D3SPPR-1,Dead standing,NA,NA,NA,NA
+125,Thuja occidentalis,20,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+126,Thuja occidentalis,15,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+127,Thuja occidentalis,10,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+128,Thuja occidentalis,NA,Estimated,No,"10,5",D3SPPR-1,"10,5",NA,NA,NA,NA
+129,Thuja occidentalis,NA,Estimated,No,"15,6.5",D3SPPR-1,"15,6.5",NA,NA,NA,NA
+130,Thuja occidentalis,4,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+131,Thuja occidentalis,5,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+132,Thuja occidentalis,20,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+133,Acer saccharinum,28.4,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+134,Acer saccharinum,31.3,NA,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+135,Acer saccharinum,54.3,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+136,Acer saccharinum,65.2,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+137,Acer saccharinum,52.9,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+138,Thuja occidentalis,6,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+139,Thuja occidentalis,NA,Measured,No,"5,8,3",D5SPPL-1,"5,8,3",NA,NA,NA,NA
+140,Thuja occidentalis,NA,NA,No,"3.5,9.5,7,4,3",D5SPPL-1,"3.5,9.5,7,4,3",NA,NA,NA,NA
+141,Thuja occidentalis,NA,Measured,No,"4.5,6,7",D5SPPL-1,"4.5,6,7",NA,NA,NA,NA
+142,Hydrangea paniculata,NA,Measured,No,"3,5,3,4",D5SPPL-1,"3,5,3,4",NA,NA,NA,NA
+143,Hydrangea paniculata,NA,Measured,No,"3,4,3,3",D5SPPL-1,"3,4,3,3",NA,NA,NA,NA
+144,Hydrangea paniculata,NA,Measured,No,"3,3,7",D5SPPL-1,"3,3,7",NA,NA,NA,NA
+145,Hydrangea paniculata,NA,Measured,No,"5,3",D5SPPL-1,"5,3",NA,NA,NA,NA
+146,Hydrangea paniculata,NA,Measured,No,"3,6",D5SPPL-1,"3,6",NA,NA,NA,NA
+147,Hydrangea paniculata,NA,Measured,No,"2,6,2,2,3",D5SPPL-1,"2,6,2,2,3",NA,NA,NA,NA
+148,Hydrangea paniculata,NA,Measured,No,"5,3,5",D5SPPL-1,"5,3,5",NA,NA,NA,NA
+149,Hydrangea paniculata,NA,Measured,No,"2,2,4",D5SPPL-1,"2,2,4",NA,NA,NA,NA
+150,Hydrangea paniculata,NA,Measured,No,"3,4,3,3",D5SPPL-1,"3,4,3,3",NA,NA,NA,NA
+151,Hydrangea paniculata,NA,Measured,No,"6,3,2",D5SPPL-1,"6,3,2",NA,NA,NA,NA
+152,Hydrangea paniculata,NA,Measured,No,"6,3,4",D5SPPL-1,"6,3,4",NA,NA,NA,NA
+153,Hydrangea paniculata,NA,Measured,No,"6,3,3,6",D5SPPL-1,"6,3,3,6",NA,NA,NA,NA
+154,Hydrangea paniculata,NA,Measured,No,"3,5,5,2",D5SPPL-1,"3,5,5,2",NA,NA,NA,NA
+155,Hydrangea paniculata,4,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+156,Hydrangea paniculata,NA,Measured,No,"2,4,3,3",D5SPPL-1,"2,4,3,3",NA,NA,NA,NA
+157,Hydrangea paniculata,NA,Measured,No,"3,5,3,4,5,4",D5SPPL-1,"3,5,3,4,5,4",NA,NA,NA,NA
+158,Hydrangea paniculata,NA,Measured,No,"3,5,4,5",D5SPPL-1,"3,5,4,5",NA,NA,NA,NA
+159,Hydrangea paniculata,NA,Measured,No,"6,4,4,4",D5SPPL-1,"6,4,4,4",NA,NA,NA,NA
+160,Hydrangea paniculata,NA,Measured,No,"5,3,4,4",D5SPPL-1,"5,3,4,4",NA,NA,NA,NA
+161,Thuja occidentalis,4,Measured,No,x7,D5SPPL-1,x7,NA,NA,NA,NA
+162,Thuja occidentalis,6,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+163,Thuja occidentalis,9,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+164,Thuja occidentalis,3,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+165,Thuja occidentalis,6,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+166,Thuja occidentalis,3,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+167,Thuja occidentalis,2,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+168,Thuja occidentalis,7,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+169,Thuja occidentalis,2,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+170,Thuja occidentalis,4,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+171,Thuja occidentalis,5,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+172,Hydrangea paniculata,NA,Measured,No,"4,6,3",D5SPPL-1,"4,6,3",NA,NA,NA,NA
+173,Hydrangea paniculata,NA,Measured,No,"3,2,4,3",D5SPPL-1,"3,2,4,3",NA,NA,NA,NA
+174,Hydrangea paniculata,NA,Measured,No,"2,3,3",D5SPPL-1,"2,3,3",NA,NA,NA,NA
+175,Hydrangea paniculata,NA,Measured,No,"4,4",D5SPPL-1,"4,4",NA,NA,NA,NA
+176,Hydrangea paniculata,NA,Measured,No,"3,4,4,6",D5SPPL-1,"3,4,4,6",NA,NA,NA,NA
+177,Hydrangea paniculata,NA,Measured,No,"2,3,3,3,3",D5SPPL-1,"2,3,3,3,3",NA,NA,NA,NA
+178,Hydrangea paniculata,NA,Measured,No,"4,4,3",D5SPPL-1,"4,4,3",NA,NA,NA,NA
+179,Hydrangea paniculata,NA,Measured,No,"3,4,5",D5SPPL-1,"3,4,5",NA,NA,NA,NA
+180,Hydrangea paniculata,NA,Measured,No,"3,5,5",D5SPPL-1,"3,5,5",NA,NA,NA,NA
+181,Hydrangea paniculata,3,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+182,Hydrangea paniculata,NA,Measured,No,"3,3,2,3",D5SPPL-1,"3,3,2,3",NA,NA,NA,NA
+183,Hydrangea paniculata,NA,Measured,No,"3,4,3",D5SPPL-1,"3,4,3",NA,NA,NA,NA
+184,Taxus canadensis,9.1,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+185,Taxus canadensis,13.5,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+186,Taxus canadensis,8.1,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+187,Taxus canadensis,NA,Measured,No,"12.6,8.2",D5SPPL-1,"12.6,8.2",NA,NA,NA,NA
+188,Unknown,1,Estimated,No,x15,D5SPPL-1,x15,NA,NA,NA,NA
+189,Taxus canadensis,12,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+190,Taxus canadensis,9,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+191,Taxus canadensis,14.9,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+192,Taxus canadensis,10.6,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+193,Quercus macrocarpa,11,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+194,Quercus macrocarpa,18.5,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+195,Aesculus hippocastanum,19.3,Measured,No,NA,D5SPPL-1,NA,NA,NA,NA,NA
+196,Thuja occidentalis,NA,Measured,No,"6,8,3,6,5",D5SPPL-1,"6,8,3,6,5",NA,NA,NA,NA
+197,Thuja occidentalis,NA,Measured,No,"8,6,9",D5SPPL-1,"8,6,9",NA,NA,NA,NA
+198,Thuja occidentalis,NA,Measured,No,"9,10,4,5,5",D5SPPL-1,"9,10,4,5,5",NA,NA,NA,NA
+199,Thuja occidentalis,NA,Measured,No,"7,6,5,3,7",D5SPPL-1,"7,6,5,3,7",NA,NA,NA,NA
+200,Thuja occidentalis,NA,Measured,No,"6,8,7,2",D5SPPL-1,"6,8,7,2",NA,NA,NA,NA
+201,Acer saccharinum,15.9,Measured,No,NA,D5SPPL-2,NA,NA,NA,NA,NA
+202,Acer saccharinum,19.4,Measured,No,NA,D5SPPL-2,NA,NA,NA,NA,NA
+203,Malus spp.,4,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+204,Malus spp.,32.3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+205,Malus spp.,46.4,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+206,Malus spp.,59.6,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+207,Malus spp.,55.1,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+208,Malus spp.,3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+209,Malus spp.,3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+210,Acer x freemanii,NA,Measured,No,"68.4, 2, 2, 1, 3, 2, 3, 3, 4, 2, 3, 3, 2, 4, 3, 3",D4SPPL-1,"68.4, 2, 2, 1, 3, 2, 3, 3, 4, 2, 3, 3, 2, 4, 3, 3",NA,NA,NA,NA
+211,Malus spp.,33.1,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+212,Malus spp.,55.2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+213,Malus spp.,55.9,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+214,Malus spp.,52.9,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+215,Malus spp.,54.7,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+216,Malus spp.,50.3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+217,Malus spp.,31.2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+218,Malus spp.,52.9,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+219,Dead standing,45,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+220,Malus spp.,60.4,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+221,Acer x freemanii,53.4,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+222,Acer x freemanii,59.8,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+223,Acer saccharinum,45,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+224,Acer saccharinum,65,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+225,Rhamnus cathartica,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+226,Rhamnus cathartica,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+227,Rhamnus cathartica,1,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+228,Rhamnus cathartica,1,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+229,Rhamnus cathartica,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+230,Rhamnus cathartica,1,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+231,Rhamnus cathartica,1,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+232,Rhamnus cathartica,1,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+233,Rhus typhina,4,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+234,Ulmus americana,5,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+235,Dead standing,5,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+236,Rhamnus cathartica,1,Estimated,No,x5,D4SPPL-1,x5,NA,NA,NA,NA
+237,Acer negundo,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+238,Acer platanoides,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+239,Rhamnus cathartica,3,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+240,Rhamnus cathartica,NA,Estimated,No,"2, 1, 1, 05",D4SPPL-1,"2, 1, 1, 05",NA,NA,NA,NA
+241,Tilia cordata,NA,Estimated,No,"2, 3",D4SPPL-1,"2, 3",NA,NA,NA,NA
+242,Acer negundo,NA,Estimated,No,"5, 5, 8",D4SPPL-1,"5, 5, 8",NA,NA,NA,NA
+243,Rhus typhina,3,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+244,Celtis occidentalis,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+245,Acer negundo,NA,Estimated,No,"5,3,2,1,2",D4SPPL-1,"5,3,2,1,2",NA,NA,NA,NA
+246,Acer negundo,NA,Estimated,No,"3,3,2",D4SPPL-1,"3,3,2",NA,NA,NA,NA
+247,Rhamnus cathartica,1,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+248,Acer negundo,NA,Measured,No,"3,3",D4SPPL-1,"3,3",NA,NA,NA,NA
+249,Acer platanoides,3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+250,Acer platanoides,54.8,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+251,Acer platanoides,62.4,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+252,Acer rubrum,19.5,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+253,Acer rubrum,24.8,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+254,Acer saccharinum,83.6,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+255,Acer saccharinum,60.8,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+256,Acer saccharinum,29.6,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+257,Acer saccharinum,85.5,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+258,Acer saccharinum,30.6,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+259,Acer saccharinum,63.9,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+260,Acer saccharinum,38.2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+261,Acer saccharinum,39.4,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+262,Acer saccharinum,58.3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+263,Rhamnus cathartica,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+264,Rhamnus cathartica,NA,Measured,No,"2,2",D4SPPL-1,"2,2",NA,NA,NA,NA
+265,Acer platanoides,4,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+266,Rhamnus cathartica,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+267,Rhamnus cathartica,1,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+268,Rhamnus cathartica,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+269,Rhamnus cathartica,1,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+270,Rhamnus cathartica,3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+271,Rhamnus cathartica,3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+272,Rhamnus cathartica,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+273,Rhamnus cathartica,2,Estimated,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+274,Rhamnus cathartica,3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+275,Acer negundo,5,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+276,Acer platanoides,1,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+277,Acer platanoides,3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+278,Acer negundo,1,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+279,Acer platanoides,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+280,Acer platanoides,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+281,Acer platanoides,2,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+282,Acer negundo,1,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+283,Acer negundo,4,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+284,Acer platanoides,3,Measured,No,NA,D4SPPL-1,NA,NA,NA,NA,NA
+285,Acer platanoides,23.8,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+286,Rhamnus cathartica,1,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+287,Populus deltoides,27.3,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+288,Acer platanoides,20,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+289,Rhamnus cathartica,NA,Estimated,No,"5,3,3,1",D4SPPL-2,"5,3,3,1",NA,NA,NA,NA
+290,Populus deltoides,35,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+291,Populus deltoides,30,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+292,Populus deltoides,20,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+293,Populus deltoides,NA,Estimated,No,"20,23",D4SPPL-2,"20,23",NA,NA,NA,NA
+294,Populus deltoides,45,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+295,Rhamnus cathartica,NA,Estimated,No,"1,2",D4SPPL-2,"1,2",NA,NA,NA,NA
+296,Dead standing,2,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+297,Acer negundo,25,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+298,Rhamnus cathartica,NA,Estimated,No,"12,12,8",D4SPPL-2,"12,12,8",NA,NA,NA,NA
+299,Populus deltoides,NA,Estimated,No,"17.6,27",D4SPPL-2,"17.6,27",NA,NA,NA,NA
+300,Populus deltoides,12,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+301,Dead standing,10,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+302,Rhamnus cathartica,2,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+303,Populus deltoides,40,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+304,Dead standing,30,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+305,Dead standing,12,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+306,Populus deltoides,35,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+307,Populus deltoides,12,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+308,Populus deltoides,40,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+309,Acer saccharinum,2,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+310,Populus deltoides,35,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+311,Populus deltoides,38,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+312,Populus deltoides,12,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+313,Rhamnus cathartica,NA,Estimated,No,"2,2,3,2,3,3,3",D4SPPL-2,"2,2,3,2,3,3,3",NA,NA,NA,NA
+314,Acer saccharinum,NA,Estimated,No,"11,6,4,30,35",D4SPPL-2,"11,6,4,30,35",NA,NA,NA,NA
+315,Acer negundo,NA,Estimated,No,"2,2,1",D4SPPL-2,"2,2,1",NA,NA,NA,NA
+316,Acer platanoides,30,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+317,Populus deltoides,30,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+318,Acer platanoides,NA,Estimated,No,"20,20,20",D4SPPL-2,"20,20,20",NA,NA,NA,NA
+319,Acer platanoides,301010,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+320,Acer platanoides,256,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+321,Populus deltoides,50,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+322,Populus deltoides,30,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+323,Dead standing,8,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+324,Acer platanoides,37,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+325,Populus deltoides,35,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+326,Populus deltoides,12,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+327,Populus deltoides,35,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+328,Acer platanoides,NA,Estimated,No,"20,8,15,15",D4SPPL-2,"20,8,15,15",NA,NA,NA,NA
+329,Populus deltoides,20,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+330,Acer platanoides,NA,Estimated,No,"15,17",D4SPPL-2,"15,17",NA,NA,NA,NA
+331,Acer platanoides,NA,Estimated,No,"12.1,15",D4SPPL-2,"12.1,15",NA,NA,NA,NA
+332,Dead standing,8,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+333,Acer platanoides,NA,Estimated,No,"10,13",D4SPPL-2,"10,13",NA,NA,NA,NA
+334,Populus deltoides,36,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+335,Populus deltoides,30,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+336,Populus deltoides,40,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+337,Populus deltoides,40,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+338,Populus deltoides,60,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+339,Populus deltoides,35,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+340,Populus deltoides,20,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+341,Acer platanoides,NA,Estimated,No,"10,3",D4SPPL-2,"10,3",NA,NA,NA,NA
+342,Acer platanoides,NA,Estimated,No,"15,15",D4SPPL-2,"15,15",NA,NA,NA,NA
+343,Acer platanoides,NA,Estimated,No,"10.1,4.5",D4SPPL-2,"10.1,4.5",NA,NA,NA,NA
+344,Acer platanoides,7.1,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+345,Quercus robur,NA,Measured,No,"7.5,4,2,1,1",D4SPPL-2,"7.5,4,2,1,1",NA,NA,NA,NA
+346,Quercus robur,11.5,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+347,Quercus robur,16.5,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+348,Quercus robur,24.8,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+349,Quercus robur,21.5,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+350,Quercus robur,18.5,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+351,Quercus robur,21,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+352,Quercus palustris,NA,Measured,No,"2,1.5",D2SPPR-2,"2,1.5",NA,NA,NA,NA
+353,Prunus spp.,32,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+354,Acer saccharum,51.7,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+355,Hydrangea paniculata,7.3,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+356,Thuja occidentalis,NA,Estimated,Yes,"3 cm x 14, 25m",D2SPPR-2,"3 cm x 14, 25m",25,14,3,NA
+357,Acer saccharum,68.9,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+358,Picea glauca,35.6,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+359,Pinus resinosa,37.4,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+360,Pinus resinosa,25.5,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+361,Pinus resinosa,30.4,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+362,Picea glauca,24.3,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+363,Hydrangea paniculata,7,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+364,Hydrangea paniculata,7,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+365,NA,NA,Estimated,No,"3,12,4,4,4 (x 6). This hedge should be switched with the other hedge",D2SPPR-2,"3,12,4,4,4 (x 6). This hedge should be switched with the other hedge",NA,NA,NA,NA
+366,Thuja occidentalis,NA,Measured,No,"9,5,3",D2SPPR-1,"9,5,3",NA,NA,NA,NA
+367,Thuja occidentalis,NA,Measured,No,"5.5,2,8,5.5",D2SPPR-1,"5.5,2,8,5.5",NA,NA,NA,NA
+368,Thuja occidentalis,NA,Measured,No,"7,9,4,1.5,1,2",D2SPPR-1,"7,9,4,1.5,1,2",NA,NA,NA,NA
+369,Thuja occidentalis,NA,Measured,No,"4,5,6",D2SPPR-1,"4,5,6",NA,NA,NA,NA
+370,Thuja occidentalis,NA,Estimated,Yes,"4cm x9 stems, 20m",D2SPPR-1,"4cm x9 stems, 20m",20,9,4,NA
+371,Thuja occidentalis,NA,Estimated,Yes,"3cm x16 stems, 8m",D2SPPR-1,"3cm x16 stems, 8m",8,16,3,NA
+372,Quercus robur,19.8,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+373,Euonymus alatus,NA,Estimated,No,"3,3,3,2,1,1,1,1,1",D2SPPR-1,"3,3,3,2,1,1,1,1,1",NA,NA,NA,NA
+374,Hydrangea paniculata,NA,Estimated,No,"3,3",D2SPPR-1,"3,3",NA,NA,NA,NA
+375,Celtis occidentalis,4,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+376,Thuja occidentalis,2,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+377,Thuja occidentalis,2,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+378,Syringa reticulata,5,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+379,Gleditsia triacanthos,4,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+380,Larix laricina,7.9,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+381,Unknown sp 1,NA,Measured,No,"9,3",D4SHPR-2,"9,3",NA,NA,NA,NA
+382,Picea glauca,9.5,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+383,Thuja occidentalis,NA,Estimated,Yes,"10 trees, 3 DBH,10m",D4SHPR-2,"10 trees, 3 DBH,10m",10,10,3,NA
+384,Syringa vulgaris,8,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+385,Syringa vulgaris,NA,Measured,No,"3,2,6,1,1",D4SHPR-2,"3,2,6,1,1",NA,NA,NA,NA
+386,Syringa vulgaris,NA,Measured,No,"9.25,10.4,3,6",D4SHPR-2,"9.25,10.4,3,6",NA,NA,NA,NA
+387,Syringa vulgaris,10,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+388,Syringa vulgaris,8,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+389,Syringa vulgaris,7,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+390,Syringa vulgaris,1,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+391,Syringa vulgaris,4,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+392,Syringa vulgaris,4,Measured,No,"Also 4, not duplicate",D4SHPR-2,"Also 4, not duplicate",NA,NA,NA,NA
+393,Syringa vulgaris,1,Estimated,No,x5,D4SHPR-2,x5,NA,NA,NA,NA
+394,Syringa vulgaris,6,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+395,Thuja occidentalis,15,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+396,Pyrus spp.,40,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+397,Thuja occidentalis,15,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+398,Thuja occidentalis,NA,Estimated,No,"10,5,4",D4SHPR-2,"10,5,4",NA,NA,NA,NA
+399,Acer saccharinum,70,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+400,Picea glauca,12,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+401,Acer negundo,21.9,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+402,Acer negundo,30.6,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+403,Picea glauca,13.1,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+404,Picea glauca,24.65,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+405,Salix babylonica,100,Estimated,No,"Hollowed out, verify sp",D4SHPR-1,"Hollowed out, verify sp",NA,NA,NA,NA
+406,Thuja occidentalis,34.9,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+407,Thuja occidentalis,32.8,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+408,Acer negundo,40,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+409,Picea abies,25,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+410,Picea abies,28.2,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+411,Prunus virginiana,5.5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+412,Ulmus americana,7,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+413,Ulmus americana,5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+414,Prunus virginiana,2.5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+415,Ulmus americana,7,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+416,Prunus virginiana,4.5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+417,Ulmus americana,7,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+418,Prunus virginiana,3,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+419,Dead standing,2,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+420,Dead standing,1.5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+421,Prunus virginiana,4,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+422,Prunus virginiana,3.5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+423,Prunus virginiana,2,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+424,Prunus virginiana,3.5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+425,Prunus virginiana,3.5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+426,Acer rubrum,6,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+427,Rhamnus cathartica,NA,Estimated,Yes,"20 trees, 4cm, 10m",D3SHPR-1,"20 trees, 4cm, 10m",10,20,4,NA
+428,Thuja occidentalis,45.4,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+429,Rhamnus cathartica,10,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+430,Picea rubens,27.7,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+431,Picea rubens,39.1,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+432,Ulmus americana,4,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+433,Ulmus americana,5,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+434,Acer platanoides,40,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+435,Thuja occidentalis,NA,Measured,No,"7,3,2,4",D3SHPR-1,"7,3,2,4",NA,NA,NA,NA
+436,Syringa reticulata,NA,Estimated,No,"2,1.5,1.5,2,2,1.5,1,1,1,1,1,0.75,1",D3SHPR-1,"2,1.5,1.5,2,2,1.5,1,1,1,1,1,0.75,1",NA,NA,NA,NA
+437,Fraxinus pennsylvanica,1.5,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+438,Fraxinus pennsylvanica,1.5,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+439,Rhamnus cathartica,6,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+440,Thuja occidentalis,6,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+441,Thuja occidentalis,NA,Measured,No,"3.5,4",D3SHPR-1,"3.5,4",NA,NA,NA,NA
+442,Thuja occidentalis,NA,Measured,No,"3,3.5",D3SHPR-1,"3,3.5",NA,NA,NA,NA
+443,Syringa reticulata,NA,Estimated,No,"1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",D3SHPR-1,"1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",NA,NA,NA,NA
+444,Syringa reticulata,NA,Estimated,No,"2,2,2,2,1,1,0.5,0.5",D3SHPR-1,"2,2,2,2,1,1,0.5,0.5",NA,NA,NA,NA
+445,Thuja occidentalis,NA,Estimated,No,"5,5",D3SHPR-1,"5,5",NA,NA,NA,NA
+446,Acer saccharinum,10.3,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+447,Acer saccharinum,NA,Measured,No,"10.2,4",D3SHPR-1,"10.2,4",NA,NA,NA,NA
+448,Syringa reticulata,NA,Estimated,No,"2,1,1.5,1,1.5,1.5,1",D3SHPR-1,"2,1,1.5,1,1.5,1.5,1",NA,NA,NA,NA
+449,Acer saccharinum,NA,Measured,No,"13.3,4,5.5,7,3,2,2,5.5",D3SHPR-1,"13.3,4,5.5,7,3,2,2,5.5",NA,NA,NA,NA
+450,Syringa reticulata,NA,Estimated,No,"1,1,2,2,1",D3SHPR-1,"1,1,2,2,1",NA,NA,NA,NA
+451,Gymnocladus dioicus,8,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+452,Acer negundo,50,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+453,Salix integra,NA,Estimated,No,"3,3.5,3.5,3,2,3.5",D3SHPR-2,"3,3.5,3.5,3,2,3.5",NA,NA,NA,NA
+454,Philadelphus pubescens,2,Estimated,No,X9,D4SPPR-2,X9,NA,NA,NA,NA
+455,Philadelphus pubescens,NA,Estimated,No,"4,4",D4SPPR-2,"4,4",NA,NA,NA,NA
+456,Philadelphus pubescens,NA,Estimated,No,"3,3,3",D4SPPR-2,"3,3,3",NA,NA,NA,NA
+457,Philadelphus pubescens,NA,Estimated,No,"5,2",D4SPPR-2,"5,2",NA,NA,NA,NA
+458,Philadelphus pubescens,NA,Estimated,No,"6,2,1,3.5,0.5,1",D4SPPR-2,"6,2,1,3.5,0.5,1",NA,NA,NA,NA
+459,Acer rubrum,70,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+460,Acer saccharinum,100,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+461,Sorbus aucuparia,30.7,Measured,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+462,Acer ginnala,15,Measured,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+463,Acer platanoides,31.7,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+464,Dead standing,62.35,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+465,Acer saccharinum,87.7,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+466,Acer saccharinum,66.7,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+467,Acer saccharinum,64.2,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+468,Acer saccharinum,49.9,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+469,Acer platanoides,39.9,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+470,Acer platanoides,46.8,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+471,Acer platanoides,59.5,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+472,Acer platanoides,49,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+473,Acer saccharinum,61.8,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+474,Acer saccharinum,45.15,Estimated,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+475,Acer saccharinum,73.95,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+476,Acer saccharinum,61.95,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+477,Acer platanoides,33.15,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+478,Acer saccharinum,72.5,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+479,Pinus banksiana,9,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+480,Pinus banksiana,7,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+481,Acer platanoides,65.15,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+482,Acer platanoides,50.2,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+483,Acer platanoides,60.2,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+484,Acer saccharinum,61.2,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+485,Acer platanoides,53.85,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+486,Acer platanoides,46.2,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+487,Acer x freemanii,5,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+488,Unknown 1,3.5,Measured,No,"July 6 2026, red maple?",D3SPPL-2,"July 6 2026, red maple?",NA,NA,NA,NA
+489,Acer platanoides,62.65,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+490,Acer platanoides,55.25,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+491,Acer saccharinum,54.4,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+492,Tilia cordata,59.2,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+493,Acer saccharinum,55,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+494,Tilia cordata,68.85,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+495,Celtis occidentalis,15.4,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+496,Syringa reticulata,10.5,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+497,Acer tartaricum,NA,Estimated,No,"8,8,6,4,4,8,2",D3SPPL-2,"8,8,6,4,4,8,2",NA,NA,NA,NA
+498,Amelanchier canadensis,NA,Estimated,No,"2,2,3,3,3,4,5,4,2.5,3,2",D3SPPL-2,"2,2,3,3,3,4,5,4,2.5,3,2",NA,NA,NA,NA
+499,Acer saccharinum,NA,Measured,No,"8.9,18.4",D3SPPL-2,"8.9,18.4",NA,NA,NA,NA
+500,Syringa reticulata,NA,Estimated,No,"4,4,5,4,1,2,2,6,2,2.5,4,3,2,2,2,4,5,6,5",D3SPPL-2,"4,4,5,4,1,2,2,6,2,2.5,4,3,2,2,2,4,5,6,5",NA,NA,NA,NA
+501,Acer saccharinum,11.45,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+502,Tilia cordata,57.1,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+503,Tilia cordata,68.6,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+504,Acer platanoides,54.1,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+505,Quercus macrocarpa,4,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+506,Gleditsia triacanthos,44.5,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+507,Gleditsia triacanthos,31.5,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+508,Tilia cordata,34.4,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+509,Celtis occidentalis,5,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+510,Celtis occidentalis,7,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+511,Gleditsia triacanthos,8,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+512,Gleditsia triacanthos,7,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+513,Gleditsia triacanthos,8.5,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+514,Ulmus americana,87.5,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+515,Acer platanoides,54.1,Measured,No,NA,D3SPPL-2,NA,NA,NA,NA,NA
+516,Unknown 2,15.6,Measured,No,20260706 malus sp?,D3SPPL-2,20260706 malus sp?,NA,NA,NA,NA
+517,Thuja occidentalis,11.1,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+518,Thuja occidentalis,11.3,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+519,Acer negundo,25,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+520,Acer negundo,NA,Measured,No,"39.9, 50",D4SPPR-1,"39.9, 50",NA,NA,NA,NA
+521,Ulmus pumila,15,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+522,Populus tremuloides,3,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+523,Physocarpus opulifolius,NA,Estimated,No,"2,2,2,2,2,2,2,2,2,2,2,2",D3SPPR-1,"2,2,2,2,2,2,2,2,2,2,2,2",NA,NA,NA,NA
+524,Physocarpus opulifolius,NA,Estimated,No,"2,2,2,2,2,2,2",D3SPPR-1,"2,2,2,2,2,2,2",NA,NA,NA,NA
+525,Prunus virginiana,3.5,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+526,Prunus domestica,25.8,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+527,Prunus domestica,NA,Estimated,No,"9.5, 6.3, 11.5, 4",D3SPPR-1,"9.5, 6.3, 11.5, 4",NA,NA,NA,NA
+528,Acer palmatum,2.5,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+529,Thuja occidentalis,5,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+530,Thuja occidentalis,5,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+531,Thuja occidentalis,5,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+532,Thuja occidentalis,5,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+533,Acer platanoides,23,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+534,Juglans cinerea,40,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+535,Acer platanoides,NA,Estimated,No,"10,10",D3SPPR-1,"10,10",NA,NA,NA,NA
+536,Thuja occidentalis,NA,Estimated,No,"3,3,3,3,3,3,3,3,3,3,3,3,3,3",D3SPPR-1,"3,3,3,3,3,3,3,3,3,3,3,3,3,3",NA,NA,NA,NA
+537,Thuja occidentalis,NA,Estimated,No,"3,3,3,3,3,3,3,3,3,3,3,3,3",D3SPPR-1,"3,3,3,3,3,3,3,3,3,3,3,3,3",NA,NA,NA,NA
+538,Thuja occidentalis,22.2,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+539,Thuja occidentalis,15,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+540,Malus hupehensis,29.8,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+541,Acer negundo,45.5,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+542,Pyrus communis,NA,Measured,No,"18.2, 14.5, 16.3, 18.4",D3SPPR-1,"18.2, 14.5, 16.3, 18.4",NA,NA,NA,NA
+543,Balsam fir,37.7,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+544,Thuja occidentalis,12,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+545,Thuja spp.,8,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+546,Hibiscus syriacus,5,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+547,Syringa reticulata,14,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+548,Thuja occidentalis,4,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+549,Thuja occidentalis,30,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+550,Picea rubens?,20,Estimated,No,20260713,D3SPPR-1,20260713,NA,NA,NA,NA
+551,Thuja occidentalis,23,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+552,Picea glauca,43.8,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+553,Acer saccharinum,87,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+554,Acer saccharinum,76.25,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+555,Unknown,NA,Measured,No,"20260714 Jack pine / 19,21",D4SPPL-2,"20260714 Jack pine / 19,21",NA,NA,NA,NA
+556,Unknown,14,Estimated,No,20260714 Scots pine?,D4SPPL-2,20260714 Scots pine?,NA,NA,NA,NA
+557,Malus spp.,60.2,Measured,No,20260714 Siena has pictures,D4SPPL-2,20260714 Siena has pictures,NA,NA,NA,NA
+558,Pinus mugo,NA,Estimated,No,"10,13,15",D4SPPL-2,"10,13,15",NA,NA,NA,NA
+559,Acer saccharinum,62.2,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+560,Acer saccharinum,69.4,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+561,Acer saccharinum,26.5,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+562,Acer saccharinum,71,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+563,Acer saccharinum,72.2,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+564,Acer saccharinum,67.6,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+565,Acer saccharinum,43.4,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+566,Acer saccharinum,47.2,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+567,Acer saccharinum,48.8,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+568,Acer saccharinum,49.1,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+569,Acer saccharinum,60.9,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+570,Acer saccharinum,47.3,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+571,Acer saccharinum,60,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+572,Acer saccharinum,42.1,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+573,Tilia americana,45,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+574,Acer saccharinum,71.1,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+575,Fraxinus pennsylvanica,NA,Estimated,No,"2,3,4,3,4,3,3.5,1,1",D4SPPL-2,"2,3,4,3,4,3,3.5,1,1",NA,NA,NA,NA
+576,Rhamnus cathartica,NA,Estimated,No,"2,3,4",D4SPPL-2,"2,3,4",NA,NA,NA,NA
+577,Rhamnus cathartica,NA,Estimated,No,"2,3,3,4,3,2,1,2",D4SPPL-2,"2,3,3,4,3,2,1,2",NA,NA,NA,NA
+578,Dead standing,1,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+579,Dead standing,6,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+580,Dead standing,NA,Estimated,No,"4,8",D4SPPL-2,"4,8",NA,NA,NA,NA
+581,Dead standing,NA,Estimated,No,"2,3,3,2,3,1,4,2",D4SPPL-2,"2,3,3,2,3,1,4,2",NA,NA,NA,NA
+582,Dead standing,NA,Estimated,No,"2,2,2,2",D4SPPL-2,"2,2,2,2",NA,NA,NA,NA
+583,Dead standing,3,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+584,Amelanchier canadensis,NA,Estimated,No,"2.5,1,0.5",D4SPPL-2,"2.5,1,0.5",NA,NA,NA,NA
+585,Ulmus americana,NA,Estimated,No,"10,8,12",D4SPPL-2,"10,8,12",NA,NA,NA,NA
+586,Acer saccharinum,NA,Estimated,No,"20,10,5,6",D4SPPL-2,"20,10,5,6",NA,NA,NA,NA
+587,Acer saccharum,11.9,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+588,Rhamnus cathartica,NA,Estimated,No,2 *13,D4SPPL-2,2 *13,NA,NA,NA,NA
+589,Tilia cordata,NA,Measured,No,"6,2",D4SPPL-2,"6,2",NA,NA,NA,NA
+590,Tilia cordata,29,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+591,Rhamnus cathartica,2,Estimated,No,X 3 trees,D4SPPL-2,X 3 trees,NA,NA,NA,NA
+592,Rhamnus cathartica,2,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+593,Tilia cordata,3,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+594,Tilia cordata,7,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+595,Dead standing,2,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+596,Tilia cordata,4,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+597,Dead standing,1,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+598,Tilia cordata,NA,Measured,No,"9.25,9.7",D4SPPL-2,"9.25,9.7",NA,NA,NA,NA
+599,Tilia cordata,NA,Estimated,No,"4,7.5,4",D4SPPL-2,"4,7.5,4",NA,NA,NA,NA
+600,Acer saccharinum,NA,Estimated,No,"30,40,7",D4SPPL-2,"30,40,7",NA,NA,NA,NA
+601,Acer saccharinum,NA,Estimated,No,"27, 28.5, 28.5",D4SPPL-2,"27, 28.5, 28.5",NA,NA,NA,NA
+602,Rhamnus cathartica,NA,Estimated,No,"2, 0.5",D4SPPL-2,"2, 0.5",NA,NA,NA,NA
+603,Acer saccharinum,NA,Estimated,No,"2,2,0.5",D4SPPL-2,"2,2,0.5",NA,NA,NA,NA
+604,Prunus virginiana,1,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+605,Tilia cordata,8,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+606,Tilia cordata,9.2,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+607,Rhamnus cathartica,3,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+608,Acer saccharinum,NA,Estimated,No,"2,2",D4SPPL-2,"2,2",NA,NA,NA,NA
+609,Rhamnus cathartica,3,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+610,Acer saccharinum,2,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+611,Acer saccharinum,NA,Estimated,No,"4,3",D4SPPL-2,"4,3",NA,NA,NA,NA
+612,Acer platanoides,25,Estimated,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+613,Populus deltoides,40.5,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+614,Populus spp.,50.9,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+615,Pinus spp.,15,Estimated,No,20260714 Banksiana or resinosa?,D4SPPL-2,20260714 Banksiana or resinosa?,NA,NA,NA,NA
+616,Abies spp.,10.9,Measured,No,Balsam or Frasier fir,D4SPPL-2,Balsam or Frasier fir,NA,NA,NA,NA
+617,Syringa vulgaris,NA,Estimated,No,"7,5,4,3.5,5,2,2,0.5,0.5,1,1,7,3",D4SPPL-2,"7,5,4,3.5,5,2,2,0.5,0.5,1,1,7,3",NA,NA,NA,NA
+618,Syringa vulgaris,NA,Estimated,No,"4,4,3,3,4,1,1,3,5,6,6,2,3,3.5,2,3,5,1,5,5,3,2",D4SPPL-2,"4,4,3,3,4,1,1,3,5,6,6,2,3,3.5,2,3,5,1,5,5,3,2",NA,NA,NA,NA
+619,Syringa vulgaris,NA,Estimated,No,"3.5,3,5,3,5,4,1,3",D4SPPL-2,"3.5,3,5,3,5,4,1,3",NA,NA,NA,NA
+620,Celtis occidentalis,26,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+621,Acer saccharinum,53.6,Measured,No,NA,D4SPPL-2,NA,NA,NA,NA,NA
+622,Sambucus canadensis,9,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+623,Acer negundo,1.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+624,Acer negundo,2,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+625,Acer negundo,1,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+626,Acer negundo,1,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+627,Acer negundo,2,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+628,Malus spp.,8,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+629,Morus nigra,NA,Estimated,No,"4,4.5,4.5,8,2,1,2,5, 3, 5, 5",D3SHPL-2,"4,4.5,4.5,8,2,1,2,5, 3, 5, 5",NA,NA,NA,NA
+630,Thuja occidentalis,NA,Estimated,No,"3,3,3,x8",D3SHPL-2,"3,3,3,x8",NA,NA,NA,NA
+631,Malus spp.,NA,Estimated,No,"20260715 to verify 4,3,2,2,1,1",D3SHPL-2,"20260715 to verify 4,3,2,2,1,1",NA,NA,NA,NA
+632,Forsythia spp.,NA,NA,No,20260715,D3SHPL-2,20260715,NA,NA,NA,NA
+633,Forsythia spp.,NA,NA,No,Hedge,D3SHPL-2,Hedge,NA,NA,NA,NA
+634,Populus deltoides,35.7,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+635,Populus deltoides,52.7,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+636,Populus deltoides,33.1,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+637,Populus deltoides,41,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+638,Populus deltoides,19.1,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+639,Populus deltoides,41.9,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+640,Populus deltoides,27.3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+641,Thuja occidentalis,NA,Estimated,Yes,"7stems, 3cm x 15m",D3SHPL-2,"7stems, 3cm x 15m",15,7,3,NA
+642,Acer negundo,9,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+643,Acer negundo,NA,Measured,No,"25,27.5",D3SHPL-2,"25,27.5",NA,NA,NA,NA
+644,Rhamnus cathartica,2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+645,Acer negundo,30,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+646,Acer negundo,NA,Estimated,No,"5,2",D3SHPL-2,"5,2",NA,NA,NA,NA
+647,Acer negundo,35,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+648,Acer negundo,NA,Measured,No,"4,2",D3SHPL-2,"4,2",NA,NA,NA,NA
+649,Acer negundo,18,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+650,Acer negundo,NA,Measured,No,"25,18.2",D3SHPL-2,"25,18.2",NA,NA,NA,NA
+651,Acer negundo,12.4,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+652,Acer negundo,33.8,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+653,Acer negundo,15.25,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+654,Acer negundo,13.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+655,Acer negundo,16.6,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+656,Acer negundo,24.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+657,Acer negundo,10.4,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+658,Tilia americana,22.35,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+659,Acer negundo,20,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+660,Rhamnus cathartica,5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+661,Acer negundo,4,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+662,Ulmus laevis,25,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+663,Acer negundo,5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+664,Acer negundo,4,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+665,Acer negundo,11.2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+666,Acer negundo,31.2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+667,Acer negundo,NA,Estimated,No,"35,4,2",D3SHPL-2,"35,4,2",NA,NA,NA,NA
+668,Acer negundo,3,Estimated,No,x 15,D3SHPL-2,x 15,NA,NA,NA,NA
+669,Acer negundo,8.3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+670,Acer negundo,32.3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+671,Dead standing,NA,Measured,No,"3.5,5",D3SHPL-2,"3.5,5",NA,NA,NA,NA
+672,Acer negundo,11.6,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+673,Acer negundo,24.1,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+674,Dead standing,4,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+675,Acer negundo,7,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+676,Rhamnus cathartica,NA,Measured,No,"2,3,2,5.5,5",D3SHPL-2,"2,3,2,5.5,5",NA,NA,NA,NA
+677,Acer negundo,9,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+678,Acer negundo,NA,Measured,No,"5.5,8.5",D3SHPL-2,"5.5,8.5",NA,NA,NA,NA
+679,Ulmus laevis,41.3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+680,Rhamnus cathartica,3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+681,Rhamnus cathartica,7,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+682,Rhamnus cathartica,2.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+683,Acer negundo,NA,Measured,No,"21.1,25,16.3",D3SHPL-2,"21.1,25,16.3",NA,NA,NA,NA
+684,Rhamnus cathartica,2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+685,Acer negundo,26.2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+686,Rhamnus cathartica,2.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+687,Rhamnus cathartica,5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+688,Rhamnus cathartica,3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+689,Rhamnus cathartica,6,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+690,Rhamnus cathartica,1,Estimated,No,x 10,D3SHPL-2,x 10,NA,NA,NA,NA
+691,Rhamnus cathartica,2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+692,Acer negundo,10.1,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+693,Acer negundo,6,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+694,Acer negundo,16.4,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+695,Dead standing,2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+696,Acer negundo,3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+697,Acer negundo,24,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+698,Acer negundo,21.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+699,Acer negundo,2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+700,Acer negundo,NA,Measured,No,"23,11.9",D3SHPL-2,"23,11.9",NA,NA,NA,NA
+701,Acer negundo,8,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+702,Acer negundo,5,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+703,Acer negundo,5,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+704,Rhamnus cathartica,2,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+705,Rhamnus cathartica,1,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+706,Ulmus laevis,5,Estimated,No,2026/07/15 to verify,D3SHPL-2,2026/07/15 to verify,NA,NA,NA,NA
+707,Rhamnus cathartica,4.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+708,Ulmus laevis,12.4,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+709,Ulmus laevis,5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+710,Rhamnus cathartica,NA,Measured,No,"6,2",D3SHPL-2,"6,2",NA,NA,NA,NA
+711,Rhamnus cathartica,25,Estimated,No,x 2,D3SHPL-2,x 2,NA,NA,NA,NA
+712,Ulmus laevis,10,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+713,Acer negundo,8,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+714,Rhamnus cathartica,2.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+715,Dead standing,3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+716,Dead standing,3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+717,Dead standing,3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+718,Dead standing,16.1,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+719,Dead standing,5.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+720,Populus deltoides,78.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+721,Ulmus laevis,7.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+722,Ulmus laevis,21.8,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+723,Rhamnus cathartica,3,Estimated,No,x 30,D3SHPL-2,x 30,NA,NA,NA,NA
+724,Acer negundo,5,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+725,Dead standing,NA,Estimated,No,"2,2,1",D3SHPL-2,"2,2,1",NA,NA,NA,NA
+726,Rhamnus cathartica,4,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+727,Dead standing,2,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+728,Populus deltoides,70,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+729,Dead standing,4,Estimated,No,x 2,D3SHPL-2,x 2,NA,NA,NA,NA
+730,Ulmus laevis,10,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+731,Acer negundo,1,Estimated,No,x5,D3SHPL-2,x5,NA,NA,NA,NA
+732,Dead standing,3,Estimated,No,x3,D3SHPL-2,x3,NA,NA,NA,NA
+733,Dead standing,5,Estimated,No,x 2,D3SHPL-2,x 2,NA,NA,NA,NA
+734,Rhamnus cathartica,2,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+735,Rhamnus cathartica,5,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+736,Ulmus laevis,25,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+737,Rhamnus cathartica,5,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+738,Rhamnus cathartica,NA,Estimated,No,"5,3,1,1",D3SHPL-2,"5,3,1,1",NA,NA,NA,NA
+739,Dead standing,12.6,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+740,Acer negundo,NA,Estimated,No,"20,15,10",D3SHPL-2,"20,15,10",NA,NA,NA,NA
+741,Rhamnus cathartica,1,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+742,Rhamnus cathartica,3,Estimated,No,x 3,D3SHPL-2,x 3,NA,NA,NA,NA
+743,Rhamnus cathartica,1,Estimated,No,x 2,D3SHPL-2,x 2,NA,NA,NA,NA
+744,Acer negundo,8,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+745,Rhamnus cathartica,1,Estimated,No,x 2,D3SHPL-2,x 2,NA,NA,NA,NA
+746,Rhamnus cathartica,3,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+747,Acer negundo,5,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+748,Acer negundo,14.8,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+749,Acer negundo,5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+750,Acer negundo,6,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+751,Rhamnus cathartica,12,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+752,Dead standing,8,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+753,Dead standing,3,Estimated,No,x3,D3SHPL-2,x3,NA,NA,NA,NA
+754,Acer negundo,12,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+755,Dead standing,3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+756,Acer negundo,NA,Estimated,No,"3,3.5",D3SHPL-2,"3,3.5",NA,NA,NA,NA
+757,Dead standing,4,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+758,Rhamnus cathartica,3,Estimated,No,x4,D3SHPL-2,x4,NA,NA,NA,NA
+759,Dead standing,11.65,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+760,Acer negundo,46.2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+761,Morus rubra,6,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+762,Acer negundo,4,Estimated,No,x 3,D3SHPL-2,x 3,NA,NA,NA,NA
+763,Acer negundo,22.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+764,Acer negundo,8,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+765,Acer negundo,10,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+766,Rhamnus cathartica,5,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+767,Acer negundo,20,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+768,Acer negundo,25,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+769,Acer negundo,NA,Measured,No,"21,16.6",D3SHPL-2,"21,16.6",NA,NA,NA,NA
+770,Acer negundo,7,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+771,Acer negundo,27,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+772,Rhamnus cathartica,4,Estimated,No,x7,D3SHPL-2,x7,NA,NA,NA,NA
+773,Dead standing,7,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+774,Acer negundo,25,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+775,Rhamnus cathartica,5,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+776,Rhamnus cathartica,2,Estimated,No,x2,D3SHPL-2,x2,NA,NA,NA,NA
+777,Unknown 1,13,Estimated,No,"20260717 Alternate leaves, no fruits, short pointed tip, oval leaves 10cm, small",D4SHPR-1,"20260717 Alternate leaves, no fruits, short pointed tip, oval leaves 10cm, small",NA,NA,NA,NA
+778,Acer platanoides,50,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+779,Unknown 2,NA,Estimated,No,"20260717 15,8,18 chokecherry?",D4SHPR-1,"20260717 15,8,18 chokecherry?",NA,NA,NA,NA
+780,Acer negundo,18,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+781,Salix spp.,55,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+782,Picea glauca,26.8,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+783,Amelanchier canadensis,8,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+784,Ulmus pumila,23.6,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+785,Acer platanoides,15,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+786,Acer platanoides,15,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+787,Acer platanoides,35,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+788,Acer platanoides,35,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+789,Dead standing,10,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+790,Ulmus pumila,35,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+791,NA,NA,Measured,No,"6,6,4.5, common lilac to verify",D4SHPR-1,"6,6,4.5, common lilac to verify",NA,NA,NA,NA
+792,Acer platanoides,NA,Estimated,No,"25, 35, 35",D4SHPR-1,"25, 35, 35",NA,NA,NA,NA
+793,Acer platanoides,40,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+794,Acer negundo,18,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+795,Acer platanoides,30,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+796,Picea glauca,35,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+797,Hydrangea spp.,8,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+798,Prunus spp.,21.6,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+799,Acer platanoides,60.2,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+800,Picea spp.,4,Measured,No,20260717 red spruce?,D4SHPR-1,20260717 red spruce?,NA,NA,NA,NA
+801,Ulmus pumila,31.5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+802,Ulmus pumila,31.5,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+803,Ulmus pumila,30,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+804,Ulmus pumila,15,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+805,Ulmus pumila,15,NA,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+806,Acer platanoides,43.9,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+807,Syringa vulgaris,NA,Measured,No,"6,8.5,2,4.   2026-07-17 to verify",D4SHPR-1,"6,8.5,2,4.   2026-07-17 to verify",NA,NA,NA,NA
+808,Thuja occidentalis,10,Estimated,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+809,Thuja occidentalis,NA,Estimated,No,"8,4",D4SHPR-1,"8,4",NA,NA,NA,NA
+810,Unknown,20,Estimated,No,Not visible,D4SHPR-1,Not visible,NA,NA,NA,NA
+811,Ulmus pumila,56.4,Measured,No,NA,D4SHPR-1,NA,NA,NA,NA,NA
+812,Acer saccharinum,23,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+813,Malus spp.,NA,Estimated,No,"5,3,2,2,1,1,1,1,1",D3SPPR-2,"5,3,2,2,1,1,1,1,1",NA,NA,NA,NA
+814,Thuja occidentalis,NA,Estimated,Yes,"15m long, 4 stems, 5cm DBH",D3SPPR-2,"15m long, 4 stems, 5cm DBH",15,4,5,NA
+815,Malus spp.,NA,Measured,No,"7,8.5,5,7,1,1,1",D3SPPR-2,"7,8.5,5,7,1,1,1",NA,NA,NA,NA
+816,Ostrya virginiana,10.5,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+817,Cotinus coggygria,NA,Estimated,No,"2,5,4,3,2",D3SPPR-2,"2,5,4,3,2",NA,NA,NA,NA
+818,Acer negundo,44.2,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+819,Acer negundo,26.4,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+820,Acer negundo,29.6,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+821,Acer negundo,28.3,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+822,Acer negundo,47.1,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+823,Acer platanoides,19.1,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+824,Acer platanoides,63.2,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+825,Taxus cuspidata,NA,Measured,No,"8,8,4,4,5.5,5.5,5,3",D3SPPR-2,"8,8,4,4,5.5,5.5,5,3",NA,NA,NA,NA
+826,Amelanchier arborea,10,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+827,Syringa vulgaris,NA,Estimated,No,"5,5,5,10,4,4,4",D3SPPR-2,"5,5,5,10,4,4,4",NA,NA,NA,NA
+828,Ulmus pumila,46.1,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+829,Taxus canadensis,8.5,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+830,Taxus canadensis,NA,Measured,No,"16.4,7",D3SPPR-2,"16.4,7",NA,NA,NA,NA
+831,Acer saccharinum,73.4,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+832,Thuja occidentalis,NA,Estimated,Yes,9.85 x 4 stems x 20m,D3SPPR-2,9.85 x 4 stems x 20m,20,4,9.85,NA
+833,Amelanchier canadensis,4,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+834,Acer negundo,20,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+835,Acer x freemanii,12,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+836,Acer platanoides,10,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+837,Acer x freemanii,10,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+838,Acer platanoides,NA,Estimated,No,"25, 15, 18",D3SPPR-2,"25, 15, 18",NA,NA,NA,NA
+839,Fagus grandifolia,12,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+840,Acer saccharinum,NA,Measured,No,"17.2,12.4,22.2",D3SPPR-2,"17.2,12.4,22.2",NA,NA,NA,NA
+841,Syringa reticulata,7,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+842,Syringa reticulata,10,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+843,Thuja occidentalis,5,Estimated,No,X 6 stems,D3SPPR-2,X 6 stems,NA,NA,NA,NA
+844,Acer platanoides,48.2,Measured,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+845,Acer nigrum,34,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+846,Picea pungens,20,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+847,Syringa vulgaris,NA,Estimated,No,"5,5,7,7,5,2,2,2,2",D3SPPR-2,"5,5,7,7,5,2,2,2,2",NA,NA,NA,NA
+848,Syringa reticulata,12,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+849,Thuja occidentalis,NA,Estimated,No,"20,20",D3SPPR-2,"20,20",NA,NA,NA,NA
+850,Picea rubens,12,Estimated,No,NA,D3SPPR-2,NA,NA,NA,NA,NA
+851,Thuja occidentalis,NA,Estimated,No,"4,4",D3SPPR-2,"4,4",NA,NA,NA,NA
+852,Quercus rubra,8,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+853,Acer platanoides,29,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+854,Acer platanoides,NA,Estimated,No,"35, 30, 20, 35",D3SPPR-1,"35, 30, 20, 35",NA,NA,NA,NA
+855,Hydrangea paniculata,NA,Estimated,No,"3,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1",D3SPPR-1,"3,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1",NA,NA,NA,NA
+856,Acer negundo,10,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+857,Acer negundo,30,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+858,Acer negundo,40,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+859,Quercus spp.,2.5,Measured,No,20260721,D3SPPR-1,20260721,NA,NA,NA,NA
+860,Picea glauca,32,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+861,Unknown,NA,Estimated,No,"1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",D3SPPR-1,"1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",NA,NA,NA,NA
+862,Forsythia suspensa,22222,Estimated,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+863,Tamarix spp.,NA,Estimated,No,"20260721 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",D3SPPR-1,"20260721 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",NA,NA,NA,NA
+864,Thuja occidentalis,NA,Estimated,No,"17,15,5,3,2",D3SPPR-1,"17,15,5,3,2",NA,NA,NA,NA
+865,Acer rubrum,6,Estimated,No,"Red maple, double check Latin",D3SPPR-1,"Red maple, double check Latin",NA,NA,NA,NA
+866,Acer platanoides,26.7,Measured,No,NA,D3SPPR-1,NA,NA,NA,NA,NA
+867,Acer rubrum,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+868,Thuja occidentalis,25,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+869,Syringa reticulata,NA,Estimated,No,"3,2,2,1.5,1.5,1,1",D2SHPR-1,"3,2,2,1.5,1.5,1,1",NA,NA,NA,NA
+870,Thuja occidentalis,NA,Estimated,Yes,"1m = 10 stems of 5cm on average, 22m long",D2SHPR-1,"1m = 10 stems of 5cm on average, 22m long",22,10,5,NA
+871,Picea glauca,34.8,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+872,Ulmus pumila,31,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+873,Acer rubrum,10,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+874,Pinus resinosa,66.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+875,Acer rubrum,NA,Measured,No,"45(dead trunk), 19, 6",D2SHPR-1,"45(dead trunk), 19, 6",NA,NA,NA,NA
+876,Lonicera spp.,NA,Measured,No,"3,2.5,4,4.5,4,4,3.5",D2SHPR-1,"3,2.5,4,4.5,4,4,3.5",NA,NA,NA,NA
+877,Thuja occidentalis,NA,Measured,No,"18.8,3,2.5",D2SHPR-1,"18.8,3,2.5",NA,NA,NA,NA
+878,Thuja occidentalis,14.9,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+879,Thuja occidentalis,NA,Measured,No,"7.5,7",D2SHPR-1,"7.5,7",NA,NA,NA,NA
+880,Thuja occidentalis,23.6,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+881,Thuja occidentalis,19.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+882,Thuja occidentalis,NA,Measured,No,"20.1,4",D2SHPR-1,"20.1,4",NA,NA,NA,NA
+883,Thuja occidentalis,NA,Measured,No,"13.3,19.9,4",D2SHPR-1,"13.3,19.9,4",NA,NA,NA,NA
+884,Thuja spp.,4,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+885,Thuja occidentalis,1,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+886,Acer tartaricum,NA,Estimated,No,27stems of 3cm,D2SHPR-1,27stems of 3cm,NA,NA,NA,NA
+887,Picea rubens,7,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+888,Acer tartaricum,NA,Estimated,No,30 stems of 3cm on average,D2SHPR-1,30 stems of 3cm on average,NA,NA,NA,NA
+889,Acer rubrum,55,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+890,Thuja occidentalis,14.2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+891,Thuja occidentalis,NA,Measured,No,"16.8,8.7,16.6",D2SHPR-1,"16.8,8.7,16.6",NA,NA,NA,NA
+892,Thuja occidentalis,NA,Measured,No,"11.5,21.1,3,2",D2SHPR-1,"11.5,21.1,3,2",NA,NA,NA,NA
+893,Thuja occidentalis,NA,Measured,No,"11.5,4.5,3",D2SHPR-1,"11.5,4.5,3",NA,NA,NA,NA
+894,Thuja occidentalis,15.9,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+895,Thuja occidentalis,8.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+896,Thuja occidentalis,15.7,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+897,Acer rubrum,66.2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+898,Thuja occidentalis,13.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+899,Thuja occidentalis,NA,Measured,No,"17.1,7",D2SHPR-1,"17.1,7",NA,NA,NA,NA
+900,Thuja occidentalis,5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+901,Ginkgo biloba,2.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+902,Acer saccharum,17.4,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+903,Acer rubrum,20.65,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+904,Acer saccharum,NA,Measured,No,"65.1,38.5",D2SHPR-1,"65.1,38.5",NA,NA,NA,NA
+905,Acer rubrum,5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+906,Thuja occidentalis,4,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+907,Acer rubrum,11.6,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+908,Amelanchier spp.,3.5,Measured,No,To verify,D2SHPR-1,To verify,NA,NA,NA,NA
+909,Thuja occidentalis,5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+910,Thuja occidentalis,8.4,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+911,Acer rubrum,44.3,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+912,Thuja occidentalis,NA,Measured,No,"5,3",D2SHPR-1,"5,3",NA,NA,NA,NA
+913,Thuja occidentalis,4.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+914,Thuja occidentalis,NA,Estimated,No,3 x 7cm on average,D2SHPR-1,3 x 7cm on average,NA,NA,NA,NA
+915,Thuja occidentalis,NA,Estimated,No,"10,10,7,7,6,3",D2SHPR-1,"10,10,7,7,6,3",NA,NA,NA,NA
+916,Thuja occidentalis,NA,Estimated,No,"10,4",D2SHPR-1,"10,4",NA,NA,NA,NA
+917,Thuja occidentalis,10,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+918,Thuja occidentalis,NA,Estimated,No,"10,5",D2SHPR-1,"10,5",NA,NA,NA,NA
+919,Thuja occidentalis,NA,Estimated,No,"5,7,7",D2SHPR-1,"5,7,7",NA,NA,NA,NA
+920,Acer rubrum,28,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+921,Thuja occidentalis,5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+922,Thuja occidentalis,9,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+923,Thuja occidentalis,NA,Measured,No,"4,3",D2SHPR-1,"4,3",NA,NA,NA,NA
+924,Thuja occidentalis,3,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+925,Prunus spp.,NA,Estimated,No,10 stems of 4cm on average,D2SHPR-1,10 stems of 4cm on average,NA,NA,NA,NA
+926,Syringa spp.,NA,Estimated,No,9 stems of 4cm ave,D2SHPR-1,9 stems of 4cm ave,NA,NA,NA,NA
+927,Thuja occidentalis,10,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+928,Syringa sp2,NA,Estimated,No,"2026-07-23, 12 stems of 3cm ave",D2SHPR-1,"2026-07-23, 12 stems of 3cm ave",NA,NA,NA,NA
+929,Thuja occidentalis,NA,Estimated,No,5 stems of 4cm ave,D2SHPR-1,5 stems of 4cm ave,NA,NA,NA,NA
+930,Syringa sp2,NA,Estimated,No,14 stems of 3cm ave,D2SHPR-1,14 stems of 3cm ave,NA,NA,NA,NA
+931,Thuja occidentalis,NA,Estimated,No,"30,20,7,3",D2SHPR-1,"30,20,7,3",NA,NA,NA,NA
+932,Lonicera spp.,NA,Estimated,No,20260723 to verify Amanda 10 stems 2.5,D2SHPR-1,20260723 to verify Amanda 10 stems 2.5,NA,NA,NA,NA
+933,Syringa sp2,NA,Estimated,No,11 stems of 3cm ave,D2SHPR-1,11 stems of 3cm ave,NA,NA,NA,NA
+934,Picea glauca,43.8,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+935,Syringa sp2,NA,Estimated,No,10 stems of 4cm ave,D2SHPR-1,10 stems of 4cm ave,NA,NA,NA,NA
+936,Lonicera spp.,NA,Estimated,No,10 stems of 2cm ave,D2SHPR-1,10 stems of 2cm ave,NA,NA,NA,NA
+937,Thuja occidentalis,15,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+938,Acer x freemanii,76.7,NA,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+939,Acer rubrum,5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+940,Acer rubrum,NA,Estimated,No,"8.7,5,15,12,20.7",D2SHPR-1,"8.7,5,15,12,20.7",NA,NA,NA,NA
+941,Rhamnus cathartica,11.4,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+942,Acer rubrum,75,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+943,Rhamnus cathartica,5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+944,Rhamnus cathartica,3,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+945,Lonicera spp.,NA,Estimated,No,9 stems of 3cm on average,D2SHPR-1,9 stems of 3cm on average,NA,NA,NA,NA
+946,Syringa vulgaris,NA,Estimated,No,"30 stems of 1cm, 15 stems of 4cm",D2SHPR-1,"30 stems of 1cm, 15 stems of 4cm",NA,NA,NA,NA
+947,Picea rubens,15,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+948,Syringa spp.,NA,Measured,No,"3,2",D2SHPR-1,"3,2",NA,NA,NA,NA
+949,Acer rubrum,4,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+950,Unknown,30,Estimated,No,20260723,D2SHPR-1,20260723,NA,NA,NA,NA
+951,Acer rubrum,10,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+952,Syringa spp.,NA,Estimated,No,"7,6,3,3,2,2",D2SHPR-1,"7,6,3,3,2,2",NA,NA,NA,NA
+953,Picea spp.,49.6,Measured,No,To verify species,D2SHPR-1,To verify species,NA,NA,NA,NA
+954,Syringa spp.,NA,Estimated,No,24 stems of 3cm on average,D2SHPR-1,24 stems of 3cm on average,NA,NA,NA,NA
+955,Syringa spp.,3,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+956,Acer rubrum,56.7,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+957,Acer x freemanii,26.4,Measured,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+958,Alnus glutinosa,8.5,Measured,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+959,Fraxinus pennsylvanica,4,Measured,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+960,Fraxinus pennsylvanica,NA,Estimated,No,"2,2,1,1,1,2,2",D5SHPL-1,"2,2,1,1,1,2,2",NA,NA,NA,NA
+961,Euonymus alatus,NA,Measured,No,"5,7,5,4,4,5",D5SHPL-1,"5,7,5,4,4,5",NA,NA,NA,NA
+962,Euonymus alatus,NA,Measured,No,"5,5",D5SHPL-1,"5,5",NA,NA,NA,NA
+963,Euonymus alatus,NA,Measured,No,7,D5SHPL-1,7,NA,NA,NA,NA
+964,Euonymus alatus,NA,NA,No,"5,6,5,6,4,6,5",D5SHPL-1,"5,6,5,6,4,6,5",NA,NA,NA,NA
+965,Euonymus alatus,NA,Measured,No,"5,5,4,4",D5SHPL-1,"5,5,4,4",NA,NA,NA,NA
+966,Dead standing,NA,Measured,No,"3,4,4,3,5,4.5",D5SHPL-1,"3,4,4,3,5,4.5",NA,NA,NA,NA
+967,Euonymus alatus,NA,Measured,No,"4,5,5,8,4,5",D5SHPL-1,"4,5,5,8,4,5",NA,NA,NA,NA
+968,Euonymus alatus,NA,Measured,No,"7,6,5,5",D5SHPL-1,"7,6,5,5",NA,NA,NA,NA
+969,Tilia cordata,72.1,Measured,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+970,Dead standing,59.8,Measured,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+971,Dead standing,59.8,Measured,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+972,Lonicera tatarica,NA,Estimated,No,"20 stems of 2, 15, 18, 10, 8, 5, 12",D5SHPL-1,"20 stems of 2, 15, 18, 10, 8, 5, 12",NA,NA,NA,NA
+973,Gleditsia triacanthos,5,Measured,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+974,Dead standing,5,Measured,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+975,Abies balsamea,12,Estimated,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+976,Syringa spp.,NA,Estimated,No,10 stems of 2.5,D5SHPL-1,10 stems of 2.5,NA,NA,NA,NA
+977,Prunus spp.,3,Estimated,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+978,Magnolia spp.,8,Measured,No,Golden variety,D5SHPL-1,Golden variety,NA,NA,NA,NA
+979,Syringa reticulata,6,Estimated,No,NA,D5SHPL-1,NA,NA,NA,NA,NA
+980,Thuja occidentalis,NA,Estimated,No,"8,4,2,2,1",D5SHPL-1,"8,4,2,2,1",NA,NA,NA,NA
+981,Rhamnus cathartica,NA,Estimated,No,"3.5, 2.5,",D3SHPL-1,"3.5, 2.5,",NA,NA,NA,NA
+982,Rhamnus cathartica,2,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+983,Rhus typhina,1.5,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+984,Rhus typhina,3.5,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+985,Rhamnus cathartica,NA,Estimated,No,"5, 4, 5, 6, 5, 6, 4, 4, 4, 3, 2",D3SHPL-1,"5, 4, 5, 6, 5, 6, 4, 4, 4, 3, 2",NA,NA,NA,NA
+986,Rhamnus cathartica,4,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+987,Rhamnus cathartica,3,NA,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+988,Thuja occidentalis,12,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+989,Rhamnus cathartica,3,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+990,Rhamnus cathartica,4,NA,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+991,Rhamnus cathartica,8,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+992,Rhamnus cathartica,3.5,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+993,Rhamnus cathartica,4,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+994,Rhamnus cathartica,NA,Estimated,No,"3, 4, 3.5",D3SHPL-1,"3, 4, 3.5",NA,NA,NA,NA
+995,Quercus macrocarpa,91,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+996,Rhamnus cathartica,2,Estimated,No,X9,D3SHPL-1,X9,NA,NA,NA,NA
+997,Rhus typhina,7,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+998,Rhamnus cathartica,2.5,Estimated,No,X5,D3SHPL-1,X5,NA,NA,NA,NA
+999,Rhus typhina,2,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1000,Rhus typhina,2.5,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1001,Rhus typhina,3,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1002,Rhus typhina,2.5,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1003,Rhus typhina,2.5,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1004,Rhus typhina,2,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1005,Rhus typhina,2.5,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1006,Rhus typhina,NA,Measured,No,"3, 2",D3SHPL-1,"3, 2",NA,NA,NA,NA
+1007,Rhus typhina,2.5,Estimated,No,X6,D3SHPL-1,X6,NA,NA,NA,NA
+1008,Rhus typhina,2,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1009,Rhus typhina,3,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1010,Rhus typhina,2.5,Estimated,No,X3,D3SHPL-1,X3,NA,NA,NA,NA
+1011,Rhus typhina,2.5,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1012,Rhus typhina,3,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1013,Rhamnus cathartica,2,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1014,Rhus typhina,3,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1015,Rhamnus cathartica,NA,Estimated,No,"2, 2, 2",D3SHPL-1,"2, 2, 2",NA,NA,NA,NA
+1016,Rhamnus cathartica,2,Estimated,No,X4,D3SHPL-1,X4,NA,NA,NA,NA
+1017,Rhus typhina,2,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1018,Rhamnus cathartica,1.5,Estimated,No,X11,D3SHPL-1,X11,NA,NA,NA,NA
+1019,Rhus typhina,2,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1020,Rhus typhina,2,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1021,Rhus typhina,3,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1022,Rhamnus cathartica,1,Estimated,No,X5,D3SHPL-1,X5,NA,NA,NA,NA
+1023,Rhus typhina,2.5,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1024,Rhamnus cathartica,2,Estimated,No,X3,D3SHPL-1,X3,NA,NA,NA,NA
+1025,Rhamnus cathartica,1,Estimated,No,X9,D3SHPL-1,X9,NA,NA,NA,NA
+1026,Rhus typhina,4,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1027,Rhus typhina,4,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1028,Rhamnus cathartica,1.5,Estimated,No,X16,D3SHPL-1,X16,NA,NA,NA,NA
+1029,Rhus typhina,4,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1030,Dead standing,8,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1031,Tilia americana,NA,Estimated,No,"4, 4, 4, 4, 4, 3.5, 2",D3SHPL-1,"4, 4, 4, 4, 4, 3.5, 2",NA,NA,NA,NA
+1032,Rhus typhina,3,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1033,Rhus typhina,2.5,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1034,Rhamnus cathartica,NA,Estimated,No,"2,2,3,4,3,3",D3SHPL-1,"2,2,3,4,3,3",NA,NA,NA,NA
+1035,Prunus virginiana,NA,Estimated,No,20 stems of 2cm DBH,D3SHPL-1,20 stems of 2cm DBH,NA,NA,NA,NA
+1036,Rhamnus cathartica,4,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1037,Prunus virginiana,2,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1038,Prunus virginiana,2,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1039,Prunus virginiana,2,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1040,Thuja occidentalis,NA,Estimated,No,"10, 3, 5, 6; x13 trees",D3SHPL-1,"10, 3, 5, 6; x13 trees",NA,NA,NA,NA
+1041,Acer saccharinum,56.7,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1042,Thuja occidentalis,NA,Measured,No,"2.5, 3.5, 2",D3SHPL-1,"2.5, 3.5, 2",NA,NA,NA,NA
+1043,Thuja occidentalis,NA,Measured,No,"3,3, 2",D3SHPL-1,"3,3, 2",NA,NA,NA,NA
+1044,Thuja occidentalis,NA,Estimated,No,"4, 4, 4, 2, 3.5, 3, 3, 3.5",D3SHPL-1,"4, 4, 4, 2, 3.5, 3, 3, 3.5",NA,NA,NA,NA
+1045,Thuja occidentalis,NA,Measured,No,"3, 2.5,",D3SHPL-1,"3, 2.5,",NA,NA,NA,NA
+1046,Thuja occidentalis,NA,Estimated,No,"4, 4, 3, 3, 3, 2, 4, 2",D3SHPL-1,"4, 4, 3, 3, 3, 2, 4, 2",NA,NA,NA,NA
+1047,Thuja occidentalis,4,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1048,Acer platanoides,73.8,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1049,Acer saccharinum,71,Measured,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1050,Dead standing,6,NA,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1051,Picea glauca,8,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1052,Rhamnus cathartica,NA,Estimated,No,"1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2",D3SHPL-1,"1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2",NA,NA,NA,NA
+1053,Rhamnus cathartica,5,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1054,Rhamnus cathartica,15,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1055,Rhamnus cathartica,3,Estimated,No,NA,D3SHPL-1,NA,NA,NA,NA,NA
+1056,Acer negundo,3,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1057,Picea spp.,13,Estimated,No,"2026/07/30, Picea spp, needles 1-1.5 cm",D3SHPL-2,"2026/07/30, Picea spp, needles 1-1.5 cm",NA,NA,NA,NA
+1058,Thuja occidentalis,5.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1059,Ulmus spp.,2,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1060,Acer negundo,3.5,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1061,Morus spp.,NA,Estimated,No,"7, 7",D3SHPL-2,"7, 7",NA,NA,NA,NA
+1062,Thuja occidentalis,3.5,NA,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1063,Thuja occidentalis,25,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1064,Quercus palustris,22,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1065,Morus spp.,10.4,NA,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1066,Acer ginnala,3,Measured,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1067,Thuja occidentalis,NA,Estimated,Yes,"14m long, 3 trees 7dh",D3SHPL-2,"14m long, 3 trees 7dh",14,3,7,NA
+1068,Morus spp.,NA,Estimated,No,"5,3, 6",D3SHPL-2,"5,3, 6",NA,NA,NA,NA
+1069,Picea glauca,20,Estimated,No,NA,D3SHPL-2,NA,NA,NA,NA,NA
+1070,Thuja occidentalis,NA,Estimated,Yes,"13m, 7dbh, 3 stems",D3SHPL-2,"13m, 7dbh, 3 stems",13,3,7,NA
+1071,Thuja occidentalis,5,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1072,Thuja occidentalis,4,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1073,Thuja occidentalis,4.5,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1074,Abies spp.,46.1,Measured,No,2026/07/31,D3SHPR-1,2026/07/31,NA,NA,NA,NA
+1075,Fraxinus pennsylvanica,NA,Estimated,No,"4,3",D3SHPR-1,"4,3",NA,NA,NA,NA
+1076,Prunus spp.,NA,Measured,No,"1, 2, 2.5, 1, 1",D3SHPR-1,"1, 2, 2.5, 1, 1",NA,NA,NA,NA
+1077,Picea pungens,29.7,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1078,Thuja occidentalis,5,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1079,Thuja occidentalis,4,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1080,Unknown,3,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1081,Acer saccharinum,61.2,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1082,Picea glauca,40.7,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1083,Pinus resinosa,36.4,Measured,No,2 needles per cluster,D3SHPR-1,2 needles per cluster,NA,NA,NA,NA
+1084,Acer platanoides,78.4,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1085,Acer platanoides,41.9,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1086,Acer platanoides,52.4,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1087,Celtis occidentalis,2.5,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1088,Celtis occidentalis,3,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1089,Celtis occidentalis,NA,Measured,No,"4, 1.5, 2, 3, 1.5, 2, 1, 1, 2, 1,",D3SHPR-1,"4, 1.5, 2, 3, 1.5, 2, 1, 1, 2, 1,",NA,NA,NA,NA
+1090,Celtis occidentalis,7,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1091,Thuja occidentalis,NA,NA,Yes,"25, 3, avg 3cm DBH",D3SHPR-1,"25, 3, avg 3cm DBH",25,3,3,NA
+1092,Thuja occidentalis,32.65,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1093,Thuja occidentalis,34.1,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1094,Quercus macrocarpa,29,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1095,Thuja occidentalis,10.5,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1096,Thuja occidentalis,NA,NA,Yes,"7.5m, 4 stems, avg 3cm DBH",D3SHPR-1,"7.5m, 4 stems, avg 3cm DBH",7.5,4,3,NA
+1097,Prunus spp.,4,Estimated,No,"Leaves:Red, alternate, finely toothed, lancelate, 4-6cm long; bark dark brown",D3SHPR-1,"Leaves:Red, alternate, finely toothed, lancelate, 4-6cm long; bark dark brown",NA,NA,NA,NA
+1098,Acer nigrum,72.4,Measured,No,Owner wanting to take down,D3SHPR-1,Owner wanting to take down,NA,NA,NA,NA
+1099,Syringa spp.,NA,Measured,No,"3.5, 2.5, 2.5, 2.5, 3, 2, 2, 2, 2",D3SHPR-1,"3.5, 2.5, 2.5, 2.5, 3, 2, 2, 2, 2",NA,NA,NA,NA
+1100,Morus spp.,8,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1101,Berberis thunbergii,NA,Estimated,No,80 stems of 1,D3SHPR-1,80 stems of 1,NA,NA,NA,NA
+1102,Thuja occidentalis,NA,Estimated,No,"10, 10, 7, 8",D3SHPR-1,"10, 10, 7, 8",NA,NA,NA,NA
+1103,Acer rubrum,5.5,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1104,Thuja occidentalis,31,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1105,Lonicera spp.,NA,NA,Yes,"2026/07/31; 14m, 11 stems/m, avg 2cm DBH",D3SHPR-1,"2026/07/31; 14m, 11 stems/m, avg 2cm DBH",14,11,2,NA
+1106,Rhamnus cathartica,NA,Estimated,Yes,"6m, 10 stems per m, avg 2cm DBH",D3SHPR-1,"6m, 10 stems per m, avg 2cm DBH",6,10,2,NA
+1107,Ulmus americana,3,Measured,No,2026/07/31; massive leaves,D3SHPR-1,2026/07/31; massive leaves,NA,NA,NA,NA
+1108,Ulmus spp.,6,Measured,No,2026/07/31;,D3SHPR-1,2026/07/31;,NA,NA,NA,NA
+1109,Ulmus spp.,1,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1110,Ulmus spp.,3,Estimated,No,Sliperium,D3SHPR-1,Sliperium,NA,NA,NA,NA
+1111,Ulmus spp.,8,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1112,Malus spp.,NA,Measured,No,"32.4, 29.1",D3SHPR-1,"32.4, 29.1",NA,NA,NA,NA
+1113,Malus spp.,61.3,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1114,Lonicera spp.,NA,NA,Yes,"6m, 21 stems, avg 2cm DBH",D3SHPR-1,"6m, 21 stems, avg 2cm DBH",6,21,2,NA
+1115,Rhamnus cathartica,NA,NA,Yes,"2m, 5 stems, avg 4cm DBH",D3SHPR-1,"2m, 5 stems, avg 4cm DBH",2,5,4,NA
+1116,Sambucus canadensis,2,Estimated,No,20 stems,D3SHPR-1,20 stems,NA,NA,NA,NA
+1117,Sambucus canadensis,2,Estimated,No,20 stems,D3SHPR-1,20 stems,NA,NA,NA,NA
+1118,Rhus typhina,2.5,Estimated,No,X6,D3SHPR-1,X6,NA,NA,NA,NA
+1119,Rhus typhina,4,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1120,Amelanchier canadensis,8.6,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1121,Gymnocladus dioicus,34,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1122,Rhus typhina,16.1,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1123,Rhamnus cathartica,4,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1124,Lonicera tatarica,NA,Estimated,No,"3, 3,3,3,3,3,3,3,3,3,3",D3SHPR-1,"3, 3,3,3,3,3,3,3,3,3,3",NA,NA,NA,NA
+1125,Rhus typhina,NA,Measured,No,"3, 3",D3SHPR-1,"3, 3",NA,NA,NA,NA
+1126,Rhus typhina,2,Estimated,No,X2,D3SHPR-1,X2,NA,NA,NA,NA
+1127,Rhus typhina,3,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1128,Rhus typhina,3.5,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1129,Rhus typhina,2,Estimated,No,X2,D3SHPR-1,X2,NA,NA,NA,NA
+1130,Rhus typhina,5,Estimated,No,X2,D3SHPR-1,X2,NA,NA,NA,NA
+1131,Rhus typhina,3,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1132,Rhus typhina,2,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1133,Ulmus spp.,4,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1134,Sambucus spp.,NA,Estimated,No,"30 stems, avg 2 cm dbh",D3SHPR-1,"30 stems, avg 2 cm dbh",NA,NA,NA,NA
+1135,Rhus typhina,2,Measured,No,X2,D3SHPR-1,X2,NA,NA,NA,NA
+1136,Rhus typhina,NA,Measured,No,"3,2.5,",D3SHPR-1,"3,2.5,",NA,NA,NA,NA
+1137,Rhamnus cathartica,NA,NA,Yes,"11m, 17 stems, avg 2cm DBH",D3SHPR-1,"11m, 17 stems, avg 2cm DBH",11,17,2,NA
+1138,Ulmus spp.,2.5,Estimated,No,X3,D3SHPR-1,X3,NA,NA,NA,NA
+1139,Ulmus spp.,NA,Estimated,No,"2,2",D3SHPR-1,"2,2",NA,NA,NA,NA
+1140,Rhamnus cathartica,3.5,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1141,Acer negundo,NA,Estimated,No,"2.5, 2.5, 3, 2, 2,",D3SHPR-1,"2.5, 2.5, 3, 2, 2,",NA,NA,NA,NA
+1142,Acer negundo,NA,Estimated,No,"3, 3, 2.5, 1, 2.5",D3SHPR-1,"3, 3, 2.5, 1, 2.5",NA,NA,NA,NA
+1143,Celtis occidentalis,4,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1144,Lonicera tatarica,NA,NA,Yes,"10m, 6 stems/m, avg 4.5cm DBH",D3SHPR-1,"10m, 6 stems/m, avg 4.5cm DBH",10,6,4.5,NA
+1145,Rhamnus cathartica,NA,Estimated,No,"6.5, 6.5, 5, 4, 6.5, 4, 6.5, 3, 3, 5, 2.5, 8",D3SHPR-1,"6.5, 6.5, 5, 4, 6.5, 4, 6.5, 3, 3, 5, 2.5, 8",NA,NA,NA,NA
+1146,Rhamnus cathartica,2.5,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1147,Rhamnus cathartica,NA,Estimated,No,"2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 10,",D3SHPR-1,"2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 10,",NA,NA,NA,NA
+1148,Rhamnus cathartica,12.8,Measured,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1149,Rhamnus cathartica,5,Estimated,No,NA,D3SHPR-1,NA,NA,NA,NA,NA
+1150,Rhamnus cathartica,NA,Estimated,No,"2,2",D3SHPR-1,"2,2",NA,NA,NA,NA
+1151,Rhamnus cathartica,2,Estimated,No,X11,D3SHPR-1,X11,NA,NA,NA,NA
+1152,Thuja occidentalis,NA,Estimated,No,"5,4,4,4",D3SHPR-1,"5,4,4,4",NA,NA,NA,NA
+1153,Hydrangea paniculata,NA,Estimated,No,"4, 3, 3, 1, 3, 3, 2",D3SHPR-2,"4, 3, 3, 1, 3, 3, 2",NA,NA,NA,NA
+1154,Prunus spp.,NA,Estimated,No,"2, 2, 1, 3, 3, 2, 2,",D3SHPR-2,"2, 2, 1, 3, 3, 2, 2,",NA,NA,NA,NA
+1155,Juniperus spp.,10,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1156,Hydrangea paniculata,NA,Estimated,No,"4, 4, 3, 3, 2, 2",D3SHPR-2,"4, 4, 3, 3, 2, 2",NA,NA,NA,NA
+1157,Hibiscus syriacus,NA,Estimated,No,"1, 1, 1, 2, 3, 2, 1",D3SHPR-2,"1, 1, 1, 2, 3, 2, 1",NA,NA,NA,NA
+1158,Hibiscus syriacus,NA,Estimated,No,"4, 2, 1, 1, 1, 3, 1",D3SHPR-2,"4, 2, 1, 1, 1, 3, 1",NA,NA,NA,NA
+1159,Hibiscus syriacus,2,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1160,Hibiscus syriacus,NA,Estimated,No,"4, 4, 3",D3SHPR-2,"4, 4, 3",NA,NA,NA,NA
+1161,Acer platanoides,51.8,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1162,Thuja occidentalis,60.6,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1163,Picea spp.,35.4,Measured,No,Cones: 3-5 cm; Needles: 1.5-2cm,D3SHPR-2,Cones: 3-5 cm; Needles: 1.5-2cm,NA,NA,NA,NA
+1164,Weigela hortensis,NA,Estimated,No,30 stems of 2,D3SHPR-2,30 stems of 2,NA,NA,NA,NA
+1165,Picea glauca,20,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1166,Thuja occidentalis,NA,Estimated,No,"20,15,15",D3SHPR-2,"20,15,15",NA,NA,NA,NA
+1167,Thuja occidentalis,4,NA,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1168,Thuja occidentalis,NA,Estimated,No,"5,5",D3SHPR-2,"5,5",NA,NA,NA,NA
+1169,Picea pungens,35,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1170,Thuja occidentalis,NA,Estimated,No,"4,4,3",D3SHPR-2,"4,4,3",NA,NA,NA,NA
+1171,Thuja occidentalis,NA,Estimated,No,"3,3,3",D3SHPR-2,"3,3,3",NA,NA,NA,NA
+1172,Thuja occidentalis,NA,Estimated,No,"4,4,4",D3SHPR-2,"4,4,4",NA,NA,NA,NA
+1173,Thuja occidentalis,NA,Estimated,No,"8,3",D3SHPR-2,"8,3",NA,NA,NA,NA
+1174,Thuja occidentalis,10,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1175,Thuja occidentalis,5,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1176,Acer negundo,3,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1177,Acer negundo,2,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1178,Acer negundo,NA,Estimated,No,"1, 2",D5SPPR-2,"1, 2",NA,NA,NA,NA
+1179,Morus alba,8,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1180,Acer x freemanii,14.9,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1181,Cotinus coggygria,5,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1182,Salix spp.,NA,Estimated,No,"3, 3, 5, 1, 1,5",D5SPPR-2,"3, 3, 5, 1, 1,5",NA,NA,NA,NA
+1183,Acer saccharinum,102,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1184,Gymnocladus dioicus,40,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1185,Acer palmatum,NA,Estimated,No,"2,2,2,1,1,1,1,1",D5SPPR-2,"2,2,2,1,1,1,1,1",NA,NA,NA,NA
+1186,Malus spp.,10,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1187,Thuja occidentalis,4,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1188,Thuja occidentalis,4,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1189,Acer negundo,8,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1190,Acer negundo,2.5,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1191,Acer negundo,NA,Estimated,No,"5,10",D5SPPR-2,"5,10",NA,NA,NA,NA
+1192,Acer negundo,3,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1193,Acer negundo,8,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1194,Ginkgo biloba,5,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1195,Acer saccharinum,35,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1196,Acer negundo,NA,Estimated,No,"40,38",D5SPPR-2,"40,38",NA,NA,NA,NA
+1197,Magnolia denudata,6,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1198,Elaeagnus angustifolia,20,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1199,Unknown 1,NA,Estimated,No,"4,4",D5SPPR-2,"4,4",NA,NA,NA,NA
+1200,Celastrus orbiculatus,NA,Estimated,No,"5,5,5,9,7,4,5,8,5,5,3,10,10,18",D5SPPR-2,"5,5,5,9,7,4,5,8,5,5,3,10,10,18",NA,NA,NA,NA
+1201,Acer palmatum,NA,Estimated,No,"4,7,7,4,8",D5SPPR-2,"4,7,7,4,8",NA,NA,NA,NA
+1202,Syringa reticulata,4,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1203,Syringa vulgaris,668838,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1204,Picea rubens,30,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1205,Syringa vulgaris,2,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1206,Cladrastris kentukea,6,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1207,Syringa spp.,644,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1208,Malus spp.,20,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1209,Acer negundo,28.5,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1210,Syringa vulgaris,12.4,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1211,Syringa vulgaris,2,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1212,Syringa vulgaris,NA,Measured,No,"2.5,1.5",D5SPPR-2,"2.5,1.5",NA,NA,NA,NA
+1213,Syringa vulgaris,7.3,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1214,Betula papyrifera,NA,Measured,No,"12.9, 14.2",D5SPPR-2,"12.9, 14.2",NA,NA,NA,NA
+1215,Syringa reticulata,14.6,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1216,Syringa vulgaris,NA,Estimated,No,"5,4",D5SPPR-2,"5,4",NA,NA,NA,NA
+1217,Pinus glauca,45,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1218,Acer negundo,100,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1219,Acer negundo,90,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1220,Thuja occidentalis,4,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1221,Thuja occidentalis,3,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1222,Thuja occidentalis,4,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1223,Thuja occidentalis,3,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1224,Catalpa speciosa,6.9,Measured,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1225,Unknown,8,Estimated,No,NA,D5SPPR-2,NA,NA,NA,NA,NA
+1226,Balsamea spp.,NA,Estimated,No,"3,3,3,3",D5SPPR-2,"3,3,3,3",NA,NA,NA,NA
+1227,Fraxinus pennsylvanica,28.8,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1228,Gleditsia triacanthos,21.3,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1229,Acer x freemanii,21,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1230,Acer negundo,24,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1231,Acer x freemanii,10,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1232,Acer negundo,15,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1233,Syringa spp.,NA,Estimated,No,"5,5,5",D5SPPR-1,"5,5,5",NA,NA,NA,NA
+1234,Thuja occidentalis,20.7,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1235,Syringa reticulata,1,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1236,Prunus spp.,11.2,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1237,Magnolia acuminata,20,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1238,Robinia pseudoacacia,23.3,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1239,Acer negundo,58,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1240,Acer platanoides,35.5,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1241,Acer negundo,35,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1242,Picea spp.,4.5,Measured,No,2026-08-05 verify species,D5SPPR-1,2026-08-05 verify species,NA,NA,NA,NA
+1243,Quercus rubra,33.1,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1244,Acer negundo,41,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1245,Acer negundo,40,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1246,Malus spp.,15,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1247,Lonicera spp.,NA,Estimated,No,"2.5,1,1",D5SPPR-1,"2.5,1,1",NA,NA,NA,NA
+1248,Fraxinus americana,8,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1249,Quercus spp.,2,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1250,Syringa vulgaris,NA,Estimated,No,"3,2,4,3,4,1,1,1,1,1,",D5SPPR-1,"3,2,4,3,4,1,1,1,1,1,",NA,NA,NA,NA
+1251,Syringa vulgaris,NA,Estimated,No,"2,3,2,1,1",D5SPPR-1,"2,3,2,1,1",NA,NA,NA,NA
+1252,Acer saccharinum,55,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1253,Acer negundo,NA,Measured,No,"46.6, 38.4",D5SPPR-1,"46.6, 38.4",NA,NA,NA,NA
+1254,Syringa vulgaris,6,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1255,Acer negundo,18,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1256,Picea glauca,15,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1257,Acer negundo,38,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1258,Malus spp.,10.8,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1259,Ulmus pumila,4,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1260,Prunus spp.,NA,Estimated,No,"3,3",D5SPPR-1,"3,3",NA,NA,NA,NA
+1261,Prunus virginiana,4,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1262,Acer negundo,6,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1263,Acer negundo,3,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1264,Acer negundo,7,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1265,Syringa vulgaris,NA,Estimated,No,"7,6,3,5,5,2,3,2,2,1,3,4 3,3,3",D5SPPR-1,"7,6,3,5,5,2,3,2,2,1,3,4 3,3,3",NA,NA,NA,NA
+1266,Syringa vulgaris,NA,Estimated,No,"5,5,5,4,4",D5SPPR-1,"5,5,5,4,4",NA,NA,NA,NA
+1267,Syringa vulgaris,NA,Estimated,No,"4,2,2,3,3",D5SPPR-1,"4,2,2,3,3",NA,NA,NA,NA
+1268,Prunus virginiana,3,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1269,Acer negundo,3,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1270,Celtis occidentalis,3.5,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1271,Picea abies,30,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1272,Quercus rubra,15,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1273,Acer negundo,20,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1274,Acer negundo,13,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1275,Acer negundo,13,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1276,Acer negundo,10,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1277,Prunus virginiana,20,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1278,Acer negundo,10,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1279,Acer negundo,18,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1280,Prunus spp.,NA,Estimated,No,"2,10,5,4",D5SPPR-1,"2,10,5,4",NA,NA,NA,NA
+1281,Malus spp.,11.7,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1282,Syringa spp.,NA,Measured,No,"3,3.5,3,3",D5SPPR-1,"3,3.5,3,3",NA,NA,NA,NA
+1283,Acer negundo,4.5,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1284,Acer negundo,4,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1285,Acer negundo,3,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1286,Thuja occidentalis,12,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1287,Thuja occidentalis,NA,Estimated,No,"10,10",D5SPPR-1,"10,10",NA,NA,NA,NA
+1288,Thuja occidentalis,10,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1289,Magnolia spp.,10,Estimated,No,2026/08/05 verify species,D5SPPR-1,2026/08/05 verify species,NA,NA,NA,NA
+1290,Rosalis spp.,NA,Estimated,No,"Verify species 2026/08/05    , stems: 12 stems of 2dbh",D5SPPR-1,"Verify species 2026/08/05    , stems: 12 stems of 2dbh",NA,NA,NA,NA
+1291,Rosalis spp.,NA,Estimated,No,"2026/08/05 verify.  2, 2,2",D5SPPR-1,"2026/08/05 verify.  2, 2,2",NA,NA,NA,NA
+1292,Syringa vulgaris,NA,Estimated,No,"10,10,10,12,10",D5SPPR-1,"10,10,10,12,10",NA,NA,NA,NA
+1293,Pyrus spp.,NA,Estimated,No,"2026/08/05 to verify. 10,15",D5SPPR-1,"2026/08/05 to verify. 10,15",NA,NA,NA,NA
+1294,Pyrus spp.,20,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1295,Acer negundo,66,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1296,Acer negundo,5,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1297,Acer negundo,7,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1298,Acer platanoides,4,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1299,Acer platanoides,2,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1300,Ulmus pumila,NA,Estimated,No,"12,10",D5SPPR-1,"12,10",NA,NA,NA,NA
+1301,Acer negundo,27.9,Measured,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1302,Acer negundo,25,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1303,Acer negundo,15,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1304,Acer negundo,NA,Estimated,No,"2,2",D5SPPR-1,"2,2",NA,NA,NA,NA
+1305,Acer negundo,2,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1306,Acer negundo,5,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1307,Acer negundo,5,Estimated,No,NA,D5SPPR-1,NA,NA,NA,NA,NA
+1308,Tilia cordata,42,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1309,Ulmus pumila,5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1310,Acer negundo,NA,Estimated,No,"10,10",D5SHPR-2,"10,10",NA,NA,NA,NA
+1311,Acer saccharinum,23,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1312,Acer negundo,NA,Measured,No,"24.3, 21, 31.1",D5SHPR-2,"24.3, 21, 31.1",NA,NA,NA,NA
+1313,Fraxinus spp.,12,Estimated,No,2026/08/05 to verify species,D5SHPR-2,2026/08/05 to verify species,NA,NA,NA,NA
+1314,Fraxinus pennsylvanica,2.5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1315,Fraxinus pennsylvanica,2.5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1316,Fraxinus pennsylvanica,2,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1317,Fraxinus pennsylvanica,2,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1318,Ulmus americana,12,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1319,Fraxinus pennsylvanica,NA,Estimated,No,"18,10",D5SHPR-2,"18,10",NA,NA,NA,NA
+1320,Acer negundo,4.5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1321,Acer negundo,7,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1322,Tilia cordata,23,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1323,Acer negundo,NA,Estimated,No,"5,6,6",D5SHPR-2,"5,6,6",NA,NA,NA,NA
+1324,Acer negundo,NA,Estimated,No,"6,5,4",D5SHPR-2,"6,5,4",NA,NA,NA,NA
+1325,Acer negundo,8,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1326,Tilia cordata,NA,Measured,No,"9,9,11,",D5SHPR-2,"9,9,11,",NA,NA,NA,NA
+1327,Tilia cordata,NA,Measured,No,"7,3,8,8",D5SHPR-2,"7,3,8,8",NA,NA,NA,NA
+1328,Thuja occidentalis,17,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1329,Thuja occidentalis,NA,Estimated,No,"19,10,13,10,10",D5SHPR-2,"19,10,13,10,10",NA,NA,NA,NA
+1330,Thuja occidentalis,NA,Estimated,No,"3,4,10",D5SHPR-2,"3,4,10",NA,NA,NA,NA
+1331,Thuja occidentalis,NA,Estimated,No,"10,5,6",D5SHPR-2,"10,5,6",NA,NA,NA,NA
+1332,Thuja occidentalis,NA,Estimated,No,"5,5,6,6",D5SHPR-2,"5,5,6,6",NA,NA,NA,NA
+1333,Thuja occidentalis,NA,Estimated,No,"5,5,11,11,4,11,11,5",D5SHPR-2,"5,5,11,11,4,11,11,5",NA,NA,NA,NA
+1334,Cotinus spp.,NA,Estimated,No,"10,4",D5SHPR-2,"10,4",NA,NA,NA,NA
+1335,Acer negundo,23,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1336,Acer negundo,NA,Estimated,No,"8.5,10,20",D5SHPR-2,"8.5,10,20",NA,NA,NA,NA
+1337,Lonicera tatarica,NA,Estimated,No,"10,5,6,7,6,5,2,3,6",D5SHPR-2,"10,5,6,7,6,5,2,3,6",NA,NA,NA,NA
+1338,Syringa vulgaris,NA,Estimated,No,"5,2.5,5",D5SHPR-2,"5,2.5,5",NA,NA,NA,NA
+1339,Syringa vulgaris,5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1340,Syringa vulgaris,NA,Estimated,No,"5,2,2,1",D5SHPR-2,"5,2,2,1",NA,NA,NA,NA
+1341,Tilia cordata,4,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1342,Lonicera tatarica,NA,Estimated,No,"5,5,5,4",D5SHPR-2,"5,5,5,4",NA,NA,NA,NA
+1343,Syringa vulgaris,NA,Estimated,No,"5,5,5,5",D5SHPR-2,"5,5,5,5",NA,NA,NA,NA
+1344,Syringa vulgaris,5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1345,Syringa vulgaris,NA,Estimated,No,"5,5",D5SHPR-2,"5,5",NA,NA,NA,NA
+1346,Syringa vulgaris,1,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1347,Syringa vulgaris,2,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1348,Acer platanoides,1,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1349,Dead standing,4,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1350,Dead standing,10,NA,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1351,Syringa vulgaris,4,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1352,Syringa vulgaris,3,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1353,Syringa vulgaris,3,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1354,Syringa vulgaris,4,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1355,Syringa vulgaris,2,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1356,Fraxinus pennsylvanica,5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1357,Tilia cordata,NA,Measured,No,"10.4, 15.8",D5SHPR-2,"10.4, 15.8",NA,NA,NA,NA
+1358,Acer negundo,40,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1359,Hydrangea paniculata,NA,Estimated,No,"3,3,2,2",D5SHPR-2,"3,3,2,2",NA,NA,NA,NA
+1360,Tilia cordata,2.5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1361,Acer saccharinum,2.5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1362,Tilia cordata,4,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1363,Acer saccharinum,1,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1364,Acer saccharinum,0.5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1365,Hydrangea paniculata,NA,Estimated,No,"1.5,1.5, 1.5",D5SHPR-2,"1.5,1.5, 1.5",NA,NA,NA,NA
+1366,Acer negundo,NA,Measured,No,"1.5,1.5,1.5,3.5",D5SHPR-2,"1.5,1.5,1.5,3.5",NA,NA,NA,NA
+1367,Acer saccharinum,5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1368,Acer saccharinum,4,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1369,Acer negundo,1,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1370,Acer negundo,4,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1371,Prunus serotina,2,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1372,Hydrangea paniculata,NA,Measured,No,"4,3.5,2,3,2,3,3,2,1,2,1.5,1,2.5,3.5",D5SHPR-2,"4,3.5,2,3,2,3,3,2,1,2,1.5,1,2.5,3.5",NA,NA,NA,NA
+1373,Fraxinus pennsylvanica,3,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1374,Fraxinus pennsylvanica,1.5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1375,Fraxinus pennsylvanica,4.5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1376,Fraxinus pennsylvanica,NA,Estimated,No,"3.5,4,5,2.5,2,6,5,4.5,4",D5SHPR-2,"3.5,4,5,2.5,2,6,5,4.5,4",NA,NA,NA,NA
+1377,Fraxinus pennsylvanica,3,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1378,Syringa vulgaris,NA,Estimated,No,17 stems of 9cm,D5SHPR-2,17 stems of 9cm,NA,NA,NA,NA
+1379,Syringa vulgaris,2,Estimated,No,X7,D5SHPR-2,X7,NA,NA,NA,NA
+1380,Syringa vulgaris,3,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1381,Syringa vulgaris,1.5,Estimated,No,X 10,D5SHPR-2,X 10,NA,NA,NA,NA
+1382,Syringa vulgaris,2,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1383,Syringa vulgaris,NA,Estimated,No,"3,4,4",D5SHPR-2,"3,4,4",NA,NA,NA,NA
+1384,Syringa vulgaris,NA,Estimated,No,"4,3,3",D5SHPR-2,"4,3,3",NA,NA,NA,NA
+1385,Syringa vulgaris,3.5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1386,Syringa vulgaris,NA,Estimated,No,"6,6,10,2,2",D5SHPR-2,"6,6,10,2,2",NA,NA,NA,NA
+1387,Acer saccharinum,NA,Estimated,No,"10,4",D5SHPR-2,"10,4",NA,NA,NA,NA
+1388,Acer saccharinum,NA,Estimated,No,"18,10,13,5,2",D5SHPR-2,"18,10,13,5,2",NA,NA,NA,NA
+1389,Fraxinus pennsylvanica,2.5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1390,Dead standing,20,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1391,Tilia cordata,11.5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1392,Tilia cordata,3,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1393,Tilia cordata,8.5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1394,Fraxinus pennsylvanica,NA,Measured,No,"3.5,2,10.3",D5SHPR-2,"3.5,2,10.3",NA,NA,NA,NA
+1395,Tilia cordata,14,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1396,Acer saccharinum,50,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1397,Acer negundo,NA,Estimated,No,"10,12",D5SHPR-2,"10,12",NA,NA,NA,NA
+1398,Acer saccharinum,NA,Measured,No,"9,7,3",D5SHPR-2,"9,7,3",NA,NA,NA,NA
+1399,Acer saccharinum,5.5,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1400,Acer saccharinum,6,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1401,Malus spp.,17,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1402,Fraxinus pennsylvanica,NA,Estimated,No,"19.3, 22",D5SHPR-2,"19.3, 22",NA,NA,NA,NA
+1403,Rhus typhina,10,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1404,Syringa reticulata,6,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1405,Rhus typhina,3,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1406,Syringa vulgaris,NA,NA,No,"3.5,3, 3, and 30 stems of 0.5",D5SHPR-2,"3.5,3, 3, and 30 stems of 0.5",NA,NA,NA,NA
+1407,Pinus resinosa,7,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1408,Syringa spp.,13,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1409,Thuja occidentalis,4,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1410,Acer negundo,3,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1411,Thuja occidentalis,6,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1412,Acer negundo,4.5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1413,Prunus spp.,NA,NA,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1414,Syringa reticulata,NA,Estimated,No,"12,10,10,6",D5SHPR-2,"12,10,10,6",NA,NA,NA,NA
+1415,Thuja occidentalis,NA,Estimated,No,"10,5,5,3",D5SHPR-2,"10,5,5,3",NA,NA,NA,NA
+1416,Acer platanoides,11.7,Measured,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1417,Syringa spp.,NA,Estimated,No,11 stems of 3,D5SHPR-2,11 stems of 3,NA,NA,NA,NA
+1418,Acer negundo,13,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1419,Acer negundo,5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1420,Syringa spp.,5,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1421,Syringa spp.,NA,Estimated,No,"5,4,2,2,1,2,1",D5SHPR-2,"5,4,2,2,1,2,1",NA,NA,NA,NA
+1422,Syringa spp.,NA,Estimated,No,"4,4",D5SHPR-2,"4,4",NA,NA,NA,NA
+1423,Syringa spp.,NA,Estimated,No,"3,5,3,4,3,2",D5SHPR-2,"3,5,3,4,3,2",NA,NA,NA,NA
+1424,Thuja occidentalis,13,Estimated,No,NA,D5SHPR-2,NA,NA,NA,NA,NA
+1425,Syringa vulgaris,NA,Estimated,No,"10 stems of 1.5, 4 , 3 ,2 ,2 .",D5SHPR-2,"10 stems of 1.5, 4 , 3 ,2 ,2 .",NA,NA,NA,NA
+1426,Thuja occidentalis,NA,Estimated,Yes,5  stems of ~7cm/meter. 20m long hedge.,D2SPPR-2,5  stems of ~7cm/meter. 20m long hedge.,20,5,7,NA
+1427,Thuja occidentalis,NA,Estimated,Yes,3 stems of ~8cm/ meter. 10m hedge total.,D2SPPR-2,3 stems of ~8cm/ meter. 10m hedge total.,10,3,8,NA
+1428,Metasequoia glyptostroboides,28,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1429,Metasequoia glyptostroboides,20,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1430,Chamaecyparis nootkatensis,15,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1431,Picea pungens,8,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1432,Chamaecyparis nootkatensis,25,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1433,Thuja occidentalis,10,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1434,Thuja occidentalis,NA,Estimated,No,"8,10",D2SPPR-2,"8,10",NA,NA,NA,NA
+1435,Unknown,10,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1436,Thuja occidentalis,NA,Estimated,Yes,10 stems of ~6cm /m.  20 meter long hedge.,D2SPPR-2,10 stems of ~6cm /m.  20 meter long hedge.,20,10,6,NA
+1437,Acer palmatum,14,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1438,Acer palmatum,NA,Estimated,No,"7,6,6",D2SPPR-2,"7,6,6",NA,NA,NA,NA
+1439,Acer spp.,23,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1440,Betula papyrifera,10,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1441,Betula papyrifera,25,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1442,Acer palmatum,17,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1443,Acer palmatum,NA,Estimated,No,"12,10,10",D2SPPR-2,"12,10,10",NA,NA,NA,NA
+1444,Tsuga canadensis,14,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1445,Tsuga canadensis,10,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1446,Metasequoia glyptostroboides,40,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1447,Unknown,NA,Estimated,No,7 stems of 4,D2SPPR-2,7 stems of 4,NA,NA,NA,NA
+1448,Unknown,NA,Estimated,No,7 stems of 4,D2SPPR-2,7 stems of 4,NA,NA,NA,NA
+1449,Betula papyrifera,40,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1450,Thuja occidentalis,NA,Estimated,Yes,22m hedge. 6 stems 8cm/m,D2SPPR-2,22m hedge. 6 stems 8cm/m,22,6,8,NA
+1451,Gleditsia triacanthos,40,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1452,Acer saccharinum,50,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1453,Syringa vulgaris,8,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1454,Thuja occidentalis,NA,Estimated,No,"5,3",D2SPPR-2,"5,3",NA,NA,NA,NA
+1455,Syringa spp.,NA,Estimated,No,"3,3,3,3,5,2,4",D2SPPR-2,"3,3,3,3,5,2,4",NA,NA,NA,NA
+1456,Thuja occidentalis,5,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1457,Picea pungens,23,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1458,NA,NA,Estimated,Yes,"25m hedge,  6stems of ~8cm/m",D2SPPR-2,"25m hedge,  6stems of ~8cm/m",25,6,8,NA
+1459,Acer platanoides,45,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1460,Thuja occidentalis,5,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1461,Hydrangea spp.,6,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1462,Acer palmatum,10,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1463,Unknown,NA,Estimated,No,"5,5,5",D2SPPR-2,"5,5,5",NA,NA,NA,NA
+1464,Quercus spp.,15,NA,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1465,Ostrya virginiana,19.5,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1466,Acer saccharum,77.6,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1467,Thuja occidentalis,NA,Estimated,No,4 stems of ~6.5/m.  18m total.,D2SPPR-2,4 stems of ~6.5/m.  18m total.,NA,NA,NA,NA
+1468,Rhamnus cathartica,2,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1469,Magnolia spp.,NA,Measured,No,"7,7,9.4,14.7",D2SPPR-2,"7,7,9.4,14.7",NA,NA,NA,NA
+1470,Thuja occidentalis,NA,Estimated,Yes,15m hedge with ~4stems of 9cm/m,D2SPPR-2,15m hedge with ~4stems of 9cm/m,15,4,9,NA
+1471,Syringa spp.,NA,Estimated,No,"5,5,6,6",D2SPPR-2,"5,5,6,6",NA,NA,NA,NA
+1472,Hydrangea spp.,8,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1473,Thuja occidentalis,NA,Estimated,No,"10,4,4",D2SPPR-2,"10,4,4",NA,NA,NA,NA
+1474,Thuja occidentalis,10,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1475,Thuja occidentalis,NA,Estimated,No,"6,8,8",D2SPPR-2,"6,8,8",NA,NA,NA,NA
+1476,Picea rubens,37.5,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1477,Hydrangea paniculata,NA,Estimated,No,7 stems of ~1.5,D2SPPR-2,7 stems of ~1.5,NA,NA,NA,NA
+1478,Unknown,NA,Estimated,No,15 stems if 2cm,D2SPPR-2,15 stems if 2cm,NA,NA,NA,NA
+1479,Gleditsia triacanthos,3,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1480,Picea pungens,68,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1481,Hydrangea paniculata,5,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1482,Betula papyrifera,36,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1483,Hydrangea paniculata,6,Estimated,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+1484,Morus spp.,30,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1485,Hydrangea paniculata,6,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1486,Unknown,NA,Estimated,No,"4,2,2,3",D2SPPR-1,"4,2,2,3",NA,NA,NA,NA
+1487,Acer platanoides,30,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1488,Thuja occidentalis,NA,Estimated,No,4 stems of 7.5cm /m.  30 m total,D2SPPR-1,4 stems of 7.5cm /m.  30 m total,NA,NA,NA,NA
+1489,Malus spp.,21.5,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1490,Hydrangea spp.,4,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1491,Hydrangea spp.,3.5,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1492,Metasequoia glyptostroboides,NA,Estimated,No,"3.5,3",D2SPPR-1,"3.5,3",NA,NA,NA,NA
+1493,Unknown2,19.1,Measured,No,"10-15cm leaves, wavy margins, teardrop shaped, evenly spaced parallel leaf veins",D2SPPR-1,"10-15cm leaves, wavy margins, teardrop shaped, evenly spaced parallel leaf veins",NA,NA,NA,NA
+1494,Thuja occidentalis,NA,Estimated,Yes,8 stems of 6cm. 26 meters total.,D2SPPR-1,8 stems of 6cm. 26 meters total.,26,8,6,NA
+1495,Thuja occidentalis,NA,Estimated,Yes,"4 stems of 8cm on average, 24 meters total",D2SPPR-1,"4 stems of 8cm on average, 24 meters total",24,4,8,NA
+1496,Acer saccharum,67.9,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1497,Syringa reticulata,22.1,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1498,Thuja occidentalis,NA,Estimated,No,"23,15,15",D2SPPR-1,"23,15,15",NA,NA,NA,NA
+1499,Thuja occidentalis,5,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1500,Thuja occidentalis,8,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1501,Carpinus caroliniana,5,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1502,Carpinus caroliniana,4.5,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1503,Acer nigrum,50,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1504,Hydrangea paniculata,10,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1505,Thuja occidentalis,6,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1506,Acer saccharinum,NA,Estimated,No,"65,65",D2SPPR-1,"65,65",NA,NA,NA,NA
+1507,Thuja occidentalis,8,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1508,Picea pungens,NA,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1509,Morus spp.,11.5,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1510,Thuja occidentalis,NA,Estimated,No,"4,8,2,4",D2SPPR-1,"4,8,2,4",NA,NA,NA,NA
+1511,Thuja occidentalis,NA,Estimated,No,"8,11,4,7",D2SPPR-1,"8,11,4,7",NA,NA,NA,NA
+1512,Prunus x cistena,NA,Measured,No,"3.5,3",D2SPPR-1,"3.5,3",NA,NA,NA,NA
+1513,Acer saccharinum,10,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1514,Thuja occidentalis,NA,Measured,No,2 stems of 16cm average x 3 trees.,D2SPPR-1,2 stems of 16cm average x 3 trees.,NA,NA,NA,NA
+1515,Prunus x cistena,NA,Estimated,No,13 stems of 1.5,D2SPPR-1,13 stems of 1.5,NA,NA,NA,NA
+1516,Malus spp.,29,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1517,Thuja occidentalis,NA,Estimated,No,"6,6,6,5,2,3,4,5",D2SPPR-1,"6,6,6,5,2,3,4,5",NA,NA,NA,NA
+1518,Thuja occidentalis,NA,Measured,No,"3.5,5.5,7,4,12.3,14.7",D2SPPR-1,"3.5,5.5,7,4,12.3,14.7",NA,NA,NA,NA
+1519,Acer negundo,2,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1520,Thuja occidentalis,NA,Estimated,No,"10,5,14,5,2 2,2,2,4,2",D2SPPR-1,"10,5,14,5,2 2,2,2,4,2",NA,NA,NA,NA
+1521,Thuja occidentalis,NA,Estimated,No,"12,3,3,8",D2SPPR-1,"12,3,3,8",NA,NA,NA,NA
+1522,Picea spp.,43.6,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1523,Celtis occidentalis,7,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1524,Thuja occidentalis,NA,Estimated,Yes,9 stems of ~4cm/m.  12 M total,D2SPPR-1,9 stems of ~4cm/m.  12 M total,12,9,4,NA
+1525,Acer saccharum,NA,Estimated,No,"35,35",D2SPPR-1,"35,35",NA,NA,NA,NA
+1526,Ginkgo biloba,6,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1527,Picea pungens,40,Estimated,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1528,Malus spp.,13.1,Measured,No,NA,D2SPPR-1,NA,NA,NA,NA,NA
+1529,Thuja occidentalis,NA,Estimated,No,4 stems of 5cm on ave × 4m,D2SPPR-1,4 stems of 5cm on ave × 4m,NA,NA,NA,NA
+1530,Thuja occidentalis,NA,Estimated,No,10m hedge. 5stems of ~5.2 cm on Ave.,D2SPPR-1,10m hedge. 5stems of ~5.2 cm on Ave.,NA,NA,NA,NA
+1531,Thuja occidentalis,NA,Estimated,Yes,28m hedge. 6 stems 8cm/m,D2SPPR-2,28m hedge. 6 stems 8cm/m,28,6,8,NA
+1532,Acer ginnala,NA,Estimated,No,"8,7,6,4,4,3",D4SPPR-2,"8,7,6,4,4,3",NA,NA,NA,NA
+1533,Lonicera tatarica,NA,Estimated,No,"3,1,1,1.",D4SPPR-2,"3,1,1,1.",NA,NA,NA,NA
+1534,Lonicera spp.,NA,Estimated,No,10 stems of 2cm,D4SPPR-2,10 stems of 2cm,NA,NA,NA,NA
+1535,Acer platanoides,30,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1536,Thuja occidentalis,5,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1537,Thuja occidentalis,4,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1538,Syringa vulgaris,NA,Estimated,No,"5,4,2.5,3,4,2",D4SPPR-2,"5,4,2.5,3,4,2",NA,NA,NA,NA
+1539,Tsuga spp.,3,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1540,Tsuga spp.,NA,Estimated,No,"2,1,1",D4SPPR-2,"2,1,1",NA,NA,NA,NA
+1541,Prunus cerasus,8,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1542,Thuja occidentalis,4,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1543,Thuja occidentalis,4,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1544,Acer palmatum,4,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1545,Thuja occidentalis,3,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1546,Thuja occidentalis,3,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1547,Dead standing,20,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1548,Tilia americana,45.3,Measured,No,From Kayleigh's data,D4SPPR-2,From Kayleigh's data,NA,NA,NA,NA
+1549,Quercus rubra,78.2,Measured,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1550,Thuja occidentalis,4,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1551,Prunus virginiana,12,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1552,Philadelphus coranarius,NA,Estimated,No,50 stems of 2cm on average,D4SPPR-2,50 stems of 2cm on average,NA,NA,NA,NA
+1553,Thuja occidentalis,NA,Estimated,Yes,6m hedge w/ ~ 8 stems of 4cm/m,D4SPPR-2,6m hedge w/ ~ 8 stems of 4cm/m,6,8,4,NA
+1554,Philadelphus coranarius,NA,Estimated,No,20 stems of 2cm,D4SPPR-2,20 stems of 2cm,NA,NA,NA,NA
+1555,Philadelphus coranarius,NA,Estimated,No,20 stems of 2cm,D4SPPR-2,20 stems of 2cm,NA,NA,NA,NA
+1556,Philadelphus coranarius,NA,Estimated,No,10 stems of 3cm,D4SPPR-2,10 stems of 3cm,NA,NA,NA,NA
+1557,Philadelphus coranarius,NA,Estimated,No,10 stems of 1cm,D4SPPR-2,10 stems of 1cm,NA,NA,NA,NA
+1558,Weigela spp.,NA,Estimated,No,"2,2,2,2",D4SPPR-2,"2,2,2,2",NA,NA,NA,NA
+1559,Celtis occidentalis,13,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1560,Rhamnus cathartica,4,Measured,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1561,Acer platanoides,38.9,Measured,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1562,Syringa meyeri,5,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1563,Sambucus spp.,NA,Estimated,No,"3,2,2,1",D4SPPR-2,"3,2,2,1",NA,NA,NA,NA
+1564,Syringa reticulata,NA,Estimated,No,"3,3,2,2,1,1,1,1",D4SPPR-2,"3,3,2,2,1,1,1,1",NA,NA,NA,NA
+1565,Pinus flexilis,6,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1566,Cotinus coggygria,NA,Estimated,No,"2,2 2",D4SPPR-2,"2,2 2",NA,NA,NA,NA
+1567,Physocarpus opulifolius,NA,Estimated,No,"3,3,3,2,2,2",D4SPPR-2,"3,3,3,2,2,2",NA,NA,NA,NA
+1568,Physocarpus opulifolius,NA,Estimated,No,"2, 1,1,1,1,1,1",D4SPPR-2,"2, 1,1,1,1,1,1",NA,NA,NA,NA
+1569,Prunus spp.,5,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1570,Cotinus coggygria,1,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1571,Syringa vulgaris,NA,Estimated,No,"10,10,5,5,5,5,5,5,5,5,3,3,3,1,1,1,1,1",D4SPPR-2,"10,10,5,5,5,5,5,5,5,5,3,3,3,1,1,1,1,1",NA,NA,NA,NA
+1572,Acer saccharinum,114,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1573,Acer saccharinum,82.6,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1574,Syringa vulgaris,NA,Estimated,No,"10,7,4,4,6.5,5.5,6,5,5",D4SPPR-2,"10,7,4,4,6.5,5.5,6,5,5",NA,NA,NA,NA
+1575,Gleditsia triacanthos,31,Measured,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1576,Syringa vulgaris,NA,Estimated,No,"3,2",D4SPPR-2,"3,2",NA,NA,NA,NA
+1577,Thuja occidentalis,NA,Estimated,No,"8,5,4,4,5,3.5,2,2",D4SPPR-2,"8,5,4,4,5,3.5,2,2",NA,NA,NA,NA
+1578,Syringa vulgaris,NA,Estimated,No,"3,3,2,2,2,2,2,1,1,1,1,1",D4SPPR-2,"3,3,2,2,2,2,2,1,1,1,1,1",NA,NA,NA,NA
+1579,Acer palmatum,NA,Estimated,No,"8,8",D4SPPR-2,"8,8",NA,NA,NA,NA
+1580,Thuja occidentalis,NA,Estimated,No,"4,3 4",D4SPPR-2,"4,3 4",NA,NA,NA,NA
+1581,Thuja occidentalis,NA,Estimated,No,4,D4SPPR-2,4,NA,NA,NA,NA
+1582,Thuja occidentalis,5,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1583,Thuja occidentalis,NA,Estimated,No,"4,3",D4SPPR-2,"4,3",NA,NA,NA,NA
+1584,Syringa vulgaris,NA,Estimated,No,"3.5,4,2,2,4,5,3.5,3.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1",D4SPPR-1,"3.5,4,2,2,4,5,3.5,3.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1",NA,NA,NA,NA
+1585,Syringa vulgaris,NA,Estimated,No,"4,4,2.5,3,3,3,3,3,2,2,2,2,2,2,3.5, 30 stems × 0.5",D4SPPR-1,"4,4,2.5,3,3,3,3,3,2,2,2,2,2,2,3.5, 30 stems × 0.5",NA,NA,NA,NA
+1586,Syringa vulgaris,NA,Estimated,No,"3,2,1",D4SPPR-1,"3,2,1",NA,NA,NA,NA
+1587,Syringa vulgaris,NA,Estimated,No,"4.5,8.5,6,6.5,9",D4SPPR-1,"4.5,8.5,6,6.5,9",NA,NA,NA,NA
+1588,Acer saccharinum,NA,Estimated,No,"35,40,38,30",D4SPPR-1,"35,40,38,30",NA,NA,NA,NA
+1589,Tilia americana,45,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1590,Betula papyrifera,NA,Estimated,No,"10,30",D4SPPR-1,"10,30",NA,NA,NA,NA
+1591,Ulmus americana,10,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1592,Acer saccharum,45,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1593,Acer saccharum,15,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1594,Acer saccharinum,NA,Estimated,No,"35,35,38",D4SPPR-1,"35,35,38",NA,NA,NA,NA
+1595,Acer x freemanii,NA,Estimated,No,"20,22,12",D4SPPR-1,"20,22,12",NA,NA,NA,NA
+1596,Acer negundo,NA,Estimated,No,"10,10,28",D4SPPR-1,"10,10,28",NA,NA,NA,NA
+1597,Celtis occidentalis,4,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1598,Ulmus americana,65,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1599,Ulmus americana,4,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1600,Dead standing,18,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1601,Celtis occidentalis,12,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1602,Acer platanoides,4,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1603,Acer platanoides,11.9,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1604,Acer platanoides,2,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1605,Acer negundo,NA,Estimated,No,"58,2,4,3.5,5,4",D4SPPR-1,"58,2,4,3.5,5,4",NA,NA,NA,NA
+1606,Fraxinus pennsylvanica,4,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1607,Acer negundo,NA,Estimated,No,"29, 18",D4SPPR-1,"29, 18",NA,NA,NA,NA
+1608,Acer negundo,42.3,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1609,Unknown,15,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1610,Unknown,8,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1611,Acer platanoides,4,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1612,Unknown,10,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1613,Acer platanoides,40,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1614,Malus spp.,10,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1615,Pinus spp.,10,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1616,Thuja occidentalis,10,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1617,Thuja occidentalis,5,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1618,Unknown,13,Estimated,No,Neprun bark,D4SPPR-1,Neprun bark,NA,NA,NA,NA
+1619,Unknown conifer,13,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1620,Syringa vulgaris,NA,Estimated,No,"5,2.5,2,3,3,3,3,2,1,1,1,1,1,1,1",D4SPPR-1,"5,2.5,2,3,3,3,3,2,1,1,1,1,1,1,1",NA,NA,NA,NA
+1621,Rhamnus cathartica,NA,Estimated,No,"2,2",D4SPPR-1,"2,2",NA,NA,NA,NA
+1622,Syringa reticulata,NA,Estimated,No,"3,4,4",D4SPPR-1,"3,4,4",NA,NA,NA,NA
+1623,Thuja occidentalis,5,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1624,Ulmus pumila,28.5,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1625,Acer negundo,NA,Measured,No,"21,15.7, 13.6, 3",D4SPPR-1,"21,15.7, 13.6, 3",NA,NA,NA,NA
+1626,Ulmus pumila,44,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1627,Acer negundo,2,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1628,Acer negundo,4,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1629,Prunus virginiana,2.5,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1630,Tilia cordata,25.8,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1631,Dead standing,3.5,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1632,Dead standing,NA,Measured,No,"7.5,3",D4SPPR-1,"7.5,3",NA,NA,NA,NA
+1633,Acer negundo,6,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1634,Acer platanoides,6,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1635,Tilia americana,11.9,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1636,Acer negundo,NA,Estimated,No,"2,2,2,2,5,1,4,3,2,4, 1,1",D4SPPR-1,"2,2,2,2,5,1,4,3,2,4, 1,1",NA,NA,NA,NA
+1637,Acer negundo,NA,Estimated,No,"2.5,3.5, 3,2,2.5,1.5,2.5,2.5,3.5",D4SPPR-1,"2.5,3.5, 3,2,2.5,1.5,2.5,2.5,3.5",NA,NA,NA,NA
+1638,Malus spp.,11.8,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1639,Fraxinus pennsylvanica,3.5,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1640,Acer platanoides,1,Estimated,No,X 4 trees,D4SPPR-1,X 4 trees,NA,NA,NA,NA
+1641,Acer negundo,1,Estimated,No,X2 trees,D4SPPR-1,X2 trees,NA,NA,NA,NA
+1642,Acer platanoides,1,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1643,Acer negundo,2.5,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1644,Picea rubens,5,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1645,Acer platanoides,NA,Estimated,No,"2,2,2",D4SPPR-1,"2,2,2",NA,NA,NA,NA
+1646,Hydrangea paniculata,5,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1647,Syringa reticulata,6,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1648,Acer platanoides,2,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1649,Acer negundo,1.5,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1650,Acer negundo,1.5,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1651,Ulmus pumila,1,Estimated,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1652,Acer saccharinum,20.9,Measured,No,NA,D4SPPR-1,NA,NA,NA,NA,NA
+1653,Acer saccharinum,41,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1654,Acer saccharinum,12,Estimated,No,NA,D4SPPR-2,NA,NA,NA,NA,NA
+1655,Thuja occidentalis,NA,Estimated,Yes,21m hedge. 1m has ~5stems of 7cm / m,D2SHPR-2,21m hedge. 1m has ~5stems of 7cm / m,21,5,7,NA
+1656,Lonicera spp.,NA,Estimated,Yes,18m hedge with ~ 7stems of 5cm /m,D2SHPR-2,18m hedge with ~ 7stems of 5cm /m,18,7,5,NA
+1657,Acer platanoides,4,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1658,Dead standing,3,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1659,Rhamnus cathartica,7,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1660,Rhamnus cathartica,4,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1661,Rhamnus cathartica,5,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1662,Morus alba,5.5,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1663,Morus alba,8,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1664,Acer platanoides,7,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1665,Ulmus americana,89.9,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1666,Celtis occidentalis,3,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1667,Betula papyrifera,27.2,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1668,Thuja occidentalis,2.5,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1669,Thuja occidentalis,NA,Measured,No,"4.5, 3",D2SHPR-2,"4.5, 3",NA,NA,NA,NA
+1670,Thuja occidentalis,4,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1671,Thuja occidentalis,3.5,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1672,Thuja occidentalis,4,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1673,Rhamnus cathartica,2,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1674,Lonicera spp.,NA,Estimated,No,"8,4,4,3,4,2.5,2.5",D2SHPR-2,"8,4,4,3,4,2.5,2.5",NA,NA,NA,NA
+1675,Lonicera spp.,NA,Estimated,No,"3.5,2,4,3,3,5",D2SHPR-2,"3.5,2,4,3,3,5",NA,NA,NA,NA
+1676,Lonicera spp.,NA,Estimated,No,"7,4,6,2,2,2,2,2,2,2,3",D2SHPR-2,"7,4,6,2,2,2,2,2,2,2,3",NA,NA,NA,NA
+1677,Lonicera spp.,3,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1678,Lonicera spp.,NA,Estimated,No,"12,4,4,3,2,5,7,4.5,4.5,2.5,1,1",D2SHPR-2,"12,4,4,3,2,5,7,4.5,4.5,2.5,1,1",NA,NA,NA,NA
+1679,Lonicera spp.,NA,Estimated,No,"7,7,2,2,12",D2SHPR-2,"7,7,2,2,12",NA,NA,NA,NA
+1680,Celtis occidentalis,10,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1681,Lonicera spp.,5.5,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1682,Lonicera spp.,12,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1683,Lonicera spp.,NA,Estimated,No,"6,3,3,2.5,2.5,2,2.5",D2SHPR-2,"6,3,3,2.5,2.5,2,2.5",NA,NA,NA,NA
+1684,Rhamnus cathartica,4.5,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1685,Lonicera spp.,NA,Estimated,No,"5,4,4,3.5,2,3,2,5",D2SHPR-2,"5,4,4,3.5,2,3,2,5",NA,NA,NA,NA
+1686,Thuja occidentalis,NA,Estimated,No,26m hedge of ~4stems of 9cm /m,D2SHPR-2,26m hedge of ~4stems of 9cm /m,NA,NA,NA,NA
+1687,Dead standing,48.1,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1688,Thuja occidentalis,NA,Estimated,No,10m hedge of ~4 stems of 7.5cm/m,D2SHPR-2,10m hedge of ~4 stems of 7.5cm/m,NA,NA,NA,NA
+1689,Picea glauca,51.7,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1690,Reynoutria japonica,NA,Estimated,No,"2,2,1,1,1,2,1,2,2,2,3",D2SHPR-2,"2,2,1,1,1,2,1,2,2,2,3",NA,NA,NA,NA
+1691,Thuja occidentalis,NA,Measured,No,"4,4,6",D2SHPR-2,"4,4,6",NA,NA,NA,NA
+1692,Thuja occidentalis,NA,Measured,No,"3,2",D2SHPR-2,"3,2",NA,NA,NA,NA
+1693,Thuja occidentalis,NA,Measured,No,"5.5,5.5,2.5",D2SHPR-2,"5.5,5.5,2.5",NA,NA,NA,NA
+1694,Thuja occidentalis,NA,Measured,No,21m hedge of ~6 stems of 9.3cm/m,D2SHPR-2,21m hedge of ~6 stems of 9.3cm/m,NA,NA,NA,NA
+1695,Dead standing,1.5,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1696,Picea spp.,43.3,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1697,Picea spp.,43.2,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1698,Picea spp.,43.5,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1699,Acer platanoides,10,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1700,Thuja occidentalis,NA,Estimated,No,"13,12,11,22",D2SHPR-2,"13,12,11,22",NA,NA,NA,NA
+1701,Thuja occidentalis,12,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1702,Thuja occidentalis,28,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1703,Thuja occidentalis,13,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1704,Thuja occidentalis,12,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1705,Thuja occidentalis,15,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1706,Thuja occidentalis,16,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1707,Thuja occidentalis,11,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1708,Thuja occidentalis,15,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1709,Acer platanoides,NA,Estimated,No,"3, 2,2,2",D2SHPR-2,"3, 2,2,2",NA,NA,NA,NA
+1710,Rhamnus cathartica,1.5,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1711,Dead standing,2,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1712,Dead standing,5,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1713,Dead standing,2.5,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1714,Dead standing,12,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1715,Rhamnus cathartica,2,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1716,Thuja occidentalis,9.6,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1717,Thuja occidentalis,NA,Measured,No,"7,8,6.5,3,4,3",D2SHPR-2,"7,8,6.5,3,4,3",NA,NA,NA,NA
+1718,Thuja occidentalis,NA,Measured,No,"39.9,44",D2SHPR-2,"39.9,44",NA,NA,NA,NA
+1719,Taxus baccata,NA,Estimated,No,"11,10,6,6,2.5",D2SHPR-2,"11,10,6,6,2.5",NA,NA,NA,NA
+1720,Malus spp.,42.9,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1721,Malus spp.,41.8,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1722,Crataegus submollis,NA,Measured,No,"12.7,18.5, 5.5",D2SHPR-2,"12.7,18.5, 5.5",NA,NA,NA,NA
+1723,Quercus robur,39,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1724,Ginkgo biloba,17,Measured,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1725,Ulmus americana,NA,Estimated,No,"6,6,6,6,6",D2SHPR-2,"6,6,6,6,6",NA,NA,NA,NA
+1726,Acer platanoides,72,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1727,Acer platanoides,18,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1728,Unknown,NA,Estimated,No,"5,5",D2SHPR-2,"5,5",NA,NA,NA,NA
+1729,Thuja occidentalis,8,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1730,Thuja occidentalis,8,Estimated,No,NA,D2SHPR-2,NA,NA,NA,NA,NA
+1731,Quercus rubra,74.5,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1732,Acer rubrum,50,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1733,Thuja occidentalis,5,Estimated,No,X 16 trees,D2SHPR-1,X 16 trees,NA,NA,NA,NA
+1734,Pinus spp.,68,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1735,Acer spp.,40,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1736,Lonicera spp.,7,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1737,Malus/prunus,11,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1738,Pinus strobus,60.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1739,Pinus strobus,54.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1740,Picea glauca,37.2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1741,Gleditsia triacanthos,7,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1742,Lonicera spp.,NA,Estimated,No,"5,4,2.5, 1,1,1,1,1,1,1",D2SHPR-1,"5,4,2.5, 1,1,1,1,1,1,1",NA,NA,NA,NA
+1743,Rhamnus cathartica,2,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1744,Sorbus aucuparia,4,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1745,Sorbus aucuparia,6.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1746,Sorbus aucuparia,4.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1747,Acer platanoides,7,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1748,Tilia cordata,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1749,Tilia cordata,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1750,Dead standing,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1751,Acer platanoides,5.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1752,Sorbus aucuparia,14.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1753,Prunus spp.,7,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1754,Sorbus aucuparia,5.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1755,Sorbus aucuparia,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1756,Prunus virginiana,4,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1757,Rhamnus cathartica,1,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1758,Acer negundo,NA,Measured,No,"1,1,1",D2SHPR-1,"1,1,1",NA,NA,NA,NA
+1759,Dead standing,3.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1760,Acer negundo,5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1761,Acer platanoides,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1762,Prunus virginiana,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1763,Acer platanoides,6,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1764,Syringa vulgaris,NA,Measured,No,10 stems of 1 on average,D2SHPR-1,10 stems of 1 on average,NA,NA,NA,NA
+1765,Viburnum opulus,NA,Measured,No,"3,2,1,1",D2SHPR-1,"3,2,1,1",NA,NA,NA,NA
+1766,Malus spp.,NA,Measured,No,"2,2",D2SHPR-1,"2,2",NA,NA,NA,NA
+1767,Malus spp.,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1768,Acer platanoides,54.7,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1769,Thuja occidentalis,8,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1770,Frangula alnus,NA,Measured,No,"4,3,3",D2SHPR-1,"4,3,3",NA,NA,NA,NA
+1771,Ulmus americana,5.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1772,Malus spp.,3,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1773,Ulmus americana,3.5,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1774,Abies balsamea,3,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1775,Dead standing,4,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1776,Acer platanoides,7,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1777,Rhamnus cathartica,NA,Estimated,No,"2,2.5",D2SHPR-1,"2,2.5",NA,NA,NA,NA
+1778,Rhamnus cathartica,NA,Estimated,No,"2,1,2,2,2",D2SHPR-1,"2,1,2,2,2",NA,NA,NA,NA
+1779,Acer platanoides,12,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1780,Acer platanoides,4,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1781,Amelanchier grandiflora,NA,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1782,Rhamnus cathartica,1,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1783,Rhamnus cathartica,2,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1784,Rhamnus cathartica,NA,Estimated,No,"4,3,3,2,2,2,3",D2SHPR-1,"4,3,3,2,2,2,3",NA,NA,NA,NA
+1785,Acer platanoides,3,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1786,Acer platanoides,6,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1787,Rhamnus cathartica,5,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1788,Acer platanoides,11,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1789,Acer platanoides,13,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1790,Acer platanoides,15,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1791,Pinus resinosa,54,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1792,Rhamnus cathartica,4,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1793,Dead standing,30,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1794,Rhamnus cathartica,NA,Estimated,No,"3,2",D2SHPR-1,"3,2",NA,NA,NA,NA
+1795,Rhamnus cathartica,1.5,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1796,Acer platanoides,2,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1797,Acer platanoides,10,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1798,Rhamnus cathartica,5,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1799,Rhamnus cathartica,NA,Estimated,No,"2,3,4,5",D2SHPR-1,"2,3,4,5",NA,NA,NA,NA
+1800,Rhamnus cathartica,NA,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1801,Ulmus pumila,2,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1802,Thuja occidentalis,NA,Estimated,No,"12m hedges, 1 stem of 10cm / m",D2SHPR-1,"12m hedges, 1 stem of 10cm / m",NA,NA,NA,NA
+1803,Thuja occidentalis,6,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1804,Thuja occidentalis,6,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1805,Thuja occidentalis,6,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1806,Thuja occidentalis,10,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1807,Thuja occidentalis,14,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1808,Acer palmatum,NA,Estimated,No,"3,3,4,4,2,2,4",D2SHPR-1,"3,3,4,4,2,2,4",NA,NA,NA,NA
+1809,Picea pungens,48,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1810,Picea pungens,12,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1811,Picea pungens,12,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1812,Thuja occidentalis,NA,Measured,No,"27.4,13.8,13.3,26,31.1",D2SHPR-1,"27.4,13.8,13.3,26,31.1",NA,NA,NA,NA
+1813,Ulmus pumila,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1814,Rhamnus cathartica,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1815,Ulmus americana,2.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1816,Hydrangea paniculata,14,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1817,Acer tataricum subsp. ginnala,NA,Measured,No,"1,1,1,1,1,1,1,1,1",D2SHPR-1,"1,1,1,1,1,1,1,1,1",NA,NA,NA,NA
+1818,Acer tataricum subsp. ginnala,2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1819,Acer tataricum subsp. ginnala,1,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1820,Acer negundo,NA,Estimated,No,"2,2,2,2,2,2,2,2,2,2,2,2",D2SHPR-1,"2,2,2,2,2,2,2,2,2,2,2,2",NA,NA,NA,NA
+1821,Acer tataricum subsp. ginnala,2.5,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1822,Acer tataricum subsp. ginnala,2.5,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1823,Acer negundo,NA,Estimated,No,"1,1,2,2,1,1,1,2.5",D2SHPR-1,"1,1,2,2,1,1,1,2.5",NA,NA,NA,NA
+1824,Rhamnus cathartica,1,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1825,Acer tataricum subsp. ginnala,NA,Measured,No,"2,2",D2SHPR-1,"2,2",NA,NA,NA,NA
+1826,Acer platanoides,1,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1827,Acer rubrum,43.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1828,Acer rubrum,49.1,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1829,Acer rubrum,51.4,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1830,Acer x freemanii,10.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1831,Acer x freemanii,8,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1832,Prunus serotina,22,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1833,Acer x freemanii,14.6,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1834,Quercus rubra,16.3,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1835,Juniperus spp.,9,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1836,Juniperus spp.,11,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1837,Juniperus spp.,NA,Estimated,No,"10,6",D2SHPR-1,"10,6",NA,NA,NA,NA
+1838,Lonicera spp.,NA,Estimated,No,"2,2,2,1,1",D2SHPR-1,"2,2,2,1,1",NA,NA,NA,NA
+1839,Prunus serotina,16.2,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1840,Quercus rubra,35,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1841,Acer platanoides,36.9,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1842,Acer saccharinum,71,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1843,Acer negundo,266,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1844,Acer saccharinum,111.5,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1845,Salix spp.,14,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1846,Unknown,70,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1847,Thuja occidentalis,9.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1848,Thuja occidentalis,NA,Estimated,No,"3,2.5,2,2,3",D2SHPR-1,"3,2.5,2,2,3",NA,NA,NA,NA
+1849,Thuja occidentalis,9.5,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1850,Thuja occidentalis,7,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1851,Thuja occidentalis,NA,Estimated,No,"7,2",D2SHPR-1,"7,2",NA,NA,NA,NA
+1852,Thuja occidentalis,7,Estimated,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1853,Quercus rubra,88.5,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1854,Prunus serotina,NA,Measured,No,"20.6,10.2,25.8",D2SHPR-1,"20.6,10.2,25.8",NA,NA,NA,NA
+1855,Thuja occidentalis,NA,Estimated,No,14 trees x 7cm each,D2SHPR-1,14 trees x 7cm each,NA,NA,NA,NA
+1856,Thuja occidentalis,NA,Measured,No,"12.5,9.3",D2SHPR-1,"12.5,9.3",NA,NA,NA,NA
+1857,Thuja occidentalis,14,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1858,Thuja occidentalis,16,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1859,Acer rubrum,49.3,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1860,Thuja occidentalis,14.3,Measured,No,NA,D2SHPR-1,NA,NA,NA,NA,NA
+1861,Ulmus pumila,22,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1862,Ulmus pumila,25,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1863,Ulmus americana,5,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1864,Ulmus americana,12,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1865,Picea glauca,44,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1866,Picea glauca,42,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1867,Acer negundo,NA,Estimated,No,"10,10,8",D4SHPR-2,"10,10,8",NA,NA,NA,NA
+1868,Pyrus spp.,15,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1869,Acer saccharinum,90,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1870,Ulmus rubra,10,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1871,Ulmus rubra,NA,Estimated,No,"10,6",D4SHPR-2,"10,6",NA,NA,NA,NA
+1872,Ulmus rubra,5,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1873,Acer saccharinum,200,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1874,Acer platanoides,7,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1875,Acer platanoides,NA,Estimated,No,"3,6.2",D4SHPR-2,"3,6.2",NA,NA,NA,NA
+1876,Acer platanoides,NA,Estimated,No,"4,2,2.5",D4SHPR-2,"4,2,2.5",NA,NA,NA,NA
+1877,Syringa vulgaris,NA,Estimated,No,"3,4,6",D4SHPR-2,"3,4,6",NA,NA,NA,NA
+1878,Syringa vulgaris,NA,Estimated,No,"3,2",D4SHPR-2,"3,2",NA,NA,NA,NA
+1879,Prunus virginiana,12,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+1880,Acer palmatum,NA,Estimated,No,"10,10",D3SHPR-2,"10,10",NA,NA,NA,NA
+1881,Thuja occidentalis,5,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1882,Acer platanoides,15,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1883,Thuja occidentalis,NA,Estimated,Yes,12.4m hedge. 4 stems of 5.5cm/m,D3SHPR-2,12.4m hedge. 4 stems of 5.5cm/m,12.4,4,5.5,NA
+1884,Acer negundo,10,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1885,Unknown fruit tree,NA,Estimated,No,"7,5,4,4",D3SHPR-2,"7,5,4,4",NA,NA,NA,NA
+1886,Hydrangea paniculata,NA,Estimated,No,"4,4",D3SHPR-2,"4,4",NA,NA,NA,NA
+1887,Acer negundo,20,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1888,Tilia cordata,52,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1889,Acer palmatum,NA,Measured,No,"5.5,4.5,3,2,2,2,2,3,3,2,2",D3SHPR-2,"5.5,4.5,3,2,2,2,2,3,3,2,2",NA,NA,NA,NA
+1890,Thuja occidentalis,3,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1891,Ginkgo biloba,10,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1892,Picea glauca,20.9,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1893,Acer negundo,15.1,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1894,Magnolia spp.,15.9,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1895,Tilia cordata,53.27,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1896,Tilia cordata,55.6,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1897,Picea abies,49.6,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1898,Morus alba,15.9,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1899,Prunus spp.,7.5,Measured,No,2026/08/13,D3SHPR-2,2026/08/13,NA,NA,NA,NA
+1900,Thuja occidentalis,NA,Measured,No,"7,4",D3SHPR-2,"7,4",NA,NA,NA,NA
+1901,Thuja occidentalis,10,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1902,Thuja occidentalis,13,Measured,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1903,Thuja occidentalis,10,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1904,Thuja occidentalis,NA,Estimated,No,11 stems of 3cm / m,D3SHPR-2,11 stems of 3cm / m,NA,NA,NA,NA
+1905,Thuja occidentalis,NA,Estimated,No,11.6 M hedge 6 stems of 3cm /m,D3SHPR-2,11.6 M hedge 6 stems of 3cm /m,NA,NA,NA,NA
+1906,Acer negundo,45,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1907,Prunus virginiana,3,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1908,Rosa rugosa,NA,Estimated,No,13 stems of ~3cm,D3SHPR-2,13 stems of ~3cm,NA,NA,NA,NA
+1909,Thuja occidentalis,NA,Estimated,No,17m hedge with 11 stems of 3.5cm/m on average,D3SHPR-2,17m hedge with 11 stems of 3.5cm/m on average,NA,NA,NA,NA
+1910,Hydrangea paniculata,4,Estimated,No,NA,D3SHPR-2,NA,NA,NA,NA,NA
+1911,Thuja occidentalis,NA,Estimated,Yes,2.5m hedge with ~4stems of 3cm,D5SHPR-1,2.5m hedge with ~4stems of 3cm,2.5,4,3,NA
+1912,Acer negundo,7.5,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1913,Malus spp.,18.8,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1914,Acer platanoides,13.2,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1915,Fraxinus spp.,2.5,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1916,Syringa vulgaris,NA,Measured,No,"6.5,5.5",D5SHPR-1,"6.5,5.5",NA,NA,NA,NA
+1917,Syringa vulgaris,NA,Measured,No,"2,2,2,1,2,1,1,1,1,2,3,0.5,0.5,0.5,0.5",D5SHPR-1,"2,2,2,1,2,1,1,1,1,2,3,0.5,0.5,0.5,0.5",NA,NA,NA,NA
+1918,Aesculus hippocastanum,NA,Estimated,No,"15,14",D5SHPR-1,"15,14",NA,NA,NA,NA
+1919,Acer saccharinum,93.9,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1920,Acer negundo,NA,Measured,No,"3.5,1.5",D5SHPR-1,"3.5,1.5",NA,NA,NA,NA
+1921,Fraxinus pennsylvanica,4.5,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1922,Acer saccharinum,NA,Measured,No,"9.5,3,2.5,9,4,8.5,2",D5SHPR-1,"9.5,3,2.5,9,4,8.5,2",NA,NA,NA,NA
+1923,Rhus typhina,NA,Estimated,No,"4,3",D5SHPR-1,"4,3",NA,NA,NA,NA
+1924,Thuja occidentalis,2,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1925,Thuja occidentalis,2,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1926,Thuja occidentalis,2,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1927,Malus spp.,NA,Measured,No,"12.9,7.5,7,4.5,3",D5SHPR-1,"12.9,7.5,7,4.5,3",NA,NA,NA,NA
+1928,Picea abies,38,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1929,Acer negundo,7,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1930,Dead standing,10,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1931,Dead standing,NA,Estimated,No,"5.5,4.5,5.5",D5SHPR-1,"5.5,4.5,5.5",NA,NA,NA,NA
+1932,Acer negundo,4.5,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1933,Acer platanoides,3.5,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1934,Fraxinus pennsylvanica,8,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1935,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1936,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1937,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1938,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1939,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1940,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1941,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1942,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1943,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1944,Acer saccharinum,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1945,Acer negundo,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1946,Acer negundo,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1947,Acer negundo,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1948,Acer negundo,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1949,Acer negundo,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1950,Acer negundo,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1951,Ulmus pumila,3.5,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1952,Fraxinus pennsylvanica,3,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1953,Fraxinus pennsylvanica,NA,Estimated,No,"30,30",D5SHPR-1,"30,30",NA,NA,NA,NA
+1954,Syringa reticulata,18,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1955,Acer palmatum,NA,Measured,No,"4,2.5,4.5,5.5,2.5,4,3.5",D5SHPR-1,"4,2.5,4.5,5.5,2.5,4,3.5",NA,NA,NA,NA
+1956,Malus prunifolia,30,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1957,Cotinus spp.,NA,Estimated,No,"5,5,6",D5SHPR-1,"5,5,6",NA,NA,NA,NA
+1958,Syringa vulgaris,NA,Estimated,No,"4,5,5,3,3,4,3,3,2,2,2",D5SHPR-1,"4,5,5,3,3,4,3,3,2,2,2",NA,NA,NA,NA
+1959,Carya spp.,14,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1960,Thuja occidentalis,NA,Estimated,Yes,4m hedge with 4 stems of 4 on average,D5SHPR-1,4m hedge with 4 stems of 4 on average,4,4,4,NA
+1961,Quercus macrocarpa,15,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1962,Taxus spp.,NA,Estimated,Yes,To verify. 6m with ~7 stems of 3cm,D5SHPR-1,To verify. 6m with ~7 stems of 3cm,6,7,3,NA
+1963,Thuja occidentalis,NA,Estimated,Yes,6m hege with 1 stem of 5cm /m,D5SHPR-1,6m hege with 1 stem of 5cm /m,6,1,5,NA
+1964,Salix spp.,NA,Estimated,No,"5 ,4,5,2,2,2,2,2",D5SHPR-1,"5 ,4,5,2,2,2,2,2",NA,NA,NA,NA
+1965,Syringa vulgaris,3.5,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1966,Aesculus glabra,20,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1967,Acer saccharinum,54.2,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1968,Syringa spp.,NA,Estimated,No,"6,5,4",D5SHPR-1,"6,5,4",NA,NA,NA,NA
+1969,Thuja occidentalis,NA,Measured,No,"7.5,3,8",D5SHPR-1,"7.5,3,8",NA,NA,NA,NA
+1970,Thuja occidentalis,NA,Measured,No,"2.5,8,7,2.5,1.5,1.5",D5SHPR-1,"2.5,8,7,2.5,1.5,1.5",NA,NA,NA,NA
+1971,Rhus typhina,4,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1972,Rhus typhina,8,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1973,Rhus typhina,4,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1974,Rhus typhina,4,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1975,Rhus typhina,4,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1976,Fraxinus pennsylvanica,2,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1977,Viburnum opulus,NA,Estimated,No,"2,3,3,2,3.5,3,2,4,3,4,4,2,3,4",D5SHPR-1,"2,3,3,2,3.5,3,2,4,3,4,4,2,3,4",NA,NA,NA,NA
+1978,Fraxinus pennsylvanica,52.1,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1979,Syringa meyeri,NA,Measured,No,"1,1,2,1.5",D5SHPR-1,"1,1,2,1.5",NA,NA,NA,NA
+1980,Syringa vulgaris,NA,Measured,No,"6,2,3.5,5.5,1.5,2,1.5",D5SHPR-1,"6,2,3.5,5.5,1.5,2,1.5",NA,NA,NA,NA
+1981,Rosa canina,NA,Estimated,No,16 stems of 1.5cm,D5SHPR-1,16 stems of 1.5cm,NA,NA,NA,NA
+1982,Syringa vulgaris,NA,Estimated,No,"4.5,3.5,4,6,2,4,2,4,6",D5SHPR-1,"4.5,3.5,4,6,2,4,2,4,6",NA,NA,NA,NA
+1983,Morus alba,9,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1984,Juniperus spp.,5,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1985,Spiraea spp.,NA,Estimated,No,40 stems of 1.5cm,D5SHPR-1,40 stems of 1.5cm,NA,NA,NA,NA
+1986,Spiraea spp.,NA,Estimated,No,35 stems of 1.5cm,D5SHPR-1,35 stems of 1.5cm,NA,NA,NA,NA
+1987,Magnolia spp.,NA,Estimated,No,"3.5, 3.5",D5SHPR-1,"3.5, 3.5",NA,NA,NA,NA
+1988,Thuja occidentalis,2,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1989,Thuja occidentalis,5,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1990,Syringa vulgaris,NA,Estimated,Yes,10 stems of 1cm/m. 7m total.,D5SHPR-1,10 stems of 1cm/m. 7m total.,7,10,1,NA
+1991,Acer platanoides,4,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1992,Prunus spp.,10,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+1993,Syringa spp.,NA,Estimated,No,"6,6",D5SHPR-1,"6,6",NA,NA,NA,NA
+1994,Cypress spp.,NA,Measured,No,"To verify. 14.9,15.7,8.5, 6, 4.5,4",D5SHPL-2,"To verify. 14.9,15.7,8.5, 6, 4.5,4",NA,NA,NA,NA
+1995,Gleditsia triacanthos,51.4,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+1996,Cornus sericea,NA,Estimated,No,1cm x 30 stems,D5SHPL-2,1cm x 30 stems,NA,NA,NA,NA
+1997,Cornus sericea,NA,Estimated,No,1cm x 17 stems,D5SHPL-2,1cm x 17 stems,NA,NA,NA,NA
+1998,Prunus virginiana,NA,Estimated,No,"1,1.5,1,1,1.5,2,1,0",D5SHPL-2,"1,1.5,1,1,1.5,2,1,0",NA,NA,NA,NA
+1999,Thuja occidentalis,NA,Estimated,No,"4.5,5.5,4.5,6,8,9,6,2.5",D5SHPL-2,"4.5,5.5,4.5,6,8,9,6,2.5",NA,NA,NA,NA
+2000,Euonymus alatus,NA,Estimated,No,20 stems of 2.5cm,D5SHPL-2,20 stems of 2.5cm,NA,NA,NA,NA
+2001,Pinus resinosa,14,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2002,Spiraea spp.,NA,Estimated,No,40 stems of 0.75cm,D5SHPL-2,40 stems of 0.75cm,NA,NA,NA,NA
+2003,Caragana spp.,NA,Estimated,No,"7stems x 2cm, 7 stems x 1cm, 3.5",D5SHPL-2,"7stems x 2cm, 7 stems x 1cm, 3.5",NA,NA,NA,NA
+2004,Syringa vulgaris,NA,Estimated,No,"2,2,2,2,2,2",D5SHPL-2,"2,2,2,2,2,2",NA,NA,NA,NA
+2005,Aesculus hippocastanum,55,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2006,Amelanchier spp.,4,Measured,No,To verify. 2026/08/18,D5SHPL-2,To verify. 2026/08/18,NA,NA,NA,NA
+2007,Caragana spp.,NA,Estimated,No,"6,3,2,1.5",D5SHPL-2,"6,3,2,1.5",NA,NA,NA,NA
+2008,Fraxinus pennsylvanica,6,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2009,Acer saccharinum,NA,Measured,No,"8,7",D5SHPL-2,"8,7",NA,NA,NA,NA
+2010,Acer saccharinum,3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2011,Dead standing,3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2012,Dead standing,3.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2013,Dead standing,3.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2014,Dead standing,3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2015,Fraxinus pennsylvanica,3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2016,Dead standing,4,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2017,Prunus virginiana,1.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2018,Acer saccharinum,9.9,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2019,Acer negundo,2.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2020,Acer negundo,2,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2021,Rhamnus cathartica,1.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2022,Acer negundo,NA,Measured,No,"2,2,2.5,3.5",D5SHPL-2,"2,2,2.5,3.5",NA,NA,NA,NA
+2023,Acer platanoides,1.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2024,Acer negundo,1.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2025,Acer negundo,2,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2026,Acer negundo,1,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2027,Acer negundo,3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2028,Acer negundo,NA,Measured,No,"4,2.5, 2, 2.5, 4,2",D5SHPL-2,"4,2.5, 2, 2.5, 4,2",NA,NA,NA,NA
+2029,Acer negundo,NA,Measured,No,"4,1.5",D5SHPL-2,"4,1.5",NA,NA,NA,NA
+2030,Prunus virginiana,3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2031,Acer negundo,NA,Measured,No,"3,4,7,2",D5SHPL-2,"3,4,7,2",NA,NA,NA,NA
+2032,Acer negundo,4,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2033,Ulmus rubra,NA,Measured,No,"8,7,5,3.5,6",D5SHPL-2,"8,7,5,3.5,6",NA,NA,NA,NA
+2034,Dead standing,2.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2035,Acer platanoides,1,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2036,Fraxinus pennsylvanica,NA,Measured,No,"2.5,1.5",D5SHPL-2,"2.5,1.5",NA,NA,NA,NA
+2037,Fraxinus pennsylvanica,2.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2038,Fraxinus pennsylvanica,1,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2039,Ulmus spp.,8.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2040,Acer platanoides,7,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2041,Acer negundo,6,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2042,Prunus virginiana,1.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2043,Acer platanoides,10.4,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2044,Acer platanoides,4,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2045,Dead standing,NA,Measured,No,"6,5,5",D5SHPL-2,"6,5,5",NA,NA,NA,NA
+2046,Fraxinus pennsylvanica,NA,Measured,No,19.5,D5SHPL-2,19.5,NA,NA,NA,NA
+2047,Syringa vulgaris,NA,Estimated,No,"7,5,10,3,3,5,6",D5SHPL-2,"7,5,10,3,3,5,6",NA,NA,NA,NA
+2048,Salix spp.,NA,Measured,No,"7,3.5,2,1.5,1.5",D5SHPL-2,"7,3.5,2,1.5,1.5",NA,NA,NA,NA
+2049,Cornus spp.,NA,Estimated,No,"2,1,1,1,1,1,1,1",D5SHPL-2,"2,1,1,1,1,1,1,1",NA,NA,NA,NA
+2050,Cotinus coggygria,NA,Measured,No,"11,7",D5SHPL-2,"11,7",NA,NA,NA,NA
+2051,Rhus typhina,2.5,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2052,Amelanchier canadensis,15.3,Measured,No,"4,4",D5SHPL-2,"4,4",NA,NA,NA,NA
+2053,Fraxinus pennsylvanica,23,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2054,Fraxinus pennsylvanica,NA,Estimated,No,"3.5,8,8,12",D5SHPL-2,"3.5,8,8,12",NA,NA,NA,NA
+2055,Acer negundo,21.2,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2056,Acer saccharinum,13.9,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2057,Acer negundo,5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2058,Syringa vulgaris,NA,Estimated,No,"2.5,2.5,6,8,4,3,2,3,6,4,2,4,7,7",D5SHPL-2,"2.5,2.5,6,8,4,3,2,3,6,4,2,4,7,7",NA,NA,NA,NA
+2059,Thuja occidentalis,NA,Measured,No,"8,9,10.5,10",D5SHPL-2,"8,9,10.5,10",NA,NA,NA,NA
+2060,Thuja occidentalis,NA,Estimated,No,"10,10,12,6",D5SHPL-2,"10,10,12,6",NA,NA,NA,NA
+2061,Hydrangea paniculata,NA,Estimated,No,"2,2,1,2.5,3,2,3",D5SHPL-2,"2,2,1,2.5,3,2,3",NA,NA,NA,NA
+2062,Acer platanoides,2,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2063,Prunus spp.,NA,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2064,Picea abies,42.3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2065,Syringa spp.,NA,Estimated,No,"2.5, 2.5,1.5, 1.5, 1.5, 1.5, 3,3,1,1",D5SHPL-2,"2.5, 2.5,1.5, 1.5, 1.5, 1.5, 3,3,1,1",NA,NA,NA,NA
+2066,Acer tataricum subsp. ginnala,NA,Estimated,No,"9.1, 11.9, 11.6",D5SHPL-2,"9.1, 11.9, 11.6",NA,NA,NA,NA
+2067,Syringa vulgaris,NA,Estimated,No,"4,2,2",D5SHPL-2,"4,2,2",NA,NA,NA,NA
+2068,Syringa vulgaris,NA,Estimated,No,"2,2,1.5",D5SHPL-2,"2,2,1.5",NA,NA,NA,NA
+2069,Malus spp.,14.7,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2070,Fraxinus spp.,8.2,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2071,Ulmus rubra,10.8,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2072,Acer platanoides,4.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2073,Acer saccharinum,NA,Measured,No,"6 , 1.5,4",D5SHPL-2,"6 , 1.5,4",NA,NA,NA,NA
+2074,Thuja occidentalis,5,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2075,Thuja occidentalis,5,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2076,Thuja occidentalis,5,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2077,Thuja occidentalis,5,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2078,Thuja occidentalis,5,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2079,Fraxinus pennsylvanica,36,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2080,Picea pungens,48,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2081,Thuja occidentalis,NA,Estimated,No,"7,7,10,10,12,9,8",D5SHPL-2,"7,7,10,10,12,9,8",NA,NA,NA,NA
+2082,Unknown,5,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2083,Thuja occidentalis,NA,Estimated,No,"5,3,4",D5SHPL-2,"5,3,4",NA,NA,NA,NA
+2084,Thuja occidentalis,NA,Estimated,No,5.5m hedge with ~3 stems of 3cm /m,D5SHPL-2,5.5m hedge with ~3 stems of 3cm /m,NA,NA,NA,NA
+2085,Syringa vulgaris,NA,Estimated,No,"2,2,2,2,2,2,2",D5SHPL-2,"2,2,2,2,2,2,2",NA,NA,NA,NA
+2086,Syringa vulgaris,NA,Estimated,No,"2,2,2,2,2",D5SHPL-2,"2,2,2,2,2",NA,NA,NA,NA
+2087,Syringa vulgaris,NA,Estimated,No,"2,2,2,2,2,2,2,2,2,2,2,2,1",D5SHPL-2,"2,2,2,2,2,2,2,2,2,2,2,2,1",NA,NA,NA,NA
+2088,Betula papyrifera,15,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2089,Acer saccharinum,30,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2090,Pinus spp.,2.5,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2091,Prunus virginiana,1,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2092,Rosa spp.,NA,Estimated,No,1.5cm x 15 stems,D5SHPL-2,1.5cm x 15 stems,NA,NA,NA,NA
+2093,Spiraea spp.,NA,Estimated,No,2026/08/18 verify. 1cm x 40 stems,D5SHPL-2,2026/08/18 verify. 1cm x 40 stems,NA,NA,NA,NA
+2094,Spiraea spp.,NA,Estimated,No,1cm x 25 stems,D5SHPL-2,1cm x 25 stems,NA,NA,NA,NA
+2095,Spiraea spp.,NA,Estimated,No,"2,2 2",D5SHPL-2,"2,2 2",NA,NA,NA,NA
+2096,Syringa vulgaris,NA,Estimated,No,"5,4,5",D5SHPL-2,"5,4,5",NA,NA,NA,NA
+2097,Syringa vulgaris,NA,Estimated,No,"4,2,2,3,3,2,1,4,2,2",D5SHPL-2,"4,2,2,3,3,2,1,4,2,2",NA,NA,NA,NA
+2098,Syringa vulgaris,NA,Estimated,No,"4,3,1,1,1,2,2",D5SHPL-2,"4,3,1,1,1,2,2",NA,NA,NA,NA
+2099,Thuja occidentalis,11,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2100,Amelanchier canadensis,NA,Measured,No,"8.5, 13.6, 11.4, 4,4, 2.5",D5SHPL-2,"8.5, 13.6, 11.4, 4,4, 2.5",NA,NA,NA,NA
+2101,Syringa vulgaris,NA,Estimated,No,"5 ,4,4,5,4,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2",D5SHPL-2,"5 ,4,4,5,4,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2",NA,NA,NA,NA
+2102,Rosa spp.,2,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2103,Thuja occidentalis,7,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2104,Euonymus alatus,NA,Estimated,No,"2,2,2,2,2,2,2,2,3,3 3,3,1,1,1 1,1,1,1,1",D5SHPL-2,"2,2,2,2,2,2,2,2,3,3 3,3,1,1,1 1,1,1,1,1",NA,NA,NA,NA
+2105,Acer negundo,12,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2106,Acer negundo,3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2107,Acer negundo,1.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2108,Acer negundo,1.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2109,Acer negundo,3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2110,Acer negundo,2.5,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2111,Acer negundo,3,Measured,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2112,Prunus spp.,8,Estimated,No,NA,D5SHPL-2,NA,NA,NA,NA,NA
+2113,Syringa vulgaris,NA,Estimated,No,"3,3,3,4,3,1,1,1,1",D4SHPR-2,"3,3,3,4,3,1,1,1,1",NA,NA,NA,NA
+2114,Syringa vulgaris,NA,Estimated,No,"5,2.5,2.5,2.5 ,2.5, 2.5,2.5",D4SHPR-2,"5,2.5,2.5,2.5 ,2.5, 2.5,2.5",NA,NA,NA,NA
+2115,Rhamnus cathartica,24,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2116,Morus alba,11,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2117,Thuja occidentalis,11,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2118,Thuja occidentalis,11,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2119,Acer platanoides,62,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2120,Thuja occidentalis,32.5,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2121,Hydrangea paniculata,NA,Estimated,No,15 stems of 2cm,D4SHPR-2,15 stems of 2cm,NA,NA,NA,NA
+2122,Malus spp.,68.2,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2123,Syringa vulgaris,NA,Measured,No,"7,14.4,10.2,5.7,4,2,3,1,1",D4SHPR-2,"7,14.4,10.2,5.7,4,2,3,1,1",NA,NA,NA,NA
+2124,Syringa vulgaris,NA,Estimated,No,"10,10,10,10,10,2,2,3,2,2,2,2,2,2,2,2",D4SHPR-2,"10,10,10,10,10,2,2,3,2,2,2,2,2,2,2,2",NA,NA,NA,NA
+2125,Syringa vulgaris,NA,Estimated,No,"3,2,2,2,2,2,2",D4SHPR-2,"3,2,2,2,2,2,2",NA,NA,NA,NA
+2126,Syringa vulgaris,NA,Estimated,No,"5,5,5,5,5,10,10,5",D4SHPR-2,"5,5,5,5,5,10,10,5",NA,NA,NA,NA
+2127,Ginkgo biloba,4,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2128,Unknown,4,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2129,Unknown,4,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2130,Gleditsia triacanthos,3,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2131,Amelanchier canadensis,9,Estimated,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2132,Amelanchier canadensis,10.3,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2133,Acer platanoides,34,Measured,No,NA,D4SHPR-2,NA,NA,NA,NA,NA
+2134,Betula papyrifera,37.9,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+2135,Rhus typhina,1.5,Measured,No,NA,D2SPPR-2,NA,NA,NA,NA,NA
+2136,Thuja occidentalis,NA,Measured,No,"30,33,20",D2SPPR-2,"30,33,20",NA,NA,NA,NA
+2137,Unknown,NA,Estimated,No,"13 stems of 2cm , verify species 2026/08/31 Amanda has pics",D2SPPR-2,"13 stems of 2cm , verify species 2026/08/31 Amanda has pics",NA,NA,NA,NA
+2138,Cotinus spp.,NA,Measured,No,"10.2,7.2,16.2,12,11",D5SHPR-1,"10.2,7.2,16.2,12,11",NA,NA,NA,NA
+2139,Magnolia spp.,NA,Measured,No,"5.5,5.5",D5SHPR-1,"5.5,5.5",NA,NA,NA,NA
+2140,Weigela spp.,NA,Estimated,No,25 stems of 1cm,D5SHPR-1,25 stems of 1cm,NA,NA,NA,NA
+2141,Taxus spp.,NA,Measured,No,"2026/09/14, 1.5,1.5,1,1.5,2,1.5,1.5,1.5,1.5,1,1,1",D5SHPR-1,"2026/09/14, 1.5,1.5,1,1.5,2,1.5,1.5,1.5,1.5,1,1,1",NA,NA,NA,NA
+2142,Syringa vulgaris,NA,Estimated,No,"7,5,5,1,1,1,1,1,1,1,1,1,1",D5SHPR-1,"7,5,5,1,1,1,1,1,1,1,1,1,1",NA,NA,NA,NA
+2143,Thuja occidentalis,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+2144,Thuja occidentalis,1,Estimated,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+2145,Hydrangea paniculata,2.5,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+2146,Pyrus spp.,1,Measured,No,NA,D5SHPR-1,NA,NA,NA,NA,NA
+2147,Nerium spp.,NA,Measured,No,"They bring it inside in the winter. 1.5,1.5,1.5,0.5,1",D5SHPR-1,"They bring it inside in the winter. 1.5,1.5,1.5,0.5,1",NA,NA,NA,NA
+2148,Prunus spp.,NA,Measured,No,"2,1.5",D5SHPR-1,"2,1.5",NA,NA,NA,NA
+2149,Acer platanoides,45,Measured,No,From Kayleigh's data,D4SPPR-2,From Kayleigh's data,NA,NA,NA,NA
+2150,Acer negundo,22.5,Measured,No,From Kayleigh's data,D4SPPR-2,From Kayleigh's data,NA,NA,NA,NA

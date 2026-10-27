@@ -3,6 +3,43 @@
 # Last modified: 2026-10-26
 # Data cleaning steps in OpenRefine
 
+# Useful resource: https://datacarpentry.github.io/OpenRefine-ecology-lesson/index.html
+
+# Filter for "Yes" in Hedge column
+
 # Changed Hedge column to "No" for rows that were accidentally marked as hedges (rows that don't need the hedge math)
 
-# Copying over hedge information from "Commnts" into appropriate columns (hedge_length_m, hedge_stems_per_m, hedge_avg_DBH_cm)
+# Copying over hedge information from "Commnts" into appropriate columns ("hedge_length_m", "hedge_stems_per_m", "hedge_avg_DBH_cm")
+
+# Removed hedge filter
+
+# Exported as: OR_output_hedges.csv in 03_outdata folder
+
+# Filtered for Commnts containing "x" (not case sensitive)
+
+# Context: Sometimes in the field, we would encounter a group of trees with similar DBH. In this case, I would record the average DBH of the trees in the "DBH_cm" column and the number of trees in the group in the "Comments". I want to replicate these entries by the number of trees in R. An entry with "x7" in the "Cmmnts" column should be replicated 7 times, as there were 7 trees with approximately the DBH value of that entry. To automate this, I need to have the number of times to replicate the entry in its own column.
+
+# I copied the number of times the entry should be replicated from the "Commnts" column to the "replicate_n" column (e.g., if "x7" was in the "Cmmnts", I would put "7" in the "replicate_n" column.
+
+# By filtering for "x", I also found entries for multistem trees with a high number of stems of similar DBH (e.g., "1cm x 17 stems" in the "Cmmnts" to speed up recording data while in the field). For comments like this, I used OpenRefine to write the DBH of each stem in the "DBH_multistem" column (e.g., "5,5,5,5,5,5,5") so that the multistem DBH calculation could be applied later in R.
+
+# Removed filter
+
+# Exported as: OR_output_replicates.csv in 03_outdata folder
+
+# Context: When I made my QField map, I made the DBH field numeric only, which did not allow us to enter commas to separate the DBH values of different stems. In order to calculate the overall DBH of trees in R, I need a column that has these comma-separated values. Before using OpenRefine, I duplicated the "Commnts" column and called it "DBH_multistem".
+
+# In OpenRefine: Filtered "Cmmnts" by "," to get all comments related to DBH values of multistem trees.
+
+# I deleted values in the "DBH_multistem" column that were not comma-separated DBH values. I preferred this approach over copying over DBH values from the "Commnts" column to minimize copy-pasting errors.
+
+# Also removed some spaces between numbers, but stopped doing that because I realized I can just do this in R. (e.g., edited "3, 3, 3" to "3,3,3" in the DBH_multistem column)
+
+# Also found comments like "5 stems of 2 cm" - changed these to "2,2,2,2,2" in the "DBH_multistem" column
+
+# Removed filter
+
+# Exported as: OR_output_multistem.csv in 03_outdata folder
+
+
+
