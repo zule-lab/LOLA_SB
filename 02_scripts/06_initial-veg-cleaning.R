@@ -459,17 +459,16 @@ mytrees.1$hedge_avg_DBH_cm <- NA
 mytrees.1$replicate_n <- NA
 
 # Save this new dataframe to work with in OpenRefine
-mytrees.1 %>% select(-geometry)
 # Code from: https://stackoverflow.com/questions/67203648/how-to-hide-remove-geometry-column
-sf::st_drop_geometry(data_all)
+mytrees.2 <- sf::st_drop_geometry(mytrees.1)
+mytrees.2 %>% str()
 
-write.csv(mytrees.1,"03_outdata/new_OR_input.csv")
+write.csv(mytrees.2,"03_outdata/new_OR_input.csv")
 
 # Check that it worked
 check <- as.data.frame(read.csv("03_outdata/new_OR_input.csv"))
 
 
-st_write(mytrees.1,"03_outdata/shapefiles/new_OR_input.shp", append = FALSE, delete_layer = TRUE)
 
 
 
