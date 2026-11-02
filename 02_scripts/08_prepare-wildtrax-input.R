@@ -14,7 +14,7 @@ library(tidyverse)
 library(dplyr)
 
 
-# 1. Summarize HawkEars results -------------------------------------------
+# 1. Wrangle HawkEars output -------------------------------------------
 
 # Get a list of all text files in the directory
 file_list <- list.files(path = "03_outdata/HawkEars_output_spring_bats", pattern = "\\.txt$", full.names = TRUE)
@@ -26,7 +26,11 @@ column_names <- c("Start (s)", "End (s)", "Common name")  # Adjust as per your f
 # make a list of species you want to extract data on. 
 
 species_list_df <- read.csv("01_rawdata/acoustic/species_list.csv", sep = "_") # Check with Barbara
-species_list <- c(species_list_df$Common.name)
+species_codes <- read.csv("01_rawdata/acoustic/species_codes_WT.csv")
+target_species_df <- left_join(species_list_df,species_codes,by=join_by(Common.name==common))
+target_list <- c(target_species_df$species)
+
+
 
 # Read and combine all files into one dataframe, adding the filename as a column
 # It will skip files that have no detections
@@ -46,7 +50,7 @@ all_HEdata <- lapply(file_list, function(file) {
   # Split the "Common name" column (3rd column) into two new columns based on the ";" separator
   # Create two new columns: "Common name part 1" and "Common name part 2"
   temp_data <- temp_data %>%
-    tidyr::separate("Common name", into = c("Common name", "Confidence"), sep = ";", extra = "merge", fill = "right")
+    tidyr::separate("Common name", into = c("Common.name", "Confidence"), sep = ";", extra = "merge", fill = "right")
   
   # Add the filename as a new column
   temp_data$filename <- basename(file)  # Extract just the file name (without path)
@@ -65,53 +69,50 @@ all_HEdata.1 <- all_HEdata %>%
   mutate(filename.sans.site=sub("^[^_]*_","",filename.sans.MTL)) %>% # removes everything before first underscore
   mutate(date=sub("_.*", "", filename.sans.site)) %>% # remove everything after underscore
   select(-c(filename.sans.site, filename.sans.MTL)) %>% 
-  mutate(date=as.Date(date))
-  # ##date formatting
-  # mutate(year=substr(datetime_software,1,4))%>% #this is based on the length of file names which is why I transformed first everything to standard 4 letter site names
-  # mutate(month=substr(datetime_software,5,6))%>%
-  # mutate(day=substr(datetime_software,7,8))%>%
-  # mutate(date=as.Date(paste0(year,"/",month,"/",day)))%>%
-  # mutate(rec_time=paste0(substr(datetime_software,10,11), ":", substr(datetime_software,12,13), ":", substr(datetime_software,14,15)))%>%
-  # mutate(recordingDate= paste0(date, " ", rec_time)) %>%
-  # dplyr::rename(startTime='Start (s)',end='End (s)',
-  #               common='Common name',confidence=Confidence)  %>%
-  # filter(common%in%species_list)
-
-# View the combined data with the filename column
-head(all_HEdata)
-
-#adding location codes (4 letter codes for each location, aka each individual ARU deployment) 
-#May not need this if you already named your ARU locations with 4 letter codes when deploying the devices
-
-#if not needed, just run this first line and skip the rest until the next #
-all_HEdata$location_code <- all_HEdata$location
+  mutate(date=as.Date(date, "%Y%m%d")) %>% 
+  filter(Common.name %in% target_list)
+  
+str(all_HEdata.1) # looks good!
 
 
-all_HEdata$location_code <- sub(pattern = "ANGELL", "ANWO", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "ANGRIGNON", "ANGR", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "ANJOU", "ANJO", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "FALAISE", "FALA", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "LIESSE", "BDLI-", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "MONTIGNY", "MONT", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "PRAIRIES", "PRAI", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "TECHNO", "TECH", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "THOMAS", "THOM", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "TIMBERLEA", "TIMB", all_HEdata$location_code)
-all_HEdata$location_code <- sub(pattern = "TIOHTIAKE", "TIOH", all_HEdata$location_code)
+# 2. Get SR per site ------------------------------------------------------
+
+# This part of the script comes from Barbara Frei 
+
+# get species list per location
+
+summary_counts_long <- all_HEdata.1 %>%
+  group_by(location, Common.name) %>%
+  summarise(Count = n(), .groups = 'drop') 
+
+# Species richness per site 
+
+all_HEdata.1 %>% group_by(location) %>% across(funs(n_distinct(.)))
+
+# Check this out:
+#https://stackoverflow.com/questions/30060924/r-summarize-unique-values-across-columns-based-on-values-from-one-column
 
 
-#make sure it worked
-head(all_HEdata)
-
-#creating a column only with general site name (greenspace name)
-#important for our analyses, but maybe not for yours
-
-all_HEdata <- all_HEdata %>%
-  mutate(site = substr(location_code, 1,4))
+# 3. Get species list per site --------------------------------------------
 
 
-#go back to our working directory
-setwd("C:/Users/MoralesA/Documents/My Repositories/Mtl_ARU")
+
+list_of_tables <- split(summary_counts_long, summary_counts_long$location2)
+
+setwd("C:/Users/FreiB/Documents/Analysis_Others/Siena_Blier")
+
+# Export using lapply
+lapply(names(list_of_tables), function(x) {
+  write.csv(list_of_tables[[x]], file = paste0(x, ".csv"), row.names = FALSE)
+})
+
+
+
+
+
+
+
+
 
 
 #### Get data from each site per year ####
