@@ -1,5 +1,5 @@
 # Date Created: 2026-10-30
-# Date last modified: 2026-10-30
+# Date last modified: 2026-11-02
 # Original script from Ana Morales, modified by Siena Blier
 
 ###############################################################################
@@ -28,10 +28,6 @@ column_names <- c("Start (s)", "End (s)", "Common name")  # Adjust as per your f
 species_list_df <- read.csv("01_rawdata/acoustic/species_list.csv", sep = "_") # Check with Barbara
 species_list <- c(species_list_df$Common.name)
 
-#temporarily set working directory to the folder with all hawkears txt files
-setwd("C:/Users/MoralesA/Documents/My Repositories/Mtl_ARU/HawkEars_raw")
-
-
 # Read and combine all files into one dataframe, adding the filename as a column
 # It will skip files that have no detections
 
@@ -57,19 +53,29 @@ all_HEdata <- lapply(file_list, function(file) {
   
   return(temp_data)
 }) %>%
-  bind_rows() %>%
-  mutate(location=sub("_.*", "", filename)) %>% #this substracts only the portion of the filename that comes before the underscore
-  mutate(datetime_software = sub("^[^_]*_", "", filename))  %>% #this substracts only the portion of the filename that comes after the underscore
-  ##date formatting
-  mutate(year=substr(datetime_software,1,4))%>% #this is based on the length of file names which is why I transformed first everything to standard 4 letter site names
-  mutate(month=substr(datetime_software,5,6))%>%
-  mutate(day=substr(datetime_software,7,8))%>%
-  mutate(date=as.Date(paste0(year,"/",month,"/",day)))%>%
-  mutate(rec_time=paste0(substr(datetime_software,10,11), ":", substr(datetime_software,12,13), ":", substr(datetime_software,14,15)))%>%
-  mutate(recordingDate= paste0(date, " ", rec_time)) %>%
-  dplyr::rename(startTime='Start (s)',end='End (s)',
-                common='Common name',confidence=Confidence)  %>%
-  filter(common%in%species_list)
+  bind_rows() 
+
+View(all_HEdata)
+
+# Extract site name from filename
+
+all_HEdata.1 <- all_HEdata %>% 
+  mutate(filename.sans.MTL=sub("MTL_", "", filename)) %>% # removes the first part of filename
+  mutate(location=sub("_.*", "", filename.sans.MTL)) %>%  #this substracts only the portion of the filename that comes before the underscore
+  mutate(filename.sans.site=sub("^[^_]*_","",filename.sans.MTL)) %>% # removes everything before first underscore
+  mutate(date=sub("_.*", "", filename.sans.site)) %>% # remove everything after underscore
+  select(-c(filename.sans.site, filename.sans.MTL)) %>% 
+  mutate(date=as.Date(date))
+  # ##date formatting
+  # mutate(year=substr(datetime_software,1,4))%>% #this is based on the length of file names which is why I transformed first everything to standard 4 letter site names
+  # mutate(month=substr(datetime_software,5,6))%>%
+  # mutate(day=substr(datetime_software,7,8))%>%
+  # mutate(date=as.Date(paste0(year,"/",month,"/",day)))%>%
+  # mutate(rec_time=paste0(substr(datetime_software,10,11), ":", substr(datetime_software,12,13), ":", substr(datetime_software,14,15)))%>%
+  # mutate(recordingDate= paste0(date, " ", rec_time)) %>%
+  # dplyr::rename(startTime='Start (s)',end='End (s)',
+  #               common='Common name',confidence=Confidence)  %>%
+  # filter(common%in%species_list)
 
 # View the combined data with the filename column
 head(all_HEdata)
