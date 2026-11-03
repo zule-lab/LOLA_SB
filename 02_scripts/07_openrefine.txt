@@ -1,6 +1,6 @@
 # Script by Siena
 # Created: 2026-10-26
-# Last modified: 2026-10-26
+# Last modified: 2026-11-03
 # Data cleaning steps in OpenRefine
 
 # Useful resource: https://datacarpentry.github.io/OpenRefine-ecology-lesson/index.html
@@ -41,5 +41,31 @@
 
 # Exported as: OR_output_multistem.csv in 03_outdata folder
 
+# Filtered for !NA (invert NA) in Commnts
 
+# Corrected/verified species based on what was written in Commnts column
+
+# Along the way, found other things like: 
+
+# Found a species that had "Dead standing" in Commnts > changed Species to "Dead standing"
+
+# Change row 405 Species from Salix babylonica to Salix spp.
+
+# Row 588 had "2*13" in "Cmmnts" >> added this to "DBH_multistem" column
+
+# Removed some leftover comments in DBH_multistem that aren't comma-separated DBH values
+
+# Checked for * in comments to see if other multistem trees with this notation > found no others
+
+# Filtered for !NA in DBH_multistem to remove all values in DBH_multistem that aren't comma-separated DBH values
+
+# Filtered for NA in DBH to make sure all hedges have their info in the right columns
+
+# Removed filter
+
+# Filtered for "Unknown" in "Species" column
+
+# Changed all variations of "Unknown" / "Unknown 1" / "Unknown 2" / "Unknown conifer" etc to "Unknown" in "Species" column if had no additional info in the Commnts to help with identification.
+
+# Exported as OR_output_validated-species_20261103.csv in 03_outdata folder
 
