@@ -83,6 +83,11 @@ str(all_HEdata.1) # looks good!
 
 # 2. Get SR per site ------------------------------------------------------
 
+# Quickly getting overall SR
+
+setdiff(target_list, all_HEdata.1$Common.name)
+# Output: [1] "BITH" "BWWA" NA     "AMGO" "DICK"
+
 # Species richness per site 
 
 spp_per_site <- all_HEdata.1 %>% 
