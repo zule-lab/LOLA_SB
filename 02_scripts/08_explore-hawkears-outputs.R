@@ -15,7 +15,34 @@ library(dplyr)
 library(ggplot2)
 
 
+# 1. Check output is as expected ------------------------------------------
+
+# Check what files don't have hawkears outputs
+
+hawkears.output.files <-list.files(path = "03_outdata/HawkEars_output", pattern = "\\.txt$", full.names = TRUE)
+str(hawkears.output.files)
+ames(hawkears.output.files) <- "filename"
+
+# Extract core file name
+hawkears.output.files$core.name <- sub("_scores.txt", "", hawkears.output.files$filename) %>% 
+  sub("03_outdata/HawkEars_output/","",.)
+
+# Get list of all files 
+
+setwd("H:\\acoustic-data\\2026\\MTL\\working-folder")
+audio.files <-list.files(pattern = ".wav$", full.names = FALSE, recursive=TRUE) %>% 
+  as.data.frame()
+names(audio.files) <- "filename"
+audio.files$core.name <- sub(".*/", "", audio.files$filename) %>% 
+  sub(".wav","", .)
+
+missing.files <- setdiff(audio.files$core.name,hawkears.output.files$core.name)
+
+nrow(audio.files) - nrow(hawkears.output.files)
+
+
 # 1. Wrangle HawkEars output -------------------------------------------
+
 
 # Get a list of all text files in the directory
 file_list_spring_bats <- list.files(path = "03_outdata/HawkEars_output_spring_bats", pattern = "\\.txt$", full.names = TRUE)
