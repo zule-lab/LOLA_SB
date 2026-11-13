@@ -69,3 +69,6 @@
 
 # Exported as OR_output_validated-species_20261103.csv in 03_outdata folder
 
+# After consulting with Amanda, updated some of the species that were unknown or for which the species was not yet verified. 
+
+# Exported as OR_output_validated-species_20261112.csv in 03_outdata folder
